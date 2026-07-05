@@ -33,7 +33,7 @@ upload:
   category_id: "27"
   made_for_kids: false
   channel: "whatif"
-  default_tags: ["shorts", "what if", "skenario", "andai kata", "fakta unik", "pengetahuan", "whatif"]
+  default_tags: ["what if", "skenario unik", "andai kata", "fakta unik", "pengetahuan", "whatif menarik", "imajinasi", "fakta sains"]
 
 comments:
   model: llama-3.1-8b-instant
