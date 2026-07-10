@@ -2,7 +2,8 @@
   "used_topics": [
     "what-if-tanpa-gravitasi",
     "what-if-bumi-habis-udara",
-    "what-if-dunia-dengan-dua-matahari"
+    "what-if-dunia-dengan-dua-matahari",
+    "what-if-kehidupan-tanpa-memori"
   ],
   "published": [
     {
@@ -27,6 +28,14 @@
       "title": "Apa Jika Bumi Memiliki Dua Matahari?",
       "path": "/home/runner/work/konten3/konten3/output/20260710_030305_what-if-dunia-dengan-dua-matahari/final.mp4",
       "video_id": "xg0zRsDcsHg",
+      "publish_at": null
+    },
+    {
+      "ts": "20260710_070301",
+      "topic": "what-if-kehidupan-tanpa-memori",
+      "title": "Dunia Tanpa Kenangan: Bagaimana Jika Manusia Tidak Bisa Mengingat Apa Pun?",
+      "path": "/home/runner/work/konten3/konten3/output/20260710_070301_what-if-kehidupan-tanpa-memori/final.mp4",
+      "video_id": "ErCkLr_Y9yg",
       "publish_at": null
     }
   ]
