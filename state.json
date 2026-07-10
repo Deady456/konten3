@@ -1,7 +1,8 @@
 {
   "used_topics": [
     "what-if-tanpa-gravitasi",
-    "what-if-bumi-habis-udara"
+    "what-if-bumi-habis-udara",
+    "what-if-dunia-dengan-dua-matahari"
   ],
   "published": [
     {
@@ -18,6 +19,14 @@
       "title": "Apa Jika Bumi Kehabisan Udara?",
       "path": "/home/runner/work/konten3/konten3/output/20260709_220229_what-if-bumi-habis-udara/final.mp4",
       "video_id": "UXNq7O9cnoU",
+      "publish_at": null
+    },
+    {
+      "ts": "20260710_030305",
+      "topic": "what-if-dunia-dengan-dua-matahari",
+      "title": "Apa Jika Bumi Memiliki Dua Matahari?",
+      "path": "/home/runner/work/konten3/konten3/output/20260710_030305_what-if-dunia-dengan-dua-matahari/final.mp4",
+      "video_id": "xg0zRsDcsHg",
       "publish_at": null
     }
   ]
