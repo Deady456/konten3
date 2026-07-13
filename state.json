@@ -12,7 +12,8 @@
     "what-if-dunia-dengan-kehidupan-paralel",
     "what-if-dunia-dengan-pergeseran-kontinental-cepat",
     "what-if-dunia-dengan-sistem-ekonomi-berbagi",
-    "what-if-dunia-dengan-kehidupan-simulasi-berulang"
+    "what-if-dunia-dengan-kehidupan-simulasi-berulang",
+    "what-if-dunia-dengan-evolusi-invers"
   ],
   "published": [
     {
@@ -118,7 +119,15 @@
       "path": "/home/runner/work/konten3/konten3/output/20260713_072202_what-if-dunia-dengan-kehidupan-simulasi-berulang/final.mp4",
       "video_id": "NX03JvGbFvk",
       "publish_at": null
+    },
+    {
+      "ts": "20260713_220216",
+      "topic": "what-if-dunia-dengan-evolusi-invers",
+      "title": "Apa Jika Evolusi Terjadi Terbalik?",
+      "path": "/home/runner/work/konten3/konten3/output/20260713_220216_what-if-dunia-dengan-evolusi-invers/final.mp4",
+      "video_id": "DCUSWrm9xK0",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 2
+  "_voice_idx": 3
 }
