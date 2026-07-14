@@ -13,7 +13,8 @@
     "what-if-dunia-dengan-pergeseran-kontinental-cepat",
     "what-if-dunia-dengan-sistem-ekonomi-berbagi",
     "what-if-dunia-dengan-kehidupan-simulasi-berulang",
-    "what-if-dunia-dengan-evolusi-invers"
+    "what-if-dunia-dengan-evolusi-invers",
+    "what-if-manusia-bisa-berbagi-pikiran"
   ],
   "published": [
     {
@@ -127,7 +128,15 @@
       "path": "/home/runner/work/konten3/konten3/output/20260713_220216_what-if-dunia-dengan-evolusi-invers/final.mp4",
       "video_id": "DCUSWrm9xK0",
       "publish_at": null
+    },
+    {
+      "ts": "20260714_060154",
+      "topic": "what-if-manusia-bisa-berbagi-pikiran",
+      "title": "Dunia dengan Telepati Masif: Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260714_060154_what-if-manusia-bisa-berbagi-pikiran/final.mp4",
+      "video_id": "EpAHvcoZvEg",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 3
+  "_voice_idx": 4
 }
