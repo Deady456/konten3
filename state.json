@@ -14,7 +14,8 @@
     "what-if-dunia-dengan-sistem-ekonomi-berbagi",
     "what-if-dunia-dengan-kehidupan-simulasi-berulang",
     "what-if-dunia-dengan-evolusi-invers",
-    "what-if-manusia-bisa-berbagi-pikiran"
+    "what-if-manusia-bisa-berbagi-pikiran",
+    "what-if-tanpa-konsep-waktu"
   ],
   "published": [
     {
@@ -136,7 +137,15 @@
       "path": "/home/runner/work/konten3/konten3/output/20260714_060154_what-if-manusia-bisa-berbagi-pikiran/final.mp4",
       "video_id": "EpAHvcoZvEg",
       "publish_at": null
+    },
+    {
+      "ts": "20260714_220232",
+      "topic": "what-if-tanpa-konsep-waktu",
+      "title": "Dunia Tanpa Konsep Waktu: Bagaimana Kehidupan Bisa Berjalan?",
+      "path": "/home/runner/work/konten3/konten3/output/20260714_220232_what-if-tanpa-konsep-waktu/final.mp4",
+      "video_id": "xSVHjagLGiM",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 4
+  "_voice_idx": 5
 }
