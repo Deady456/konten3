@@ -16,7 +16,8 @@
     "what-if-dunia-dengan-evolusi-invers",
     "what-if-manusia-bisa-berbagi-pikiran",
     "what-if-tanpa-konsep-waktu",
-    "what-if-dunia-dengan-bayangan-yang-berdiri-sendiri"
+    "what-if-dunia-dengan-bayangan-yang-berdiri-sendiri",
+    "what-if-dunia-dengan-kemampuan-regenerasi-total"
   ],
   "published": [
     {
@@ -154,7 +155,15 @@
       "path": "/home/runner/work/konten3/konten3/output/20260715_060228_what-if-dunia-dengan-bayangan-yang-berdiri-sendiri/final.mp4",
       "video_id": "PEfr9xQkJa8",
       "publish_at": null
+    },
+    {
+      "ts": "20260715_164845",
+      "topic": "what-if-dunia-dengan-kemampuan-regenerasi-total",
+      "title": "Dunia dengan Regenerasi Total: Mungkinkah?",
+      "path": "/home/runner/work/konten3/konten3/output/20260715_164845_what-if-dunia-dengan-kemampuan-regenerasi-total/final.mp4",
+      "video_id": "4i3MrGX9-wM",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 6
+  "_voice_idx": 7
 }
