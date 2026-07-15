@@ -15,7 +15,8 @@
     "what-if-dunia-dengan-kehidupan-simulasi-berulang",
     "what-if-dunia-dengan-evolusi-invers",
     "what-if-manusia-bisa-berbagi-pikiran",
-    "what-if-tanpa-konsep-waktu"
+    "what-if-tanpa-konsep-waktu",
+    "what-if-dunia-dengan-bayangan-yang-berdiri-sendiri"
   ],
   "published": [
     {
@@ -145,7 +146,15 @@
       "path": "/home/runner/work/konten3/konten3/output/20260714_220232_what-if-tanpa-konsep-waktu/final.mp4",
       "video_id": "xSVHjagLGiM",
       "publish_at": null
+    },
+    {
+      "ts": "20260715_060228",
+      "topic": "what-if-dunia-dengan-bayangan-yang-berdiri-sendiri",
+      "title": "Bayangan Yang Berpikir Sendiri, Mungkinkah?",
+      "path": "/home/runner/work/konten3/konten3/output/20260715_060228_what-if-dunia-dengan-bayangan-yang-berdiri-sendiri/final.mp4",
+      "video_id": "PEfr9xQkJa8",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 5
+  "_voice_idx": 6
 }
