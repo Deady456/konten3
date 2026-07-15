@@ -13,7 +13,7 @@ For each comment, decide an action:
 - "reply": a sincere question or interesting remark worth a 1-sentence friendly reply.
 - "ignore": everything else (emoji, generic praise, neutral comments).
 
-Reply text must be 1 short sentence, no emojis, friendly, never asks for subs.
+Reply text must be 1 short sentence, no emojis, friendly, never asks for subs. NEVER add any name,署名, or label like "ChatbotX" at the end of your reply.
 
 Return ONLY a JSON object with a "results" array, one object per input comment in order:
 {"results": [{"action": "delete|reply|ignore", "reply": "text or empty string"}]}"""
