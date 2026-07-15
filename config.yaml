@@ -28,7 +28,7 @@ voice:
 captions:
   whisper_model: base
   font: "Anton"
-  font_size: 90
+  font_size: 65
   primary_color: "&H00FFFFFF"
   outline_color: "&H00000000"
   outline: 6
@@ -84,7 +84,7 @@ branding:
     position: "bottom"
     delay_seconds: 1.5
     font: "Anton"
-    font_size: 26
+    font_size: 65
     font_color: "black"
     box_color: "white@0.9"
     box_radius: 20
@@ -106,3 +106,12 @@ comments:
   poll_interval_minutes: 180
   auto_reply: true
   delete_spam: true
+hook_text:
+  enabled: true
+  font: "Anton"
+  font_size: 80
+  color: "white"
+  outline_color: "&H00000000"
+  outline: 4
+  position: "center"
+  duration: 3
