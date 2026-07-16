@@ -18,7 +18,8 @@
     "what-if-tanpa-konsep-waktu",
     "what-if-dunia-dengan-bayangan-yang-berdiri-sendiri",
     "what-if-dunia-dengan-kemampuan-regenerasi-total",
-    "what-if-dunia-dengan-kehidupan-mikroba-superinteligent"
+    "what-if-dunia-dengan-kehidupan-mikroba-superinteligent",
+    "what-if-dunia-dengan-arsitektur-otak"
   ],
   "published": [
     {
@@ -172,7 +173,16 @@
       "path": "/home/runner/work/konten3/konten3/output/20260716_070158_what-if-dunia-dengan-kehidupan-mikroba-superinteligent/final.mp4",
       "video_id": "aV0dtNedOYw",
       "publish_at": null
+    },
+    {
+      "ts": "20260716_163742",
+      "topic": "what-if-dunia-dengan-arsitektur-otak",
+      "title": "Dunia Dengan Arsitektur Otak: bagaimana jika kota kita dirancang seperti otak manusia?",
+      "path": "/home/runner/work/konten3/konten3/output/20260716_163742_what-if-dunia-dengan-arsitektur-otak/final.mp4",
+      "video_id": "90lGI2VpBtw",
+      "publish_at": null,
+      "format": null
     }
   ],
-  "_voice_idx": 8
+  "_voice_idx": 9
 }
