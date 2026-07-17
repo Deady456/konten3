@@ -10,6 +10,7 @@ _key_idx = 0
 _client = OpenAI(api_key=LLM_API_KEYS[_key_idx], base_url=LLM_BASE_URL)
 
 def _call_llm(model, max_tokens, response_format, messages, retries=5):
+    global _key_idx, _client
     import requests
     
     if LLM_PROVIDER == "gemini":
@@ -27,8 +28,6 @@ def _call_llm(model, max_tokens, response_format, messages, retries=5):
         actual_model = "gemini-2.5-flash"
         
         # Try different API keys on rate limit
-        global _key_idx
-        
         for attempt in range(retries):
             try:
                 url = f"https://generativelanguage.googleapis.com/v1beta/models/{actual_model}:generateContent?key={LLM_API_KEYS[_key_idx]}"
@@ -73,7 +72,6 @@ def _call_llm(model, max_tokens, response_format, messages, retries=5):
                     raise Exception(f"Gemini API failed: {e}")
         raise Exception("Failed after retries")
     else:
-        global _client
         for attempt in range(retries):
             try:
                 return _client.chat.completions.create(
@@ -81,8 +79,6 @@ def _call_llm(model, max_tokens, response_format, messages, retries=5):
                     response_format=response_format, messages=messages,
                 )
             except RateLimitError as e:
-                global _key_idx
-                global _client
                 if _key_idx < len(LLM_API_KEYS) - 1:
                     _key_idx += 1
                     print(f"  Rate limited, switching to Groq key {_key_idx+1}/{len(LLM_API_KEYS)}")
