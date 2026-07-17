@@ -22,7 +22,8 @@
     "what-if-dunia-dengan-arsitektur-otak",
     "what-if-dunia-dengan-kenangan-kolektif",
     "what-if-dunia-dengan-kehidupan-sangat-lambat",
-    "what-if-dunia-dengan-efek-quantum-pada-kehidupan-sehari-hari"
+    "what-if-dunia-dengan-efek-quantum-pada-kehidupan-sehari-hari",
+    "what-if-dunia-dengan-resonansi-emosional"
   ],
   "published": [
     {
@@ -211,7 +212,15 @@
       "path": "/home/runner/work/konten3/konten3/output/20260717_183911_what-if-dunia-dengan-efek-quantum-pada-kehidupan-sehari-hari/final.mp4",
       "video_id": "0qkeion55V4",
       "publish_at": null
+    },
+    {
+      "ts": "20260717_190135",
+      "topic": "what-if-dunia-dengan-resonansi-emosional",
+      "title": "Dunia yang Terhubung dengan Resonansi Emosional",
+      "path": "/home/runner/work/konten3/konten3/output/20260717_190135_what-if-dunia-dengan-resonansi-emosional/final.mp4",
+      "video_id": "hFw4IWOeX6I",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 13
+  "_voice_idx": 15
 }
