@@ -21,7 +21,8 @@
     "what-if-dunia-dengan-kehidupan-mikroba-superinteligent",
     "what-if-dunia-dengan-arsitektur-otak",
     "what-if-dunia-dengan-kenangan-kolektif",
-    "what-if-dunia-dengan-kehidupan-sangat-lambat"
+    "what-if-dunia-dengan-kehidupan-sangat-lambat",
+    "what-if-dunia-dengan-efek-quantum-pada-kehidupan-sehari-hari"
   ],
   "published": [
     {
@@ -202,7 +203,15 @@
       "video_id": "9jB0jBOwUg8",
       "publish_at": null,
       "format": null
+    },
+    {
+      "ts": "20260717_183911",
+      "topic": "what-if-dunia-dengan-efek-quantum-pada-kehidupan-sehari-hari",
+      "title": "Dunia Di mana Partikel Bisa Berada Di Dua Tempat Sekaligus",
+      "path": "/home/runner/work/konten3/konten3/output/20260717_183911_what-if-dunia-dengan-efek-quantum-pada-kehidupan-sehari-hari/final.mp4",
+      "video_id": "0qkeion55V4",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 11
+  "_voice_idx": 13
 }
