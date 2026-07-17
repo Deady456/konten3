@@ -23,7 +23,8 @@
     "what-if-dunia-dengan-kenangan-kolektif",
     "what-if-dunia-dengan-kehidupan-sangat-lambat",
     "what-if-dunia-dengan-efek-quantum-pada-kehidupan-sehari-hari",
-    "what-if-dunia-dengan-resonansi-emosional"
+    "what-if-dunia-dengan-resonansi-emosional",
+    "what-if-dunia-dengan-kehidupan-berbasis-sonik"
   ],
   "published": [
     {
@@ -220,7 +221,16 @@
       "path": "/home/runner/work/konten3/konten3/output/20260717_190135_what-if-dunia-dengan-resonansi-emosional/final.mp4",
       "video_id": "hFw4IWOeX6I",
       "publish_at": null
+    },
+    {
+      "ts": "20260717_192848",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-sonik",
+      "title": "Apa Jika Kehidupan di Bumi Bergantung pada Gelombang Suara?",
+      "path": "/home/runner/work/konten3/konten3/output/20260717_192848_what-if-dunia-dengan-kehidupan-berbasis-sonik/final.mp4",
+      "video_id": "MS7tWXsQU9Q",
+      "publish_at": null,
+      "format": null
     }
   ],
-  "_voice_idx": 15
+  "_voice_idx": 16
 }
