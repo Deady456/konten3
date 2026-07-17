@@ -19,7 +19,9 @@
     "what-if-dunia-dengan-bayangan-yang-berdiri-sendiri",
     "what-if-dunia-dengan-kemampuan-regenerasi-total",
     "what-if-dunia-dengan-kehidupan-mikroba-superinteligent",
-    "what-if-dunia-dengan-arsitektur-otak"
+    "what-if-dunia-dengan-arsitektur-otak",
+    "what-if-dunia-dengan-kenangan-kolektif",
+    "what-if-dunia-dengan-kehidupan-sangat-lambat"
   ],
   "published": [
     {
@@ -182,7 +184,25 @@
       "video_id": "90lGI2VpBtw",
       "publish_at": null,
       "format": null
+    },
+    {
+      "ts": "20260717_030940",
+      "topic": "what-if-dunia-dengan-kenangan-kolektif",
+      "title": "Dunia Dengan Memori Bersama: Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260717_030940_what-if-dunia-dengan-kenangan-kolektif/final.mp4",
+      "video_id": "XU74zyY_Ag0",
+      "publish_at": null,
+      "format": null
+    },
+    {
+      "ts": "20260717_070229",
+      "topic": "what-if-dunia-dengan-kehidupan-sangat-lambat",
+      "title": "Bayangkan Dunia dengan Kehidupan 100 Kali Lebih Lambat",
+      "path": "/home/runner/work/konten3/konten3/output/20260717_070229_what-if-dunia-dengan-kehidupan-sangat-lambat/final.mp4",
+      "video_id": "9jB0jBOwUg8",
+      "publish_at": null,
+      "format": null
     }
   ],
-  "_voice_idx": 9
+  "_voice_idx": 11
 }
