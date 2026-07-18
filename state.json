@@ -27,7 +27,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-sonik",
     "what-if-dunia-dengan-kekacauan-entropi-nol",
     "what-if-dunia-dengan-kehidupan-sinkronisasi-universal",
-    "what-if-dunia-dengan-kehilangan-konsep-jarak"
+    "what-if-dunia-dengan-kehilangan-konsep-jarak",
+    "what-if-dunia-dengan-kehidupan-fraktal"
   ],
   "published": [
     {
@@ -263,7 +264,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260718_170833",
+      "topic": "what-if-dunia-dengan-kehidupan-fraktal",
+      "title": "Apa Jika Kehidupan di Bumi Memiliki Pola Fraktal?",
+      "path": "/home/runner/work/konten3/konten3/output/20260718_170833_what-if-dunia-dengan-kehidupan-fraktal/final.mp4",
+      "video_id": "eF9z-RpQUv0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 19
+  "_voice_idx": 20
 }
