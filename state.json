@@ -24,7 +24,8 @@
     "what-if-dunia-dengan-kehidupan-sangat-lambat",
     "what-if-dunia-dengan-efek-quantum-pada-kehidupan-sehari-hari",
     "what-if-dunia-dengan-resonansi-emosional",
-    "what-if-dunia-dengan-kehidupan-berbasis-sonik"
+    "what-if-dunia-dengan-kehidupan-berbasis-sonik",
+    "what-if-dunia-dengan-kekacauan-entropi-nol"
   ],
   "published": [
     {
@@ -230,7 +231,17 @@
       "video_id": "MS7tWXsQU9Q",
       "publish_at": null,
       "format": null
+    },
+    {
+      "ts": "20260718_015816",
+      "topic": "what-if-dunia-dengan-kekacauan-entropi-nol",
+      "title": "Dunia Tanpa Kekacauan: Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260718_015816_what-if-dunia-dengan-kekacauan-entropi-nol/final.mp4",
+      "video_id": "bBvNQWXYhLM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 16
+  "_voice_idx": 17
 }
