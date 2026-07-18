@@ -26,7 +26,8 @@
     "what-if-dunia-dengan-resonansi-emosional",
     "what-if-dunia-dengan-kehidupan-berbasis-sonik",
     "what-if-dunia-dengan-kekacauan-entropi-nol",
-    "what-if-dunia-dengan-kehidupan-sinkronisasi-universal"
+    "what-if-dunia-dengan-kehidupan-sinkronisasi-universal",
+    "what-if-dunia-dengan-kehilangan-konsep-jarak"
   ],
   "published": [
     {
@@ -252,7 +253,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260718_150507",
+      "topic": "what-if-dunia-dengan-kehilangan-konsep-jarak",
+      "title": "Dunia Tanpa Jarak: Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260718_150507_what-if-dunia-dengan-kehilangan-konsep-jarak/final.mp4",
+      "video_id": "Uk5tkczZJ-4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 18
+  "_voice_idx": 19
 }
