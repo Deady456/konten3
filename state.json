@@ -28,7 +28,8 @@
     "what-if-dunia-dengan-kekacauan-entropi-nol",
     "what-if-dunia-dengan-kehidupan-sinkronisasi-universal",
     "what-if-dunia-dengan-kehilangan-konsep-jarak",
-    "what-if-dunia-dengan-kehidupan-fraktal"
+    "what-if-dunia-dengan-kehidupan-fraktal",
+    "what-if-dunia-dengan-kehidupan-berbasis-bio-luminesen"
   ],
   "published": [
     {
@@ -274,7 +275,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260718_230315",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-bio-luminesen",
+      "title": "Dunia Tanpa Lampu: Bagaimana Jika Kehidupan Berbasis Bio-Luminesen?",
+      "path": "/home/runner/work/konten3/konten3/output/20260718_230315_what-if-dunia-dengan-kehidupan-berbasis-bio-luminesen/final.mp4",
+      "video_id": "vwCUbcd3CsU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 20
+  "_voice_idx": 21
 }
