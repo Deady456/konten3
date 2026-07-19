@@ -31,7 +31,8 @@
     "what-if-dunia-dengan-kehidupan-fraktal",
     "what-if-dunia-dengan-kehidupan-berbasis-bio-luminesen",
     "what-if-dunia-dengan-otak-kolektif",
-    "what-if-dunia-dengan-pertukaran-identitas-periodik"
+    "what-if-dunia-dengan-pertukaran-identitas-periodik",
+    "what-if-dunia-dengan-gejala-mandala-kosmik"
   ],
   "published": [
     {
@@ -305,7 +306,15 @@
       "path": "/home/runner/work/konten3/konten3/output/20260719_150820_what-if-dunia-dengan-pertukaran-identitas-periodik/final.mp4",
       "video_id": "g5mkyMZSS2o",
       "publish_at": null
+    },
+    {
+      "ts": "20260719_230727",
+      "topic": "what-if-dunia-dengan-gejala-mandala-kosmik",
+      "title": "Apa Jika Alam Semesta Berbentuk Mandala?",
+      "path": "/home/runner/work/konten3/konten3/output/20260719_230727_what-if-dunia-dengan-gejala-mandala-kosmik/final.mp4",
+      "video_id": "hI7DA5FEYBQ",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 24
+  "_voice_idx": 26
 }
