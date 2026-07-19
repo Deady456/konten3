@@ -29,7 +29,8 @@
     "what-if-dunia-dengan-kehidupan-sinkronisasi-universal",
     "what-if-dunia-dengan-kehilangan-konsep-jarak",
     "what-if-dunia-dengan-kehidupan-fraktal",
-    "what-if-dunia-dengan-kehidupan-berbasis-bio-luminesen"
+    "what-if-dunia-dengan-kehidupan-berbasis-bio-luminesen",
+    "what-if-dunia-dengan-otak-kolektif"
   ],
   "published": [
     {
@@ -285,7 +286,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260719_070306",
+      "topic": "what-if-dunia-dengan-otak-kolektif",
+      "title": "Dunia dengan Otak Kolektif: Mungkinkah?",
+      "path": "/home/runner/work/konten3/konten3/output/20260719_070306_what-if-dunia-dengan-otak-kolektif/final.mp4",
+      "video_id": "ZJkPOwQikqs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 21
+  "_voice_idx": 22
 }
