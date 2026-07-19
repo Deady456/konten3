@@ -30,7 +30,8 @@
     "what-if-dunia-dengan-kehilangan-konsep-jarak",
     "what-if-dunia-dengan-kehidupan-fraktal",
     "what-if-dunia-dengan-kehidupan-berbasis-bio-luminesen",
-    "what-if-dunia-dengan-otak-kolektif"
+    "what-if-dunia-dengan-otak-kolektif",
+    "what-if-dunia-dengan-pertukaran-identitas-periodik"
   ],
   "published": [
     {
@@ -296,7 +297,15 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260719_150820",
+      "topic": "what-if-dunia-dengan-pertukaran-identitas-periodik",
+      "title": "Apa Jika Identitas Manusia Bisa Ditukar Secara Berkala?",
+      "path": "/home/runner/work/konten3/konten3/output/20260719_150820_what-if-dunia-dengan-pertukaran-identitas-periodik/final.mp4",
+      "video_id": "g5mkyMZSS2o",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 22
+  "_voice_idx": 24
 }
