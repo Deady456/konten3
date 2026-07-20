@@ -34,7 +34,8 @@
     "what-if-dunia-dengan-pertukaran-identitas-periodik",
     "what-if-dunia-dengan-gejala-mandala-kosmik",
     "what-if-dunia-dengan-memori-kolektif-berbagi",
-    "what-if-dunia-dengan-siklus-hidup-terbalik-linear"
+    "what-if-dunia-dengan-siklus-hidup-terbalik-linear",
+    "what-if-dunia-dengan-keterhubungan-semesta"
   ],
   "published": [
     {
@@ -334,7 +335,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260720_230300",
+      "topic": "what-if-dunia-dengan-keterhubungan-semesta",
+      "title": "Apa Jika Semesta Terhubung Dalam Jaringan Raya?",
+      "path": "/home/runner/work/konten3/konten3/output/20260720_230300_what-if-dunia-dengan-keterhubungan-semesta/final.mp4",
+      "video_id": "XNXl_HH0exA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 29
+  "_voice_idx": 30
 }
