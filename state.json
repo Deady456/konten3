@@ -33,7 +33,8 @@
     "what-if-dunia-dengan-otak-kolektif",
     "what-if-dunia-dengan-pertukaran-identitas-periodik",
     "what-if-dunia-dengan-gejala-mandala-kosmik",
-    "what-if-dunia-dengan-memori-kolektif-berbagi"
+    "what-if-dunia-dengan-memori-kolektif-berbagi",
+    "what-if-dunia-dengan-siklus-hidup-terbalik-linear"
   ],
   "published": [
     {
@@ -323,7 +324,17 @@
       "path": "/home/runner/work/konten3/konten3/output/20260720_070505_what-if-dunia-dengan-memori-kolektif-berbagi/final.mp4",
       "video_id": "yLL8SjKezS8",
       "publish_at": null
+    },
+    {
+      "ts": "20260720_150357",
+      "topic": "what-if-dunia-dengan-siklus-hidup-terbalik-linear",
+      "title": "Dunia Dengan Siklus Hidup Terbalik, Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260720_150357_what-if-dunia-dengan-siklus-hidup-terbalik-linear/final.mp4",
+      "video_id": "DVjI77_MNLY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 28
+  "_voice_idx": 29
 }
