@@ -32,7 +32,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-bio-luminesen",
     "what-if-dunia-dengan-otak-kolektif",
     "what-if-dunia-dengan-pertukaran-identitas-periodik",
-    "what-if-dunia-dengan-gejala-mandala-kosmik"
+    "what-if-dunia-dengan-gejala-mandala-kosmik",
+    "what-if-dunia-dengan-memori-kolektif-berbagi"
   ],
   "published": [
     {
@@ -314,7 +315,15 @@
       "path": "/home/runner/work/konten3/konten3/output/20260719_230727_what-if-dunia-dengan-gejala-mandala-kosmik/final.mp4",
       "video_id": "hI7DA5FEYBQ",
       "publish_at": null
+    },
+    {
+      "ts": "20260720_070505",
+      "topic": "what-if-dunia-dengan-memori-kolektif-berbagi",
+      "title": "Dunia di Mana Kenangan Bersama Menjadi Kekuatan",
+      "path": "/home/runner/work/konten3/konten3/output/20260720_070505_what-if-dunia-dengan-memori-kolektif-berbagi/final.mp4",
+      "video_id": "yLL8SjKezS8",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 26
+  "_voice_idx": 28
 }
