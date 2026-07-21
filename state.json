@@ -36,7 +36,8 @@
     "what-if-dunia-dengan-memori-kolektif-berbagi",
     "what-if-dunia-dengan-siklus-hidup-terbalik-linear",
     "what-if-dunia-dengan-keterhubungan-semesta",
-    "what-if-dunia-dengan-konsep-waktu-berbeda-untuk-setiap-umur"
+    "what-if-dunia-dengan-konsep-waktu-berbeda-untuk-setiap-umur",
+    "what-if-dunia-dengan-teori-mind-uploading-utuh"
   ],
   "published": [
     {
@@ -356,7 +357,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260721_150345",
+      "topic": "what-if-dunia-dengan-teori-mind-uploading-utuh",
+      "title": "Apa Jika Kita Bisa Mengunggah Kesadaran ke Dunia Digital?",
+      "path": "/home/runner/work/konten3/konten3/output/20260721_150345_what-if-dunia-dengan-teori-mind-uploading-utuh/final.mp4",
+      "video_id": "JIiG7JKFtE4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 31
+  "_voice_idx": 32
 }
