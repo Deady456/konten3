@@ -37,7 +37,8 @@
     "what-if-dunia-dengan-siklus-hidup-terbalik-linear",
     "what-if-dunia-dengan-keterhubungan-semesta",
     "what-if-dunia-dengan-konsep-waktu-berbeda-untuk-setiap-umur",
-    "what-if-dunia-dengan-teori-mind-uploading-utuh"
+    "what-if-dunia-dengan-teori-mind-uploading-utuh",
+    "what-if-dunia-dengan-gejala-eko-psi"
   ],
   "published": [
     {
@@ -367,7 +368,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260721_230338",
+      "topic": "what-if-dunia-dengan-gejala-eko-psi",
+      "title": "Apa Jika Alam Bisa Membaca Pikiran Manusia?",
+      "path": "/home/runner/work/konten3/konten3/output/20260721_230338_what-if-dunia-dengan-gejala-eko-psi/final.mp4",
+      "video_id": "_f_NM0F6UL8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 32
+  "_voice_idx": 33
 }
