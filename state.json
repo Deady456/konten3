@@ -38,7 +38,8 @@
     "what-if-dunia-dengan-keterhubungan-semesta",
     "what-if-dunia-dengan-konsep-waktu-berbeda-untuk-setiap-umur",
     "what-if-dunia-dengan-teori-mind-uploading-utuh",
-    "what-if-dunia-dengan-gejala-eko-psi"
+    "what-if-dunia-dengan-gejala-eko-psi",
+    "what-if-dunia-dengan-kemampuan-manusia-merubah-bentuk-molekul"
   ],
   "published": [
     {
@@ -378,7 +379,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260722_070206",
+      "topic": "what-if-dunia-dengan-kemampuan-manusia-merubah-bentuk-molekul",
+      "title": "Apa Jika Manusia Bisa Mengubah Bentuk Molekul Sekitar?",
+      "path": "/home/runner/work/konten3/konten3/output/20260722_070206_what-if-dunia-dengan-kemampuan-manusia-merubah-bentuk-moleku/final.mp4",
+      "video_id": "4zWvr2mzVF8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 33
+  "_voice_idx": 34
 }
