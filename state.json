@@ -40,7 +40,8 @@
     "what-if-dunia-dengan-teori-mind-uploading-utuh",
     "what-if-dunia-dengan-gejala-eko-psi",
     "what-if-dunia-dengan-kemampuan-manusia-merubah-bentuk-molekul",
-    "what-if-dunia-dengan-kehidupan-pada-dimensi-paralel"
+    "what-if-dunia-dengan-kehidupan-pada-dimensi-paralel",
+    "what-if-dunia-dengan-hukum-fisika-terbalik-pada-malam-hari"
   ],
   "published": [
     {
@@ -400,7 +401,15 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260722_230701",
+      "topic": "what-if-dunia-dengan-hukum-fisika-terbalik-pada-malam-hari",
+      "title": "Apa Jika Hukum Fisika Berubah di Malam Hari?",
+      "path": "/home/runner/work/konten3/konten3/output/20260722_230701_what-if-dunia-dengan-hukum-fisika-terbalik-pada-malam-hari/final.mp4",
+      "video_id": "a8RqyqG5oBc",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 35
+  "_voice_idx": 37
 }
