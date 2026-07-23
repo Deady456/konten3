@@ -43,7 +43,8 @@
     "what-if-dunia-dengan-kehidupan-pada-dimensi-paralel",
     "what-if-dunia-dengan-hukum-fisika-terbalik-pada-malam-hari",
     "what-if-dunia-dengan-kehidupan-berbasis-energi-neuron",
-    "what-if-dunia-dengan-kehidupan-simulasi-realita-ganda"
+    "what-if-dunia-dengan-kehidupan-simulasi-realita-ganda",
+    "what-if-dunia-dengan-kehidupan-berbasis-kristal-kuantum"
   ],
   "published": [
     {
@@ -429,7 +430,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260723_230441",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-kristal-kuantum",
+      "title": "Bayi Lahir Dengan DNA Kristal, Apa Yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260723_230441_what-if-dunia-dengan-kehidupan-berbasis-kristal-kuantum/final.mp4",
+      "video_id": "l8R01lPk2HI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 40
+  "_voice_idx": 41
 }
