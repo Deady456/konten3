@@ -42,7 +42,8 @@
     "what-if-dunia-dengan-kemampuan-manusia-merubah-bentuk-molekul",
     "what-if-dunia-dengan-kehidupan-pada-dimensi-paralel",
     "what-if-dunia-dengan-hukum-fisika-terbalik-pada-malam-hari",
-    "what-if-dunia-dengan-kehidupan-berbasis-energi-neuron"
+    "what-if-dunia-dengan-kehidupan-berbasis-energi-neuron",
+    "what-if-dunia-dengan-kehidupan-simulasi-realita-ganda"
   ],
   "published": [
     {
@@ -418,7 +419,17 @@
       "path": "/home/runner/work/konten3/konten3/output/20260723_070643_what-if-dunia-dengan-kehidupan-berbasis-energi-neuron/final.mp4",
       "video_id": "btRnC4s5eO8",
       "publish_at": null
+    },
+    {
+      "ts": "20260723_150309",
+      "topic": "what-if-dunia-dengan-kehidupan-simulasi-realita-ganda",
+      "title": "Apa Jika Kita Hidup di Dua Realita Sekaligus?",
+      "path": "/home/runner/work/konten3/konten3/output/20260723_150309_what-if-dunia-dengan-kehidupan-simulasi-realita-ganda/final.mp4",
+      "video_id": "gRv9KYJJxok",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 39
+  "_voice_idx": 40
 }
