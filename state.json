@@ -45,7 +45,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-energi-neuron",
     "what-if-dunia-dengan-kehidupan-simulasi-realita-ganda",
     "what-if-dunia-dengan-kehidupan-berbasis-kristal-kuantum",
-    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-silika"
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-silika",
+    "what-if-dunia-dengan-evolusi-spesies-berbasis-suara"
   ],
   "published": [
     {
@@ -451,7 +452,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260724_150518",
+      "topic": "what-if-dunia-dengan-evolusi-spesies-berbasis-suara",
+      "title": "Dunia di Mana Suara Membentuk Evolusi Spesies",
+      "path": "/home/runner/work/konten3/konten3/output/20260724_150518_what-if-dunia-dengan-evolusi-spesies-berbasis-suara/final.mp4",
+      "video_id": "12So5ktf6_Q",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 42
+  "_voice_idx": 43
 }
