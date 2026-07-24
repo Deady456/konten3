@@ -46,7 +46,8 @@
     "what-if-dunia-dengan-kehidupan-simulasi-realita-ganda",
     "what-if-dunia-dengan-kehidupan-berbasis-kristal-kuantum",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-silika",
-    "what-if-dunia-dengan-evolusi-spesies-berbasis-suara"
+    "what-if-dunia-dengan-evolusi-spesies-berbasis-suara",
+    "what-if-dunia-dengan-kehidupan-berbasis-mimikri-kultural"
   ],
   "published": [
     {
@@ -462,7 +463,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260724_230356",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-mimikri-kultural",
+      "title": "Dunia di Mana Kita Meniru Semua, Bahkan Ingatan",
+      "path": "/home/runner/work/konten3/konten3/output/20260724_230356_what-if-dunia-dengan-kehidupan-berbasis-mimikri-kultural/final.mp4",
+      "video_id": "D0RuEVeEBkI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 43
+  "_voice_idx": 44
 }
