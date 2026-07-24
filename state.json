@@ -44,7 +44,8 @@
     "what-if-dunia-dengan-hukum-fisika-terbalik-pada-malam-hari",
     "what-if-dunia-dengan-kehidupan-berbasis-energi-neuron",
     "what-if-dunia-dengan-kehidupan-simulasi-realita-ganda",
-    "what-if-dunia-dengan-kehidupan-berbasis-kristal-kuantum"
+    "what-if-dunia-dengan-kehidupan-berbasis-kristal-kuantum",
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-silika"
   ],
   "published": [
     {
@@ -440,7 +441,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260724_070147",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-silika",
+      "title": "Dunia Silika: Bagaimana Jika Kehidupan Berbasis Mineral?",
+      "path": "/home/runner/work/konten3/konten3/output/20260724_070147_what-if-dunia-dengan-kehidupan-berbasis-ekosistem-silika/final.mp4",
+      "video_id": "2RKo-nUo8AA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 41
+  "_voice_idx": 42
 }
