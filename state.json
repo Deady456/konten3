@@ -48,7 +48,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-silika",
     "what-if-dunia-dengan-evolusi-spesies-berbasis-suara",
     "what-if-dunia-dengan-kehidupan-berbasis-mimikri-kultural",
-    "what-if-dunia-dengan-kehidupan-berbasis-komputasi-kuantum-organik"
+    "what-if-dunia-dengan-kehidupan-berbasis-komputasi-kuantum-organik",
+    "what-if-dunia-dengan-kehidupan-berbasis-fenomena-cahaya-kosmik"
   ],
   "published": [
     {
@@ -484,7 +485,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260725_150324",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-fenomena-cahaya-kosmik",
+      "title": "Apa Jika Dunia Dikendalikan oleh Pola Cahaya Alam Semesta?",
+      "path": "/home/runner/work/konten3/konten3/output/20260725_150324_what-if-dunia-dengan-kehidupan-berbasis-fenomena-cahaya-kosm/final.mp4",
+      "video_id": "1_yoYJ6EnrI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 45
+  "_voice_idx": 46
 }
