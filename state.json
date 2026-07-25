@@ -47,7 +47,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-kristal-kuantum",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-silika",
     "what-if-dunia-dengan-evolusi-spesies-berbasis-suara",
-    "what-if-dunia-dengan-kehidupan-berbasis-mimikri-kultural"
+    "what-if-dunia-dengan-kehidupan-berbasis-mimikri-kultural",
+    "what-if-dunia-dengan-kehidupan-berbasis-komputasi-kuantum-organik"
   ],
   "published": [
     {
@@ -473,7 +474,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260725_070341",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-komputasi-kuantum-organik",
+      "title": "Dunia Dengan Komputer Hidup, Apa Yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260725_070341_what-if-dunia-dengan-kehidupan-berbasis-komputasi-kuantum-or/final.mp4",
+      "video_id": "9wdkB-kjMng",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 44
+  "_voice_idx": 45
 }
