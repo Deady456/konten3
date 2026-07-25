@@ -49,7 +49,8 @@
     "what-if-dunia-dengan-evolusi-spesies-berbasis-suara",
     "what-if-dunia-dengan-kehidupan-berbasis-mimikri-kultural",
     "what-if-dunia-dengan-kehidupan-berbasis-komputasi-kuantum-organik",
-    "what-if-dunia-dengan-kehidupan-berbasis-fenomena-cahaya-kosmik"
+    "what-if-dunia-dengan-kehidupan-berbasis-fenomena-cahaya-kosmik",
+    "what-if-dunia-dengan-kehidupan-berbasis-arkeoastronomi"
   ],
   "published": [
     {
@@ -495,7 +496,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260725_230159",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-arkeoastronomi",
+      "title": "Dunia Dengan Kehidupan Terkonfigurasi Menurut Rasi Bintang",
+      "path": "/home/runner/work/konten3/konten3/output/20260725_230159_what-if-dunia-dengan-kehidupan-berbasis-arkeoastronomi/final.mp4",
+      "video_id": "9wXPRcGNrDk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 46
+  "_voice_idx": 47
 }
