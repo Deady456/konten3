@@ -51,7 +51,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-komputasi-kuantum-organik",
     "what-if-dunia-dengan-kehidupan-berbasis-fenomena-cahaya-kosmik",
     "what-if-dunia-dengan-kehidupan-berbasis-arkeoastronomi",
-    "what-if-dunia-dengan-kehidupan-berbasis-neuroevolusi-sinkron"
+    "what-if-dunia-dengan-kehidupan-berbasis-neuroevolusi-sinkron",
+    "what-if-dunia-dengan-kehidupan-berbasis-kriogenik"
   ],
   "published": [
     {
@@ -517,7 +518,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260726_150158",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-kriogenik",
+      "title": "Dunia Beku: Apa yang Terjadi Jika Manusia Hidup Abadi dengan Teknologi Kriogenik?",
+      "path": "/home/runner/work/konten3/konten3/output/20260726_150158_what-if-dunia-dengan-kehidupan-berbasis-kriogenik/final.mp4",
+      "video_id": "rDbeb6bT_kw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 48
+  "_voice_idx": 49
 }
