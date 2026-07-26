@@ -52,7 +52,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-fenomena-cahaya-kosmik",
     "what-if-dunia-dengan-kehidupan-berbasis-arkeoastronomi",
     "what-if-dunia-dengan-kehidupan-berbasis-neuroevolusi-sinkron",
-    "what-if-dunia-dengan-kehidupan-berbasis-kriogenik"
+    "what-if-dunia-dengan-kehidupan-berbasis-kriogenik",
+    "what-if-dunia-dengan-kehidupan-berbasis-entanglement-quantum"
   ],
   "published": [
     {
@@ -528,7 +529,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260726_230240",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-entanglement-quantum",
+      "title": "Dunia di Mana Entanglement Quantum Mengatur Kehidupan",
+      "path": "/home/runner/work/konten3/konten3/output/20260726_230240_what-if-dunia-dengan-kehidupan-berbasis-entanglement-quantum/final.mp4",
+      "video_id": "OEa_Iyc8pOQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 49
+  "_voice_idx": 50
 }
