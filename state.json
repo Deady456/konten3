@@ -50,7 +50,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-mimikri-kultural",
     "what-if-dunia-dengan-kehidupan-berbasis-komputasi-kuantum-organik",
     "what-if-dunia-dengan-kehidupan-berbasis-fenomena-cahaya-kosmik",
-    "what-if-dunia-dengan-kehidupan-berbasis-arkeoastronomi"
+    "what-if-dunia-dengan-kehidupan-berbasis-arkeoastronomi",
+    "what-if-dunia-dengan-kehidupan-berbasis-neuroevolusi-sinkron"
   ],
   "published": [
     {
@@ -506,7 +507,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260726_070218",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-neuroevolusi-sinkron",
+      "title": "Dunia Di Mana Otak Manusia Berkembang Bersama Alam",
+      "path": "/home/runner/work/konten3/konten3/output/20260726_070218_what-if-dunia-dengan-kehidupan-berbasis-neuroevolusi-sinkron/final.mp4",
+      "video_id": "5CRrzriqAEU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 47
+  "_voice_idx": 48
 }
