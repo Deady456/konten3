@@ -55,7 +55,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-kriogenik",
     "what-if-dunia-dengan-kehidupan-berbasis-entanglement-quantum",
     "what-if-dunia-dengan-kehidupan-berbasis-resonansi-morfogenetik",
-    "what-if-dunia-dengan-kehidupan-berbasis-gelombang-gravitasi"
+    "what-if-dunia-dengan-kehidupan-berbasis-gelombang-gravitasi",
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-nanoteknologi"
   ],
   "published": [
     {
@@ -561,7 +562,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260727_230511",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-nanoteknologi",
+      "title": "Dunia Dengan Kehidupan Berbasis Nanoteknologi: Mungkinkah?",
+      "path": "/home/runner/work/konten3/konten3/output/20260727_230511_what-if-dunia-dengan-kehidupan-berbasis-ekosistem-nanoteknol/final.mp4",
+      "video_id": "h81VW23NaqU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 52
+  "_voice_idx": 53
 }
