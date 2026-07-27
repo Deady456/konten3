@@ -54,7 +54,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-neuroevolusi-sinkron",
     "what-if-dunia-dengan-kehidupan-berbasis-kriogenik",
     "what-if-dunia-dengan-kehidupan-berbasis-entanglement-quantum",
-    "what-if-dunia-dengan-kehidupan-berbasis-resonansi-morfogenetik"
+    "what-if-dunia-dengan-kehidupan-berbasis-resonansi-morfogenetik",
+    "what-if-dunia-dengan-kehidupan-berbasis-gelombang-gravitasi"
   ],
   "published": [
     {
@@ -550,7 +551,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260727_150749",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-gelombang-gravitasi",
+      "title": "Dunia Dengan Gelombang Gravitasi Sebagai Sumber Kehidupan",
+      "path": "/home/runner/work/konten3/konten3/output/20260727_150749_what-if-dunia-dengan-kehidupan-berbasis-gelombang-gravitasi/final.mp4",
+      "video_id": "08jqiRZx62E",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 51
+  "_voice_idx": 52
 }
