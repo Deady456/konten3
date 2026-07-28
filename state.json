@@ -57,7 +57,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-resonansi-morfogenetik",
     "what-if-dunia-dengan-kehidupan-berbasis-gelombang-gravitasi",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-nanoteknologi",
-    "what-if-dunia-dengan-kehidupan-berbasis-memori-genetik"
+    "what-if-dunia-dengan-kehidupan-berbasis-memori-genetik",
+    "what-if-dunia-dengan-kehidupan-berbasis-hologram-kosmik"
   ],
   "published": [
     {
@@ -583,7 +584,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260728_150329",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-hologram-kosmik",
+      "title": "Dunia Hologram: Apa yang Terjadi Jika Kehidupan Berbasis Hologram Kosmik?",
+      "path": "/home/runner/work/konten3/konten3/output/20260728_150329_what-if-dunia-dengan-kehidupan-berbasis-hologram-kosmik/final.mp4",
+      "video_id": "bITpPGA9Q70",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 54
+  "_voice_idx": 55
 }
