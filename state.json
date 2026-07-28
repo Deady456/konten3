@@ -56,7 +56,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-entanglement-quantum",
     "what-if-dunia-dengan-kehidupan-berbasis-resonansi-morfogenetik",
     "what-if-dunia-dengan-kehidupan-berbasis-gelombang-gravitasi",
-    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-nanoteknologi"
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-nanoteknologi",
+    "what-if-dunia-dengan-kehidupan-berbasis-memori-genetik"
   ],
   "published": [
     {
@@ -572,7 +573,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260728_070439",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-memori-genetik",
+      "title": "Dunia dengan Memori Genetik, Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260728_070439_what-if-dunia-dengan-kehidupan-berbasis-memori-genetik/final.mp4",
+      "video_id": "WnMQRVnbH7w",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 53
+  "_voice_idx": 54
 }
