@@ -58,7 +58,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-gelombang-gravitasi",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-nanoteknologi",
     "what-if-dunia-dengan-kehidupan-berbasis-memori-genetik",
-    "what-if-dunia-dengan-kehidupan-berbasis-hologram-kosmik"
+    "what-if-dunia-dengan-kehidupan-berbasis-hologram-kosmik",
+    "what-if-dunia-dengan-kehidupan-berbasis-simulasi-realita-ganda-dan-paralel"
   ],
   "published": [
     {
@@ -594,7 +595,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260728_230510",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-simulasi-realita-ganda-dan-paralel",
+      "title": "Dunia Paralel Dalam Simulasi Ganda, Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260728_230510_what-if-dunia-dengan-kehidupan-berbasis-simulasi-realita-gan/final.mp4",
+      "video_id": "iH1uIxcjIIU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 55
+  "_voice_idx": 56
 }
