@@ -59,7 +59,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-nanoteknologi",
     "what-if-dunia-dengan-kehidupan-berbasis-memori-genetik",
     "what-if-dunia-dengan-kehidupan-berbasis-hologram-kosmik",
-    "what-if-dunia-dengan-kehidupan-berbasis-simulasi-realita-ganda-dan-paralel"
+    "what-if-dunia-dengan-kehidupan-berbasis-simulasi-realita-ganda-dan-paralel",
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-fraktal"
   ],
   "published": [
     {
@@ -605,7 +606,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260729_070405",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-fraktal",
+      "title": "Dunia dengan Kehidupan Berbasis Fraktal: Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260729_070405_what-if-dunia-dengan-kehidupan-berbasis-ekosistem-fraktal/final.mp4",
+      "video_id": "Xf-pUARRe1E",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 56
+  "_voice_idx": 57
 }
