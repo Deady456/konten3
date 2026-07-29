@@ -60,7 +60,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-memori-genetik",
     "what-if-dunia-dengan-kehidupan-berbasis-hologram-kosmik",
     "what-if-dunia-dengan-kehidupan-berbasis-simulasi-realita-ganda-dan-paralel",
-    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-fraktal"
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-fraktal",
+    "what-if-dunia-dengan-kehidupan-berbasis-bioelektrik"
   ],
   "published": [
     {
@@ -616,7 +617,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260729_150333",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-bioelektrik",
+      "title": "Apa Jika Manusia Bisa Menghidupi Bumi Dengan Energi Bioelektrik?",
+      "path": "/home/runner/work/konten3/konten3/output/20260729_150333_what-if-dunia-dengan-kehidupan-berbasis-bioelektrik/final.mp4",
+      "video_id": "tgCeKxc1_9A",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 57
+  "_voice_idx": 58
 }
