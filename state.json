@@ -61,7 +61,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-hologram-kosmik",
     "what-if-dunia-dengan-kehidupan-berbasis-simulasi-realita-ganda-dan-paralel",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-fraktal",
-    "what-if-dunia-dengan-kehidupan-berbasis-bioelektrik"
+    "what-if-dunia-dengan-kehidupan-berbasis-bioelektrik",
+    "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-waktu-siklis"
   ],
   "published": [
     {
@@ -627,7 +628,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260730_001058",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-waktu-siklis",
+      "title": "Dunia Tanpa Awal dan Akhir: Kehidupan di Dalam Waktu Siklis",
+      "path": "/home/runner/work/konten3/konten3/output/20260730_001058_what-if-dunia-dengan-kehidupan-berbasis-konsepsi-waktu-sikli/final.mp4",
+      "video_id": "tebKov5iqJQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 58
+  "_voice_idx": 59
 }
