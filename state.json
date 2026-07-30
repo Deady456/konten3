@@ -62,7 +62,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-simulasi-realita-ganda-dan-paralel",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-fraktal",
     "what-if-dunia-dengan-kehidupan-berbasis-bioelektrik",
-    "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-waktu-siklis"
+    "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-waktu-siklis",
+    "what-if-dunia-dengan-prinsip-entropi-terbalik-pada-proses-pembelajaran"
   ],
   "published": [
     {
@@ -638,7 +639,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260730_070245",
+      "topic": "what-if-dunia-dengan-prinsip-entropi-terbalik-pada-proses-pembelajaran",
+      "title": "Dunia dengan Prinsip Entropi Terbalik dalam Pembelajaran",
+      "path": "/home/runner/work/konten3/konten3/output/20260730_070245_what-if-dunia-dengan-prinsip-entropi-terbalik-pada-proses-pe/final.mp4",
+      "video_id": "njQRwqCc7MI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 59
+  "_voice_idx": 60
 }
