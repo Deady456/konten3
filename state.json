@@ -64,7 +64,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-bioelektrik",
     "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-waktu-siklis",
     "what-if-dunia-dengan-prinsip-entropi-terbalik-pada-proses-pembelajaran",
-    "what-if-dunia-dengan-kehidupan-berbasis-sinkronisasi-otak-kolektif"
+    "what-if-dunia-dengan-kehidupan-berbasis-sinkronisasi-otak-kolektif",
+    "what-if-dunia-dengan-kehidupan-berbasis-geomorfologi-sintetis"
   ],
   "published": [
     {
@@ -660,7 +661,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260730_230457",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-geomorfologi-sintetis",
+      "title": "Dunia dengan Kehidupan yang Dibentuk oleh Geomorfologi Sintetis",
+      "path": "/home/runner/work/konten3/konten3/output/20260730_230457_what-if-dunia-dengan-kehidupan-berbasis-geomorfologi-sinteti/final.mp4",
+      "video_id": "IIiTsKNT2UI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 61
+  "_voice_idx": 62
 }
