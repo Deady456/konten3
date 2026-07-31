@@ -66,7 +66,8 @@
     "what-if-dunia-dengan-prinsip-entropi-terbalik-pada-proses-pembelajaran",
     "what-if-dunia-dengan-kehidupan-berbasis-sinkronisasi-otak-kolektif",
     "what-if-dunia-dengan-kehidupan-berbasis-geomorfologi-sintetis",
-    "what-if-dunia-dengan-kehidupan-berbasis-arkitektur-self-replicating"
+    "what-if-dunia-dengan-kehidupan-berbasis-arkitektur-self-replicating",
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mikroba-antartika"
   ],
   "published": [
     {
@@ -682,7 +683,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260731_150517",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mikroba-antartika",
+      "title": "Dunia Dengan Kehidupan Berbasis Mikroba Antartika, Apa Yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260731_150517_what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mikroba-an/final.mp4",
+      "video_id": "BUzWyJZtJro",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 63
+  "_voice_idx": 64
 }
