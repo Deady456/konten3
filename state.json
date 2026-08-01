@@ -69,7 +69,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-arkitektur-self-replicating",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mikroba-antartika",
     "what-if-dunia-dengan-kehidupan-berbasis-foto-sintesis-kwantum",
-    "what-if-dunia-dengan-kehidupan-berbasis-replikasi-kristal-sonik"
+    "what-if-dunia-dengan-kehidupan-berbasis-replikasi-kristal-sonik",
+    "what-if-dunia-dengan-kehidupan-berbasis-bioluminesensi-kelautan"
   ],
   "published": [
     {
@@ -715,7 +716,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260801_150400",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-bioluminesensi-kelautan",
+      "title": "Dunia Dengan Kehidupan Berbasis Cahaya Laut Dalam",
+      "path": "/home/runner/work/konten3/konten3/output/20260801_150400_what-if-dunia-dengan-kehidupan-berbasis-bioluminesensi-kelau/final.mp4",
+      "video_id": "MiF-i7K3RWg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 66
+  "_voice_idx": 67
 }
