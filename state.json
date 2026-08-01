@@ -68,7 +68,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-geomorfologi-sintetis",
     "what-if-dunia-dengan-kehidupan-berbasis-arkitektur-self-replicating",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mikroba-antartika",
-    "what-if-dunia-dengan-kehidupan-berbasis-foto-sintesis-kwantum"
+    "what-if-dunia-dengan-kehidupan-berbasis-foto-sintesis-kwantum",
+    "what-if-dunia-dengan-kehidupan-berbasis-replikasi-kristal-sonik"
   ],
   "published": [
     {
@@ -704,7 +705,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260801_070448",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-replikasi-kristal-sonik",
+      "title": "Dunia dengan Kehidupan Berbasis Replikasi Kristal Sonik",
+      "path": "/home/runner/work/konten3/konten3/output/20260801_070448_what-if-dunia-dengan-kehidupan-berbasis-replikasi-kristal-so/final.mp4",
+      "video_id": "yaF9PpjhGE8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 65
+  "_voice_idx": 66
 }
