@@ -70,7 +70,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mikroba-antartika",
     "what-if-dunia-dengan-kehidupan-berbasis-foto-sintesis-kwantum",
     "what-if-dunia-dengan-kehidupan-berbasis-replikasi-kristal-sonik",
-    "what-if-dunia-dengan-kehidupan-berbasis-bioluminesensi-kelautan"
+    "what-if-dunia-dengan-kehidupan-berbasis-bioluminesensi-kelautan",
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-aerodinamis"
   ],
   "published": [
     {
@@ -726,7 +727,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260801_230407",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-aerodinamis",
+      "title": "Dunia dengan Kehidupan yang Mengapung di Udara",
+      "path": "/home/runner/work/konten3/konten3/output/20260801_230407_what-if-dunia-dengan-kehidupan-berbasis-ekosistem-aerodinami/final.mp4",
+      "video_id": "2N_pBlf1sUg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 67
+  "_voice_idx": 68
 }
