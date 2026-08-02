@@ -73,7 +73,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-bioluminesensi-kelautan",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-aerodinamis",
     "what-if-dunia-dengan-kehidupan-berbasis-mekanika-cair",
-    "what-if-dunia-dengan-kehidupan-berbasis-memori-kolektif-neuron"
+    "what-if-dunia-dengan-kehidupan-berbasis-memori-kolektif-neuron",
+    "what-if-dunia-dengan-kehidupan-berbasis-biokimia-sonik"
   ],
   "published": [
     {
@@ -759,7 +760,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260802_230308",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-biokimia-sonik",
+      "title": "Apa Jika Suara Membentuk Kehidupan?",
+      "path": "/home/runner/work/konten3/konten3/output/20260802_230308_what-if-dunia-dengan-kehidupan-berbasis-biokimia-sonik/final.mp4",
+      "video_id": "l3BtJXg2jiI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 70
+  "_voice_idx": 71
 }
