@@ -71,7 +71,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-foto-sintesis-kwantum",
     "what-if-dunia-dengan-kehidupan-berbasis-replikasi-kristal-sonik",
     "what-if-dunia-dengan-kehidupan-berbasis-bioluminesensi-kelautan",
-    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-aerodinamis"
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-aerodinamis",
+    "what-if-dunia-dengan-kehidupan-berbasis-mekanika-cair"
   ],
   "published": [
     {
@@ -737,7 +738,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260802_070147",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-mekanika-cair",
+      "title": "Dunia di Mana Cairan Mengendalikan Semua?",
+      "path": "/home/runner/work/konten3/konten3/output/20260802_070147_what-if-dunia-dengan-kehidupan-berbasis-mekanika-cair/final.mp4",
+      "video_id": "xB55twVj89s",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 68
+  "_voice_idx": 69
 }
