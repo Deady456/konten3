@@ -72,7 +72,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-replikasi-kristal-sonik",
     "what-if-dunia-dengan-kehidupan-berbasis-bioluminesensi-kelautan",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-aerodinamis",
-    "what-if-dunia-dengan-kehidupan-berbasis-mekanika-cair"
+    "what-if-dunia-dengan-kehidupan-berbasis-mekanika-cair",
+    "what-if-dunia-dengan-kehidupan-berbasis-memori-kolektif-neuron"
   ],
   "published": [
     {
@@ -748,7 +749,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260802_150426",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-memori-kolektif-neuron",
+      "title": "Dunia dengan Memori Kolektif Neuron, Apakah Mungkinkah?",
+      "path": "/home/runner/work/konten3/konten3/output/20260802_150426_what-if-dunia-dengan-kehidupan-berbasis-memori-kolektif-neur/final.mp4",
+      "video_id": "s3bu0AGscic",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 69
+  "_voice_idx": 70
 }
