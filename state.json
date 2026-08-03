@@ -74,7 +74,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-aerodinamis",
     "what-if-dunia-dengan-kehidupan-berbasis-mekanika-cair",
     "what-if-dunia-dengan-kehidupan-berbasis-memori-kolektif-neuron",
-    "what-if-dunia-dengan-kehidupan-berbasis-biokimia-sonik"
+    "what-if-dunia-dengan-kehidupan-berbasis-biokimia-sonik",
+    "what-if-dunia-dengan-kehidupan-berbasis-gangguan-gravitasi-eksplisit"
   ],
   "published": [
     {
@@ -770,7 +771,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260803_070401",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-gangguan-gravitasi-eksplisit",
+      "title": "Dunia Dengan Gravitasi yang Bergoyang: Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260803_070401_what-if-dunia-dengan-kehidupan-berbasis-gangguan-gravitasi-e/final.mp4",
+      "video_id": "QANDMzeP5UI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 71
+  "_voice_idx": 72
 }
