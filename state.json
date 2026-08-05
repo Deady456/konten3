@@ -75,7 +75,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-mekanika-cair",
     "what-if-dunia-dengan-kehidupan-berbasis-memori-kolektif-neuron",
     "what-if-dunia-dengan-kehidupan-berbasis-biokimia-sonik",
-    "what-if-dunia-dengan-kehidupan-berbasis-gangguan-gravitasi-eksplisit"
+    "what-if-dunia-dengan-kehidupan-berbasis-gangguan-gravitasi-eksplisit",
+    "what-if-dunia-dengan-kehidupan-berbasis-efek-kasar-termodinamika"
   ],
   "published": [
     {
@@ -781,7 +782,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260805_001340",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-efek-kasar-termodinamika",
+      "title": "Dunia Terbalik: Kehidupan di Bawah Hukum Termodinamika yang Terdistorsi",
+      "path": "/home/runner/work/konten3/konten3/output/20260805_001340_what-if-dunia-dengan-kehidupan-berbasis-efek-kasar-termodina/final.mp4",
+      "video_id": "_oFQNlsZNFs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 72
+  "_voice_idx": 73
 }
