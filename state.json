@@ -76,7 +76,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-memori-kolektif-neuron",
     "what-if-dunia-dengan-kehidupan-berbasis-biokimia-sonik",
     "what-if-dunia-dengan-kehidupan-berbasis-gangguan-gravitasi-eksplisit",
-    "what-if-dunia-dengan-kehidupan-berbasis-efek-kasar-termodinamika"
+    "what-if-dunia-dengan-kehidupan-berbasis-efek-kasar-termodinamika",
+    "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-masa-depan-eksplisit"
   ],
   "published": [
     {
@@ -792,7 +793,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260806_123738",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-masa-depan-eksplisit",
+      "title": "Apa Jika Masa Depan Sudah Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260806_123738_what-if-dunia-dengan-kehidupan-berbasis-konsepsi-masa-depan-/final.mp4",
+      "video_id": "CLz48-gCvuk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 73
+  "_voice_idx": 74
 }
