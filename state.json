@@ -77,7 +77,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-biokimia-sonik",
     "what-if-dunia-dengan-kehidupan-berbasis-gangguan-gravitasi-eksplisit",
     "what-if-dunia-dengan-kehidupan-berbasis-efek-kasar-termodinamika",
-    "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-masa-depan-eksplisit"
+    "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-masa-depan-eksplisit",
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-bioelektrokimia"
   ],
   "published": [
     {
@@ -803,7 +804,15 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260807_134906",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-bioelektrokimia",
+      "title": "Bayangkan Dunia Dengan Kehidupan Berbasis Arus Listrik Alam",
+      "path": "/home/runner/work/konten3/konten3/output/20260807_134906_what-if-dunia-dengan-kehidupan-berbasis-ekosistem-bioelektro/final.mp4",
+      "video_id": "Q5cUms2Q5PM",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 74
+  "_voice_idx": 75
 }
