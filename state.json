@@ -79,7 +79,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-efek-kasar-termodinamika",
     "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-masa-depan-eksplisit",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-bioelektrokimia",
-    "what-if-dunia-dengan-kehidupan-berbasis-osmose-kwantum"
+    "what-if-dunia-dengan-kehidupan-berbasis-osmose-kwantum",
+    "what-if-dunia-dengan-kehidupan-berbasis-superfluida-kwantum"
   ],
   "published": [
     {
@@ -823,7 +824,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260808_103506",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-superfluida-kwantum",
+      "title": "Dunia Tanpa Gesekan: Bagaimana Jika Semua Berasal dari Superfluida Kwantum?",
+      "path": "/home/runner/work/konten3/konten3/output/20260808_103506_what-if-dunia-dengan-kehidupan-berbasis-superfluida-kwantum/final.mp4",
+      "video_id": "z6ka1C_7-VM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 76
+  "_voice_idx": 77
 }
