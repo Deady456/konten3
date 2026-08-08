@@ -78,7 +78,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-gangguan-gravitasi-eksplisit",
     "what-if-dunia-dengan-kehidupan-berbasis-efek-kasar-termodinamika",
     "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-masa-depan-eksplisit",
-    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-bioelektrokimia"
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-bioelektrokimia",
+    "what-if-dunia-dengan-kehidupan-berbasis-osmose-kwantum"
   ],
   "published": [
     {
@@ -812,7 +813,17 @@
       "path": "/home/runner/work/konten3/konten3/output/20260807_134906_what-if-dunia-dengan-kehidupan-berbasis-ekosistem-bioelektro/final.mp4",
       "video_id": "Q5cUms2Q5PM",
       "publish_at": null
+    },
+    {
+      "ts": "20260808_094609",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-osmose-kwantum",
+      "title": "Dunia dengan Kehidupan Berbasis Osmose Kwantum: Mungkinkah?",
+      "path": "/home/runner/work/konten3/konten3/output/20260808_094609_what-if-dunia-dengan-kehidupan-berbasis-osmose-kwantum/final.mp4",
+      "video_id": "xQ3FJCvIR-4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 75
+  "_voice_idx": 76
 }
