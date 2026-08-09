@@ -3,7 +3,7 @@ audience: "orang dewasa Indonesia yang suka berpikir dan penasaran dengan kemung
 language: id
 
 script:
-  model: nvidia/openai/gpt-oss-20b
+  model: llama-3.3-70b-versatile
   target_seconds: 80
   words_per_second: 2.5
 
@@ -81,7 +81,7 @@ branding:
     size: 300
 
 comments:
-  model: nvidia/openai/gpt-oss-20b
+  model: llama-3.3-70b-versatile
   poll_interval_minutes: 180
   auto_reply: true
   delete_spam: true
