@@ -80,7 +80,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-konsepsi-masa-depan-eksplisit",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-bioelektrokimia",
     "what-if-dunia-dengan-kehidupan-berbasis-osmose-kwantum",
-    "what-if-dunia-dengan-kehidupan-berbasis-superfluida-kwantum"
+    "what-if-dunia-dengan-kehidupan-berbasis-superfluida-kwantum",
+    "what-if-dunia-dengan-kehidupan-berbasis-kristal-kwantum-terprogram"
   ],
   "published": [
     {
@@ -834,7 +835,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260809_123058",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-kristal-kwantum-terprogram",
+      "title": "Dunia Dengan Kehidupan Berbasis Kristal Kwantum Terprogram",
+      "path": "/home/runner/work/konten3/konten3/output/20260809_123058_what-if-dunia-dengan-kehidupan-berbasis-kristal-kwantum-terp/final.mp4",
+      "video_id": "DZbu71_ufCc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 77
+  "_voice_idx": 78
 }
