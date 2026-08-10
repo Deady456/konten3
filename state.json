@@ -81,7 +81,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-bioelektrokimia",
     "what-if-dunia-dengan-kehidupan-berbasis-osmose-kwantum",
     "what-if-dunia-dengan-kehidupan-berbasis-superfluida-kwantum",
-    "what-if-dunia-dengan-kehidupan-berbasis-kristal-kwantum-terprogram"
+    "what-if-dunia-dengan-kehidupan-berbasis-kristal-kwantum-terprogram",
+    "what-if-dunia-dengan-kehidupan-berbasis-neuroplastisitas-kollektif"
   ],
   "published": [
     {
@@ -845,7 +846,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260810_031700",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-neuroplastisitas-kollektif",
+      "title": "Dunia Dengan Otak Yang Terhubung, Apa Yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260810_031700_what-if-dunia-dengan-kehidupan-berbasis-neuroplastisitas-kol/final.mp4",
+      "video_id": "thU7DBk2kpw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 78
+  "_voice_idx": 79
 }
