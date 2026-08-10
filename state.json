@@ -82,7 +82,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-osmose-kwantum",
     "what-if-dunia-dengan-kehidupan-berbasis-superfluida-kwantum",
     "what-if-dunia-dengan-kehidupan-berbasis-kristal-kwantum-terprogram",
-    "what-if-dunia-dengan-kehidupan-berbasis-neuroplastisitas-kollektif"
+    "what-if-dunia-dengan-kehidupan-berbasis-neuroplastisitas-kollektif",
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-kriovulkanik"
   ],
   "published": [
     {
@@ -856,7 +857,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260810_223517",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-kriovulkanik",
+      "title": "Dunia Dengan Kehidupan Berbasis Kriovulkanik: Mungkinkah?",
+      "path": "/home/runner/work/konten3/konten3/output/20260810_223517_what-if-dunia-dengan-kehidupan-berbasis-ekosistem-kriovulkan/final.mp4",
+      "video_id": "mw9Fcx24Dzk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 79
+  "_voice_idx": 80
 }
