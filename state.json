@@ -83,7 +83,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-superfluida-kwantum",
     "what-if-dunia-dengan-kehidupan-berbasis-kristal-kwantum-terprogram",
     "what-if-dunia-dengan-kehidupan-berbasis-neuroplastisitas-kollektif",
-    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-kriovulkanik"
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-kriovulkanik",
+    "what-if-dunia-dengan-kehidupan-berbasis-mekanika-kwantum-kolektif"
   ],
   "published": [
     {
@@ -867,7 +868,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260811_070516",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-mekanika-kwantum-kolektif",
+      "title": "Dunia Berbasis Mekanika Kwantum Kolektif: Mungkinkah?",
+      "path": "/home/runner/work/konten3/konten3/output/20260811_070516_what-if-dunia-dengan-kehidupan-berbasis-mekanika-kwantum-kol/final.mp4",
+      "video_id": "xIKhkn0DNnI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 80
+  "_voice_idx": 81
 }
