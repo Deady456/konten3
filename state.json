@@ -84,7 +84,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-kristal-kwantum-terprogram",
     "what-if-dunia-dengan-kehidupan-berbasis-neuroplastisitas-kollektif",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-kriovulkanik",
-    "what-if-dunia-dengan-kehidupan-berbasis-mekanika-kwantum-kolektif"
+    "what-if-dunia-dengan-kehidupan-berbasis-mekanika-kwantum-kolektif",
+    "what-if-dunia-dengan-kehidupan-berbasis-sinestesia-kolektif"
   ],
   "published": [
     {
@@ -878,7 +879,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260812_113348",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-sinestesia-kolektif",
+      "title": "Dunia di Mana Panca Indra Tidak Terpisahkan",
+      "path": "/home/runner/work/konten3/konten3/output/20260812_113348_what-if-dunia-dengan-kehidupan-berbasis-sinestesia-kolektif/final.mp4",
+      "video_id": "rvrXgB6nNLw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 81
+  "_voice_idx": 82
 }
