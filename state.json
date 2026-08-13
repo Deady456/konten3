@@ -88,7 +88,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-sinestesia-kolektif",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-fototropik-sintetis",
     "what-if-dunia-dengan-kehidupan-berbasis-pengkodean-genetik-berbasis-suara",
-    "what-if-dunia-dengan-kehidupan-berbasis-simbolisme-matematika-kreatif"
+    "what-if-dunia-dengan-kehidupan-berbasis-simbolisme-matematika-kreatif",
+    "what-if-dunia-dengan-kehidupan-berbasis-komunikasi-kwantum-antargalaksi"
   ],
   "published": [
     {
@@ -922,7 +923,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260813_233336",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-komunikasi-kwantum-antargalaksi",
+      "title": "Dunia Dengan Komunikasi Kwantum Antargalaksi, Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260813_233336_what-if-dunia-dengan-kehidupan-berbasis-komunikasi-kwantum-a/final.mp4",
+      "video_id": "HvQV7qkW-yY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 85
+  "_voice_idx": 86
 }
