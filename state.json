@@ -89,7 +89,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-fototropik-sintetis",
     "what-if-dunia-dengan-kehidupan-berbasis-pengkodean-genetik-berbasis-suara",
     "what-if-dunia-dengan-kehidupan-berbasis-simbolisme-matematika-kreatif",
-    "what-if-dunia-dengan-kehidupan-berbasis-komunikasi-kwantum-antargalaksi"
+    "what-if-dunia-dengan-kehidupan-berbasis-komunikasi-kwantum-antargalaksi",
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mimetik-robotik"
   ],
   "published": [
     {
@@ -933,7 +934,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260815_233145",
+      "topic": "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mimetik-robotik",
+      "title": "Dunia Di mana Robot Meniru Alam",
+      "path": "/home/runner/work/konten3/konten3/output/20260815_233145_what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mimetik-ro/final.mp4",
+      "video_id": "0BfsIbuSF9Q",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 86
+  "_voice_idx": 87
 }
