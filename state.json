@@ -90,7 +90,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-pengkodean-genetik-berbasis-suara",
     "what-if-dunia-dengan-kehidupan-berbasis-simbolisme-matematika-kreatif",
     "what-if-dunia-dengan-kehidupan-berbasis-komunikasi-kwantum-antargalaksi",
-    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mimetik-robotik"
+    "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mimetik-robotik",
+    "what-if-unggah-kenangan-otak"
   ],
   "published": [
     {
@@ -944,7 +945,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260816_233246",
+      "topic": "what-if-unggah-kenangan-otak",
+      "title": "What If Kita Bisa Mengunggah Kenangan Secara Instan? Dampak Besar pada Hidup Kita",
+      "path": "/home/runner/work/konten3/konten3/output/20260816_233246_what-if-unggah-kenangan-otak/final.mp4",
+      "video_id": "lqIgGpi6_NA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 87
+  "_voice_idx": 88
 }
