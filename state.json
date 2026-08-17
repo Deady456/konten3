@@ -92,7 +92,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-komunikasi-kwantum-antargalaksi",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mimetik-robotik",
     "what-if-unggah-kenangan-otak",
-    "what-if-gravitasi-dapat-diatur-lokal"
+    "what-if-gravitasi-dapat-diatur-lokal",
+    "what-if-energi-magnet-bumi-suprakonduktor"
   ],
   "published": [
     {
@@ -966,7 +967,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260817_233302",
+      "topic": "what-if-energi-magnet-bumi-suprakonduktor",
+      "title": "What If Kita Bisa Menggali Energi Tak Terbatas dari Medan Magnet Bumi dengan Suprakonduktor?",
+      "path": "/home/runner/work/konten3/konten3/output/20260817_233302_what-if-energi-magnet-bumi-suprakonduktor/final.mp4",
+      "video_id": "ICnMCOSPXpY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 89
+  "_voice_idx": 90
 }
