@@ -91,7 +91,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-simbolisme-matematika-kreatif",
     "what-if-dunia-dengan-kehidupan-berbasis-komunikasi-kwantum-antargalaksi",
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mimetik-robotik",
-    "what-if-unggah-kenangan-otak"
+    "what-if-unggah-kenangan-otak",
+    "what-if-gravitasi-dapat-diatur-lokal"
   ],
   "published": [
     {
@@ -955,7 +956,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260817_113234",
+      "topic": "what-if-gravitasi-dapat-diatur-lokal",
+      "title": "Bagaimana Dunia Akan Berubah Jika Kita Bisa Mengendalikan Gravitasi Secara Lokal?",
+      "path": "/home/runner/work/konten3/konten3/output/20260817_113234_what-if-gravitasi-dapat-diatur-lokal/final.mp4",
+      "video_id": "EzjEbf9dlVo",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 88
+  "_voice_idx": 89
 }
