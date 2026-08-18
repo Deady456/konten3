@@ -3,7 +3,7 @@ import json
 import re
 import time
 from datetime import datetime
-from . import script, voice, captions, visuals, assemble, assemble_vanta, upload, state, visuals_ai
+from . import script, voice, captions, visuals, whatif_visuals, assemble, assemble_vanta, upload, state, visuals_ai
 from . import branding, review
 from .config import CONFIG, OUTPUT_DIR
 
@@ -72,10 +72,9 @@ def run_once(publish_at: str | None = None, upload_to_youtube: bool = True,
     _log(f"    {len(words)} words in {time.time()-t0:.1f}s")
 
     # ============================================================
-    # Step 4: Fetch B-roll footage
-    # ============================================================
-    _log("4/8 Fetching footage from Pexels")
-    scene_videos = visuals.fetch_all(data["scenes"], work / "broll")
+    # Step 4: Fetch what-if visuals (FLUX Sci-Fi + Bing 4K)
+    _log("4/8 Fetching what-if visuals")
+    scene_videos = whatif_visuals.fetch_all(data["scenes"], work / "broll", words=words, voice_audio=voice_mp3)
     _log(f"    {len(scene_videos)} clips ready")
 
     # ============================================================
