@@ -93,7 +93,8 @@
     "what-if-dunia-dengan-kehidupan-berbasis-ekosistem-mimetik-robotik",
     "what-if-unggah-kenangan-otak",
     "what-if-gravitasi-dapat-diatur-lokal",
-    "what-if-energi-magnet-bumi-suprakonduktor"
+    "what-if-energi-magnet-bumi-suprakonduktor",
+    "what-if-dunia-dengan-dua-bulan"
   ],
   "published": [
     {
@@ -977,7 +978,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260818_113246",
+      "topic": "what-if-dunia-dengan-dua-bulan",
+      "title": "What If Bumi Memiliki Dua Bulan? Dampak pada Pasang Surut, Hari, dan Kehidupan Manusia",
+      "path": "/home/runner/work/konten3/konten3/output/20260818_113246_what-if-dunia-dengan-dua-bulan/final.mp4",
+      "video_id": "TtGBaQ1xZzQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 90
+  "_voice_idx": 91
 }
