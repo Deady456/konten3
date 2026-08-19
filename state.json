@@ -94,7 +94,8 @@
     "what-if-unggah-kenangan-otak",
     "what-if-gravitasi-dapat-diatur-lokal",
     "what-if-energi-magnet-bumi-suprakonduktor",
-    "what-if-dunia-dengan-dua-bulan"
+    "what-if-dunia-dengan-dua-bulan",
+    "what-if-bumi-berhenti-berputar-lima-detik"
   ],
   "published": [
     {
@@ -988,7 +989,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260819_060521",
+      "topic": "what-if-bumi-berhenti-berputar-lima-detik",
+      "title": "Bagaimana Jika Bumi Berhenti Berputar Selama Lima Detik?",
+      "path": "/home/runner/work/konten3/konten3/output/20260819_060521_what-if-bumi-berhenti-berputar-lima-detik/final.mp4",
+      "video_id": "99cIoNEFfn8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 91
+  "_voice_idx": 92
 }
