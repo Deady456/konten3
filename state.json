@@ -96,7 +96,8 @@
     "what-if-energi-magnet-bumi-suprakonduktor",
     "what-if-dunia-dengan-dua-bulan",
     "what-if-bumi-berhenti-berputar-lima-detik",
-    "what-if-oksigen-bumi-berlipat-ganda"
+    "what-if-oksigen-bumi-berlipat-ganda",
+    "what-if-seluruh-garam-samudra-bumi-lenyap"
   ],
   "published": [
     {
@@ -1010,7 +1011,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260819_233209",
+      "topic": "what-if-seluruh-garam-samudra-bumi-lenyap",
+      "title": "Bagaimana Jika Seluruh Garam di Lautan Bumi Mendadak Lenyap?",
+      "path": "/home/runner/work/konten3/konten3/output/20260819_233209_what-if-seluruh-garam-samudra-bumi-lenyap/final.mp4",
+      "video_id": "U1QMpUlg_5g",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 93
+  "_voice_idx": 94
 }
