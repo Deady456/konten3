@@ -95,7 +95,8 @@
     "what-if-gravitasi-dapat-diatur-lokal",
     "what-if-energi-magnet-bumi-suprakonduktor",
     "what-if-dunia-dengan-dua-bulan",
-    "what-if-bumi-berhenti-berputar-lima-detik"
+    "what-if-bumi-berhenti-berputar-lima-detik",
+    "what-if-oksigen-bumi-berlipat-ganda"
   ],
   "published": [
     {
@@ -999,7 +1000,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260819_113201",
+      "topic": "what-if-oksigen-bumi-berlipat-ganda",
+      "title": "Bagaimana Jika Kadar Oksigen di Bumi Tiba-Tiba Berlipat Ganda?",
+      "path": "/home/runner/work/konten3/konten3/output/20260819_113201_what-if-oksigen-bumi-berlipat-ganda/final.mp4",
+      "video_id": "fMw5HqNYxUk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 92
+  "_voice_idx": 93
 }
