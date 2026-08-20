@@ -97,7 +97,8 @@
     "what-if-dunia-dengan-dua-bulan",
     "what-if-bumi-berhenti-berputar-lima-detik",
     "what-if-oksigen-bumi-berlipat-ganda",
-    "what-if-seluruh-garam-samudra-bumi-lenyap"
+    "what-if-seluruh-garam-samudra-bumi-lenyap",
+    "what-if-poros-bumi-tanpa-kemiringan"
   ],
   "published": [
     {
@@ -1021,7 +1022,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260820_113215",
+      "topic": "what-if-poros-bumi-tanpa-kemiringan",
+      "title": "Bagaimana Jika Bumi Tidak Memiliki Kemiringan Poros dan Musim?",
+      "path": "/home/runner/work/konten3/konten3/output/20260820_113215_what-if-poros-bumi-tanpa-kemiringan/final.mp4",
+      "video_id": "wO774ZX6kcs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 94
+  "_voice_idx": 95
 }
