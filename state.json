@@ -98,7 +98,8 @@
     "what-if-bumi-berhenti-berputar-lima-detik",
     "what-if-oksigen-bumi-berlipat-ganda",
     "what-if-seluruh-garam-samudra-bumi-lenyap",
-    "what-if-poros-bumi-tanpa-kemiringan"
+    "what-if-poros-bumi-tanpa-kemiringan",
+    "what-if-gurun-sahara-ditutupi-panel-surya"
   ],
   "published": [
     {
@@ -1032,7 +1033,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260820_233151",
+      "topic": "what-if-gurun-sahara-ditutupi-panel-surya",
+      "title": "Bagaimana Jika Seluruh Gurun Sahara Ditutupi Panel Surya?",
+      "path": "/home/runner/work/konten3/konten3/output/20260820_233151_what-if-gurun-sahara-ditutupi-panel-surya/final.mp4",
+      "video_id": "EP1QTX5O97g",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 95
+  "_voice_idx": 96
 }
