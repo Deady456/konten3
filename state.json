@@ -100,7 +100,8 @@
     "what-if-seluruh-garam-samudra-bumi-lenyap",
     "what-if-poros-bumi-tanpa-kemiringan",
     "what-if-gurun-sahara-ditutupi-panel-surya",
-    "what-if-bumi-memiliki-cincin-seperti-saturnus"
+    "what-if-bumi-memiliki-cincin-seperti-saturnus",
+    "what-if-seluruh-nyamuk-di-bumi-punah"
   ],
   "published": [
     {
@@ -1054,7 +1055,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260821_233152",
+      "topic": "what-if-seluruh-nyamuk-di-bumi-punah",
+      "title": "Bagaimana Jika Seluruh Nyamuk di Bumi Lenyap Seketika?",
+      "path": "/home/runner/work/konten3/konten3/output/20260821_233152_what-if-seluruh-nyamuk-di-bumi-punah/final.mp4",
+      "video_id": "NCBB4sdLr10",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 97
+  "_voice_idx": 98
 }
