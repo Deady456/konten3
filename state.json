@@ -99,7 +99,8 @@
     "what-if-oksigen-bumi-berlipat-ganda",
     "what-if-seluruh-garam-samudra-bumi-lenyap",
     "what-if-poros-bumi-tanpa-kemiringan",
-    "what-if-gurun-sahara-ditutupi-panel-surya"
+    "what-if-gurun-sahara-ditutupi-panel-surya",
+    "what-if-bumi-memiliki-cincin-seperti-saturnus"
   ],
   "published": [
     {
@@ -1043,7 +1044,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260821_113151",
+      "topic": "what-if-bumi-memiliki-cincin-seperti-saturnus",
+      "title": "Bagaimana Jika Bumi Punya Cincin Seperti Saturnus? Ini Dampak Ilmiahnya!",
+      "path": "/home/runner/work/konten3/konten3/output/20260821_113151_what-if-bumi-memiliki-cincin-seperti-saturnus/final.mp4",
+      "video_id": "dedyIlRm5tU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 96
+  "_voice_idx": 97
 }
