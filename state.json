@@ -101,7 +101,8 @@
     "what-if-poros-bumi-tanpa-kemiringan",
     "what-if-gurun-sahara-ditutupi-panel-surya",
     "what-if-bumi-memiliki-cincin-seperti-saturnus",
-    "what-if-seluruh-nyamuk-di-bumi-punah"
+    "what-if-seluruh-nyamuk-di-bumi-punah",
+    "what-if-yupiter-menggantikan-posisi-bulan"
   ],
   "published": [
     {
@@ -1065,7 +1066,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260822_062229",
+      "topic": "what-if-yupiter-menggantikan-posisi-bulan",
+      "title": "Bagaimana Jika Yupiter Menggantikan Posisi Bulan? Kiamat Kosmik!",
+      "path": "/home/runner/work/konten3/konten3/output/20260822_062229_what-if-yupiter-menggantikan-posisi-bulan/final.mp4",
+      "video_id": "GvfVWB37yM4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 98
+  "_voice_idx": 99
 }
