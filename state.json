@@ -103,7 +103,8 @@
     "what-if-bumi-memiliki-cincin-seperti-saturnus",
     "what-if-seluruh-nyamuk-di-bumi-punah",
     "what-if-yupiter-menggantikan-posisi-bulan",
-    "what-if-bulan-menjadi-lubang-hitam"
+    "what-if-bulan-menjadi-lubang-hitam",
+    "what-if-galaksi-andromeda-menabrak-bima-sakti"
   ],
   "published": [
     {
@@ -1087,7 +1088,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260822_113141",
+      "topic": "what-if-galaksi-andromeda-menabrak-bima-sakti",
+      "title": "Bagaimana Jika Galaksi Andromeda Menabrak Bima Sakti? Ini Takdir Bumi!",
+      "path": "/home/runner/work/konten3/konten3/output/20260822_113141_what-if-galaksi-andromeda-menabrak-bima-sakti/final.mp4",
+      "video_id": "SU4cTF6sSEI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 100
+  "_voice_idx": 101
 }
