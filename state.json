@@ -104,7 +104,8 @@
     "what-if-seluruh-nyamuk-di-bumi-punah",
     "what-if-yupiter-menggantikan-posisi-bulan",
     "what-if-bulan-menjadi-lubang-hitam",
-    "what-if-galaksi-andromeda-menabrak-bima-sakti"
+    "what-if-galaksi-andromeda-menabrak-bima-sakti",
+    "what-if-matahari-tiba-tiba-lenyap"
   ],
   "published": [
     {
@@ -1098,7 +1099,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260822_233304",
+      "topic": "what-if-matahari-tiba-tiba-lenyap",
+      "title": "Bagaimana Jika Matahari Tiba-Tiba Lenyap dari Tata Surya?",
+      "path": "/home/runner/work/konten3/konten3/output/20260822_233304_what-if-matahari-tiba-tiba-lenyap/final.mp4",
+      "video_id": "fkTn_Y6Smik",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 101
+  "_voice_idx": 102
 }
