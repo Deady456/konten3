@@ -1,5 +1,5 @@
-niche: "skenario what if yang menarik dan bikin mikir (what if dalam sains, sejarah, teknologi, kehidupan sehari-hari)"
-audience: "orang dewasa Indonesia yang suka berpikir dan penasaran dengan kemungkinan-kemungkinan alternatif"
+niche: "skenario What If antariksa, alam semesta, lubang hitam, tata surya, dan eksplorasi kosmik yang mencengangkan (What if Bumi tersedot black hole, What if Matahari mati, What if kita tinggal di exoplanet, What if tabrakan galaksi, What if kecepatan cahaya tercapai, What if asteroid menabrak Bumi)"
+audience: "penonton Indonesia yang penasaran dengan misteri luar angkasa, fisika kosmik, dan skenario alternatif alam semesta"
 language: id
 
 script:
@@ -45,15 +45,13 @@ upload:
   category_id: "27"
   made_for_kids: false
   channel: "whatif"
-  default_tags: ["what if", "skenario unik", "andai kata", "fakta unik", "pengetahuan", "whatif menarik", "imajinasi", "fakta sains"]
-
-
+  default_tags: ["what if", "alam semesta", "luar angkasa", "black hole", "galaksi", "astronomi", "what if antariksa", "fakta sains", "kosmik", "tata surya", "bintang", "supernova"]
 
 music:
   enabled: true
   source: "local"
   local_dir: "assets/music"
-  volume: 0.03
+  volume: 0.15
   fade_in: 2.0
   fade_out: 3.0
   mood_mapping:
