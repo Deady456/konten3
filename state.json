@@ -102,7 +102,8 @@
     "what-if-gurun-sahara-ditutupi-panel-surya",
     "what-if-bumi-memiliki-cincin-seperti-saturnus",
     "what-if-seluruh-nyamuk-di-bumi-punah",
-    "what-if-yupiter-menggantikan-posisi-bulan"
+    "what-if-yupiter-menggantikan-posisi-bulan",
+    "what-if-bulan-menjadi-lubang-hitam"
   ],
   "published": [
     {
@@ -1076,7 +1077,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260822_070815",
+      "topic": "what-if-bulan-menjadi-lubang-hitam",
+      "title": "Bagaimana Jika Bulan Tiba-Tiba Menjadi Lubang Hitam Mungil?",
+      "path": "/home/runner/work/konten3/konten3/output/20260822_070815_what-if-bulan-menjadi-lubang-hitam/final.mp4",
+      "video_id": "7X4EAQBTuEM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 99
+  "_voice_idx": 100
 }
