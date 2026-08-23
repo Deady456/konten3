@@ -105,7 +105,8 @@
     "what-if-yupiter-menggantikan-posisi-bulan",
     "what-if-bulan-menjadi-lubang-hitam",
     "what-if-galaksi-andromeda-menabrak-bima-sakti",
-    "what-if-matahari-tiba-tiba-lenyap"
+    "what-if-matahari-tiba-tiba-lenyap",
+    "what-if-magnetar-masuk-tata-surya"
   ],
   "published": [
     {
@@ -1109,7 +1110,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260823_113237",
+      "topic": "what-if-magnetar-masuk-tata-surya",
+      "title": "Bagaimana Jika Bintang Magnetar Masuk ke Tata Surya Kita?",
+      "path": "/home/runner/work/konten3/konten3/output/20260823_113237_what-if-magnetar-masuk-tata-surya/final.mp4",
+      "video_id": "fG_bP9zvbG4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 102
+  "_voice_idx": 103
 }
