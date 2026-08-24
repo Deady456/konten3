@@ -107,7 +107,8 @@
     "what-if-galaksi-andromeda-menabrak-bima-sakti",
     "what-if-matahari-tiba-tiba-lenyap",
     "what-if-magnetar-masuk-tata-surya",
-    "what-if-bintang-pengelana-masuk-tata-surya"
+    "what-if-bintang-pengelana-masuk-tata-surya",
+    "what-if-bumi-di-pusat-galaksi-bima-sakti"
   ],
   "published": [
     {
@@ -1131,7 +1132,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260824_113149",
+      "topic": "what-if-bumi-di-pusat-galaksi-bima-sakti",
+      "title": "Bagaimana Jika Bumi Pindah ke Pusat Galaksi Bima Sakti?",
+      "path": "/home/runner/work/konten3/konten3/output/20260824_113149_what-if-bumi-di-pusat-galaksi-bima-sakti/final.mp4",
+      "video_id": "z_WWNn_V7KM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 104
+  "_voice_idx": 105
 }
