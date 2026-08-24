@@ -108,7 +108,8 @@
     "what-if-matahari-tiba-tiba-lenyap",
     "what-if-magnetar-masuk-tata-surya",
     "what-if-bintang-pengelana-masuk-tata-surya",
-    "what-if-bumi-di-pusat-galaksi-bima-sakti"
+    "what-if-bumi-di-pusat-galaksi-bima-sakti",
+    "what-if-bumi-mengorbit-sistem-bintang-ganda"
   ],
   "published": [
     {
@@ -1142,7 +1143,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260824_233139",
+      "topic": "what-if-bumi-mengorbit-sistem-bintang-ganda",
+      "title": "Bagaimana Jika Bumi Mengorbit Dua Matahari Sekaligus?",
+      "path": "/home/runner/work/konten3/konten3/output/20260824_233139_what-if-bumi-mengorbit-sistem-bintang-ganda/final.mp4",
+      "video_id": "7k6SYRic8Zo",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 105
+  "_voice_idx": 106
 }
