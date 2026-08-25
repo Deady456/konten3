@@ -109,7 +109,8 @@
     "what-if-magnetar-masuk-tata-surya",
     "what-if-bintang-pengelana-masuk-tata-surya",
     "what-if-bumi-di-pusat-galaksi-bima-sakti",
-    "what-if-bumi-mengorbit-sistem-bintang-ganda"
+    "what-if-bumi-mengorbit-sistem-bintang-ganda",
+    "what-if-bumi-di-bootes-void"
   ],
   "published": [
     {
@@ -1153,7 +1154,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260825_113157",
+      "topic": "what-if-bumi-di-bootes-void",
+      "title": "Bagaimana Jika Bumi Terjebak di Bo\u00f6tes Void Kekosongan Terbesar Alam Semesta?",
+      "path": "/home/runner/work/konten3/konten3/output/20260825_113157_what-if-bumi-di-bootes-void/final.mp4",
+      "video_id": "UkCmyXOQ7Ec",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 106
+  "_voice_idx": 107
 }
