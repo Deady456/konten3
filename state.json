@@ -110,7 +110,8 @@
     "what-if-bintang-pengelana-masuk-tata-surya",
     "what-if-bumi-di-pusat-galaksi-bima-sakti",
     "what-if-bumi-mengorbit-sistem-bintang-ganda",
-    "what-if-bumi-di-bootes-void"
+    "what-if-bumi-di-bootes-void",
+    "what-if-semburan-sinar-gamma-menghantam-bumi"
   ],
   "published": [
     {
@@ -1164,7 +1165,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260825_233210",
+      "topic": "what-if-semburan-sinar-gamma-menghantam-bumi",
+      "title": "Bagaimana Jika Semburan Sinar Gamma Menghantam Bumi? Bencana Kosmik Mematikan!",
+      "path": "/home/runner/work/konten3/konten3/output/20260825_233210_what-if-semburan-sinar-gamma-menghantam-bumi/final.mp4",
+      "video_id": "i4_NzIu-610",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 107
+  "_voice_idx": 108
 }
