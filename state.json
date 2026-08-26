@@ -111,7 +111,8 @@
     "what-if-bumi-di-pusat-galaksi-bima-sakti",
     "what-if-bumi-mengorbit-sistem-bintang-ganda",
     "what-if-bumi-di-bootes-void",
-    "what-if-semburan-sinar-gamma-menghantam-bumi"
+    "what-if-semburan-sinar-gamma-menghantam-bumi",
+    "what-if-lubang-hitam-primordial-menghantam-bumi"
   ],
   "published": [
     {
@@ -1175,7 +1176,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260826_113200",
+      "topic": "what-if-lubang-hitam-primordial-menghantam-bumi",
+      "title": "Bagaimana Jika Lubang Hitam Seukuran Koin Menghantam Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260826_113200_what-if-lubang-hitam-primordial-menghantam-bumi/final.mp4",
+      "video_id": "r5jNSRutebg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 108
+  "_voice_idx": 109
 }
