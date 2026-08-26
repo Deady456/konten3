@@ -112,7 +112,8 @@
     "what-if-bumi-mengorbit-sistem-bintang-ganda",
     "what-if-bumi-di-bootes-void",
     "what-if-semburan-sinar-gamma-menghantam-bumi",
-    "what-if-lubang-hitam-primordial-menghantam-bumi"
+    "what-if-lubang-hitam-primordial-menghantam-bumi",
+    "what-if-bumi-di-dalam-gugus-bintang-bola"
   ],
   "published": [
     {
@@ -1186,7 +1187,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260826_233151",
+      "topic": "what-if-bumi-di-dalam-gugus-bintang-bola",
+      "title": "Bagaimana Jika Bumi Berada di Dalam Gugus Bintang Bola? Langit Malam Tanpa Kegelapan!",
+      "path": "/home/runner/work/konten3/konten3/output/20260826_233151_what-if-bumi-di-dalam-gugus-bintang-bola/final.mp4",
+      "video_id": "UoJBMG1IVJA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 109
+  "_voice_idx": 110
 }
