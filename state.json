@@ -115,7 +115,8 @@
     "what-if-lubang-hitam-primordial-menghantam-bumi",
     "what-if-bumi-di-dalam-gugus-bintang-bola",
     "what-if-bumi-menjadi-planet-pengelana-di-ruang-hampa",
-    "what-if-bumi-masuk-lubang-hitam-supermasif"
+    "what-if-bumi-masuk-lubang-hitam-supermasif",
+    "what-if-bumi-mengorbit-bintang-neutron-pulsar"
   ],
   "published": [
     {
@@ -1219,7 +1220,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260827_233151",
+      "topic": "what-if-bumi-mengorbit-bintang-neutron-pulsar",
+      "title": "Bagaimana Jika Bumi Mengorbit Bintang Neutron Pulsar?",
+      "path": "/home/runner/work/konten3/konten3/output/20260827_233151_what-if-bumi-mengorbit-bintang-neutron-pulsar/final.mp4",
+      "video_id": "5uDquWygSVg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 112
+  "_voice_idx": 113
 }
