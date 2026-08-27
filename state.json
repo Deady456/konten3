@@ -114,7 +114,8 @@
     "what-if-semburan-sinar-gamma-menghantam-bumi",
     "what-if-lubang-hitam-primordial-menghantam-bumi",
     "what-if-bumi-di-dalam-gugus-bintang-bola",
-    "what-if-bumi-menjadi-planet-pengelana-di-ruang-hampa"
+    "what-if-bumi-menjadi-planet-pengelana-di-ruang-hampa",
+    "what-if-bumi-masuk-lubang-hitam-supermasif"
   ],
   "published": [
     {
@@ -1208,7 +1209,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260827_113251",
+      "topic": "what-if-bumi-masuk-lubang-hitam-supermasif",
+      "title": "Bagaimana Jika Bumi Tersedot Masuk ke Dalam Lubang Hitam Supermasif?",
+      "path": "/home/runner/work/konten3/konten3/output/20260827_113251_what-if-bumi-masuk-lubang-hitam-supermasif/final.mp4",
+      "video_id": "UaNuw1-SSgQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 111
+  "_voice_idx": 112
 }
