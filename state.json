@@ -113,7 +113,8 @@
     "what-if-bumi-di-bootes-void",
     "what-if-semburan-sinar-gamma-menghantam-bumi",
     "what-if-lubang-hitam-primordial-menghantam-bumi",
-    "what-if-bumi-di-dalam-gugus-bintang-bola"
+    "what-if-bumi-di-dalam-gugus-bintang-bola",
+    "what-if-bumi-menjadi-planet-pengelana-di-ruang-hampa"
   ],
   "published": [
     {
@@ -1197,7 +1198,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260827_094255",
+      "topic": "what-if-bumi-menjadi-planet-pengelana-di-ruang-hampa",
+      "title": "Bagaimana Jika Bumi Terlempar Menjadi Planet Pengelana Tanpa Matahari?",
+      "path": "/home/runner/work/konten3/konten3/output/20260827_094255_what-if-bumi-menjadi-planet-pengelana-di-ruang-hampa/final.mp4",
+      "video_id": "FSxo9cgYAa8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 110
+  "_voice_idx": 111
 }
