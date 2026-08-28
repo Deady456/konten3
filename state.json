@@ -116,7 +116,8 @@
     "what-if-bumi-di-dalam-gugus-bintang-bola",
     "what-if-bumi-menjadi-planet-pengelana-di-ruang-hampa",
     "what-if-bumi-masuk-lubang-hitam-supermasif",
-    "what-if-bumi-mengorbit-bintang-neutron-pulsar"
+    "what-if-bumi-mengorbit-bintang-neutron-pulsar",
+    "what-if-bintang-betelgeuse-meledak-supernova"
   ],
   "published": [
     {
@@ -1230,7 +1231,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260828_113205",
+      "topic": "what-if-bintang-betelgeuse-meledak-supernova",
+      "title": "Bagaimana Jika Bintang Betelgeuse Meledak Menjadi Supernova Hari Ini?",
+      "path": "/home/runner/work/konten3/konten3/output/20260828_113205_what-if-bintang-betelgeuse-meledak-supernova/final.mp4",
+      "video_id": "-FUdcrc-rCw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 113
+  "_voice_idx": 114
 }
