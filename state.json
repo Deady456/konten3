@@ -117,7 +117,8 @@
     "what-if-bumi-menjadi-planet-pengelana-di-ruang-hampa",
     "what-if-bumi-masuk-lubang-hitam-supermasif",
     "what-if-bumi-mengorbit-bintang-neutron-pulsar",
-    "what-if-bintang-betelgeuse-meledak-supernova"
+    "what-if-bintang-betelgeuse-meledak-supernova",
+    "what-if-bumi-terikat-pasang-surut-bintang-kerdil-merah"
   ],
   "published": [
     {
@@ -1241,7 +1242,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260828_233159",
+      "topic": "what-if-bumi-terikat-pasang-surut-bintang-kerdil-merah",
+      "title": "Bagaimana Jika Bumi Terkunci Dalam Siang Dan Malam Abadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260828_233159_what-if-bumi-terikat-pasang-surut-bintang-kerdil-merah/final.mp4",
+      "video_id": "xZ-5DDvwDRs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 114
+  "_voice_idx": 115
 }
