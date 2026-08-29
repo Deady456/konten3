@@ -118,7 +118,8 @@
     "what-if-bumi-masuk-lubang-hitam-supermasif",
     "what-if-bumi-mengorbit-bintang-neutron-pulsar",
     "what-if-bintang-betelgeuse-meledak-supernova",
-    "what-if-bumi-terikat-pasang-surut-bintang-kerdil-merah"
+    "what-if-bumi-terikat-pasang-surut-bintang-kerdil-merah",
+    "what-if-tata-surya-melewati-awan-molekul-raksasa"
   ],
   "published": [
     {
@@ -1252,7 +1253,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260829_113154",
+      "topic": "what-if-tata-surya-melewati-awan-molekul-raksasa",
+      "title": "Bagaimana Jika Tata Surya Menabrak Awan Molekul Raksasa?",
+      "path": "/home/runner/work/konten3/konten3/output/20260829_113154_what-if-tata-surya-melewati-awan-molekul-raksasa/final.mp4",
+      "video_id": "DwnNwgQeioc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 115
+  "_voice_idx": 116
 }
