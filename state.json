@@ -119,7 +119,8 @@
     "what-if-bumi-mengorbit-bintang-neutron-pulsar",
     "what-if-bintang-betelgeuse-meledak-supernova",
     "what-if-bumi-terikat-pasang-surut-bintang-kerdil-merah",
-    "what-if-tata-surya-melewati-awan-molekul-raksasa"
+    "what-if-tata-surya-melewati-awan-molekul-raksasa",
+    "what-if-kilonova-dekat-tata-surya"
   ],
   "published": [
     {
@@ -1263,7 +1264,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260829_233200",
+      "topic": "what-if-kilonova-dekat-tata-surya",
+      "title": "Bagaimana Jika Tabrakan Bintang Neutron Kilonova Terjadi di Dekat Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260829_233200_what-if-kilonova-dekat-tata-surya/final.mp4",
+      "video_id": "wHwnMHYAaZ8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 116
+  "_voice_idx": 117
 }
