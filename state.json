@@ -120,7 +120,8 @@
     "what-if-bintang-betelgeuse-meledak-supernova",
     "what-if-bumi-terikat-pasang-surut-bintang-kerdil-merah",
     "what-if-tata-surya-melewati-awan-molekul-raksasa",
-    "what-if-kilonova-dekat-tata-surya"
+    "what-if-kilonova-dekat-tata-surya",
+    "what-if-bumi-mengorbit-bintang-kerdil-putih"
   ],
   "published": [
     {
@@ -1274,7 +1275,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260830_113200",
+      "topic": "what-if-bumi-mengorbit-bintang-kerdil-putih",
+      "title": "Bagaimana Jika Bumi Mengorbit Bintang Kerdil Putih?",
+      "path": "/home/runner/work/konten3/konten3/output/20260830_113200_what-if-bumi-mengorbit-bintang-kerdil-putih/final.mp4",
+      "video_id": "JLgnh3eTnGc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 117
+  "_voice_idx": 118
 }
