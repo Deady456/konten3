@@ -123,7 +123,8 @@
     "what-if-kilonova-dekat-tata-surya",
     "what-if-bumi-mengorbit-bintang-kerdil-putih",
     "what-if-asteroid-antimateri-masuk-tata-surya",
-    "what-if-merkurius-menabrak-bumi"
+    "what-if-merkurius-menabrak-bumi",
+    "what-if-matahari-diganti-uy-scuti"
   ],
   "published": [
     {
@@ -1307,7 +1308,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260831_233157",
+      "topic": "what-if-matahari-diganti-uy-scuti",
+      "title": "Bagaimana Jika Matahari Digantikan Bintang Hiperraksasa UY Scuti?",
+      "path": "/home/runner/work/konten3/konten3/output/20260831_233157_what-if-matahari-diganti-uy-scuti/final.mp4",
+      "video_id": "hNC8JvZJTEc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 120
+  "_voice_idx": 121
 }
