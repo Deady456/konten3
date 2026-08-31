@@ -122,7 +122,8 @@
     "what-if-tata-surya-melewati-awan-molekul-raksasa",
     "what-if-kilonova-dekat-tata-surya",
     "what-if-bumi-mengorbit-bintang-kerdil-putih",
-    "what-if-asteroid-antimateri-masuk-tata-surya"
+    "what-if-asteroid-antimateri-masuk-tata-surya",
+    "what-if-merkurius-menabrak-bumi"
   ],
   "published": [
     {
@@ -1296,7 +1297,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260831_113218",
+      "topic": "what-if-merkurius-menabrak-bumi",
+      "title": "Bagaimana Jika Merkurius Menabrak Bumi? Kiamat Tata Surya!",
+      "path": "/home/runner/work/konten3/konten3/output/20260831_113218_what-if-merkurius-menabrak-bumi/final.mp4",
+      "video_id": "bS9ctFu52hE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 119
+  "_voice_idx": 120
 }
