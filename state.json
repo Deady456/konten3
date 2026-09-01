@@ -125,7 +125,8 @@
     "what-if-asteroid-antimateri-masuk-tata-surya",
     "what-if-merkurius-menabrak-bumi",
     "what-if-matahari-diganti-uy-scuti",
-    "what-if-bumi-dihantam-strangelet-materi-aneh"
+    "what-if-bumi-dihantam-strangelet-materi-aneh",
+    "what-if-tata-surya-masuk-nebula-gelap-barnard-68"
   ],
   "published": [
     {
@@ -1329,7 +1330,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260901_233154",
+      "topic": "what-if-tata-surya-masuk-nebula-gelap-barnard-68",
+      "title": "Bagaimana Jika Seluruh Bintang di Langit Malam Tiba-Tiba Lenyap?",
+      "path": "/home/runner/work/konten3/konten3/output/20260901_233154_what-if-tata-surya-masuk-nebula-gelap-barnard-68/final.mp4",
+      "video_id": "sXqtJZJ8bPU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 122
+  "_voice_idx": 123
 }
