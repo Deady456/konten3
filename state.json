@@ -124,7 +124,8 @@
     "what-if-bumi-mengorbit-bintang-kerdil-putih",
     "what-if-asteroid-antimateri-masuk-tata-surya",
     "what-if-merkurius-menabrak-bumi",
-    "what-if-matahari-diganti-uy-scuti"
+    "what-if-matahari-diganti-uy-scuti",
+    "what-if-bumi-dihantam-strangelet-materi-aneh"
   ],
   "published": [
     {
@@ -1318,7 +1319,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260901_113302",
+      "topic": "what-if-bumi-dihantam-strangelet-materi-aneh",
+      "title": "Bagaimana Jika Materi Aneh Strangelet Menghantam Bumi dan Mengubah Segalanya?",
+      "path": "/home/runner/work/konten3/konten3/output/20260901_113302_what-if-bumi-dihantam-strangelet-materi-aneh/final.mp4",
+      "video_id": "21yCF_CluLs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 121
+  "_voice_idx": 122
 }
