@@ -126,7 +126,8 @@
     "what-if-merkurius-menabrak-bumi",
     "what-if-matahari-diganti-uy-scuti",
     "what-if-bumi-dihantam-strangelet-materi-aneh",
-    "what-if-tata-surya-masuk-nebula-gelap-barnard-68"
+    "what-if-tata-surya-masuk-nebula-gelap-barnard-68",
+    "what-if-awan-magellan-besar-menabrak-bima-sakti"
   ],
   "published": [
     {
@@ -1340,7 +1341,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260902_113236",
+      "topic": "what-if-awan-magellan-besar-menabrak-bima-sakti",
+      "title": "Bagaimana Jika Awan Magellan Besar Menabrak Bima Sakti Lebih Awal?",
+      "path": "/home/runner/work/konten3/konten3/output/20260902_113236_what-if-awan-magellan-besar-menabrak-bima-sakti/final.mp4",
+      "video_id": "kzpN5N-1ihY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 123
+  "_voice_idx": 124
 }
