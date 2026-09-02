@@ -127,7 +127,8 @@
     "what-if-matahari-diganti-uy-scuti",
     "what-if-bumi-dihantam-strangelet-materi-aneh",
     "what-if-tata-surya-masuk-nebula-gelap-barnard-68",
-    "what-if-awan-magellan-besar-menabrak-bima-sakti"
+    "what-if-awan-magellan-besar-menabrak-bima-sakti",
+    "what-if-peluruhan-vakum-palsu-terjadi"
   ],
   "published": [
     {
@@ -1351,7 +1352,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260902_233331",
+      "topic": "what-if-peluruhan-vakum-palsu-terjadi",
+      "title": "Bagaimana Jika Alam Semesta Hancur dalam Seperjuta Detik?",
+      "path": "/home/runner/work/konten3/konten3/output/20260902_233331_what-if-peluruhan-vakum-palsu-terjadi/final.mp4",
+      "video_id": "QYa6Z-_O2NM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 124
+  "_voice_idx": 125
 }
