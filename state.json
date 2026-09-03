@@ -129,7 +129,8 @@
     "what-if-tata-surya-masuk-nebula-gelap-barnard-68",
     "what-if-awan-magellan-besar-menabrak-bima-sakti",
     "what-if-peluruhan-vakum-palsu-terjadi",
-    "what-if-bumi-memotong-tali-kosmik"
+    "what-if-bumi-memotong-tali-kosmik",
+    "what-if-bumi-terseret-ke-sistem-alfa-centauri"
   ],
   "published": [
     {
@@ -1373,7 +1374,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260903_233701",
+      "topic": "what-if-bumi-terseret-ke-sistem-alfa-centauri",
+      "title": "Bagaimana Jika Bumi Terseret ke Sistem Tiga Bintang Alfa Centauri?",
+      "path": "/home/runner/work/konten3/konten3/output/20260903_233701_what-if-bumi-terseret-ke-sistem-alfa-centauri/final.mp4",
+      "video_id": "qFbTy-W9wFU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 126
+  "_voice_idx": 127
 }
