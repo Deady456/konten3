@@ -128,7 +128,8 @@
     "what-if-bumi-dihantam-strangelet-materi-aneh",
     "what-if-tata-surya-masuk-nebula-gelap-barnard-68",
     "what-if-awan-magellan-besar-menabrak-bima-sakti",
-    "what-if-peluruhan-vakum-palsu-terjadi"
+    "what-if-peluruhan-vakum-palsu-terjadi",
+    "what-if-bumi-memotong-tali-kosmik"
   ],
   "published": [
     {
@@ -1362,7 +1363,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260903_113244",
+      "topic": "what-if-bumi-memotong-tali-kosmik",
+      "title": "Bagaimana Jika Tali Kosmik Membelah Planet Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260903_113244_what-if-bumi-memotong-tali-kosmik/final.mp4",
+      "video_id": "AoybcSmu_bg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 125
+  "_voice_idx": 126
 }
