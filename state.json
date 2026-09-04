@@ -131,7 +131,8 @@
     "what-if-peluruhan-vakum-palsu-terjadi",
     "what-if-bumi-memotong-tali-kosmik",
     "what-if-bumi-terseret-ke-sistem-alfa-centauri",
-    "what-if-tata-surya-tersedot-great-attractor"
+    "what-if-tata-surya-tersedot-great-attractor",
+    "what-if-bumi-mengorbit-bintang-thorne-zytkow"
   ],
   "published": [
     {
@@ -1395,7 +1396,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260904_233142",
+      "topic": "what-if-bumi-mengorbit-bintang-thorne-zytkow",
+      "title": "Bagaimana Jika Bumi Mengorbit Bintang di Dalam Bintang? (Thorne-\u017bytkow)",
+      "path": "/home/runner/work/konten3/konten3/output/20260904_233142_what-if-bumi-mengorbit-bintang-thorne-zytkow/final.mp4",
+      "video_id": "7nuqnMAcULw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 128
+  "_voice_idx": 129
 }
