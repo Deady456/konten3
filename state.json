@@ -130,7 +130,8 @@
     "what-if-awan-magellan-besar-menabrak-bima-sakti",
     "what-if-peluruhan-vakum-palsu-terjadi",
     "what-if-bumi-memotong-tali-kosmik",
-    "what-if-bumi-terseret-ke-sistem-alfa-centauri"
+    "what-if-bumi-terseret-ke-sistem-alfa-centauri",
+    "what-if-tata-surya-tersedot-great-attractor"
   ],
   "published": [
     {
@@ -1384,7 +1385,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260904_113528",
+      "topic": "what-if-tata-surya-tersedot-great-attractor",
+      "title": "Bagaimana Jika Tata Surya Tersedot ke Penarik Agung?",
+      "path": "/home/runner/work/konten3/konten3/output/20260904_113528_what-if-tata-surya-tersedot-great-attractor/final.mp4",
+      "video_id": "oN20HgJwY5M",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 127
+  "_voice_idx": 128
 }
