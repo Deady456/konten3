@@ -133,7 +133,8 @@
     "what-if-bumi-terseret-ke-sistem-alfa-centauri",
     "what-if-tata-surya-tersedot-great-attractor",
     "what-if-bumi-mengorbit-bintang-thorne-zytkow",
-    "what-if-bumi-tersapu-jet-kuasar"
+    "what-if-bumi-tersapu-jet-kuasar",
+    "what-if-yupiter-menjadi-bintang"
   ],
   "published": [
     {
@@ -1417,7 +1418,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260905_233150",
+      "topic": "what-if-yupiter-menjadi-bintang",
+      "title": "Bagaimana Jika Yupiter Mendadak Berubah Menjadi Bintang Kedua?",
+      "path": "/home/runner/work/konten3/konten3/output/20260905_233150_what-if-yupiter-menjadi-bintang/final.mp4",
+      "video_id": "1y5id96GspQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 130
+  "_voice_idx": 131
 }
