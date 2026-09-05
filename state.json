@@ -132,7 +132,8 @@
     "what-if-bumi-memotong-tali-kosmik",
     "what-if-bumi-terseret-ke-sistem-alfa-centauri",
     "what-if-tata-surya-tersedot-great-attractor",
-    "what-if-bumi-mengorbit-bintang-thorne-zytkow"
+    "what-if-bumi-mengorbit-bintang-thorne-zytkow",
+    "what-if-bumi-tersapu-jet-kuasar"
   ],
   "published": [
     {
@@ -1406,7 +1407,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260905_113159",
+      "topic": "what-if-bumi-tersapu-jet-kuasar",
+      "title": "Bagaimana Jika Bumi Tersapu Jet Relativistik Kuasar Raksasa?",
+      "path": "/home/runner/work/konten3/konten3/output/20260905_113159_what-if-bumi-tersapu-jet-kuasar/final.mp4",
+      "video_id": "DK0TAgg_SHU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 129
+  "_voice_idx": 130
 }
