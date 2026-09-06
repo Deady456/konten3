@@ -135,7 +135,8 @@
     "what-if-bumi-mengorbit-bintang-thorne-zytkow",
     "what-if-bumi-tersapu-jet-kuasar",
     "what-if-yupiter-menjadi-bintang",
-    "what-if-butiran-debu-relativistik-menghantam-bumi"
+    "what-if-butiran-debu-relativistik-menghantam-bumi",
+    "what-if-bumi-masuk-nebula-orion"
   ],
   "published": [
     {
@@ -1439,7 +1440,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260906_233149",
+      "topic": "what-if-bumi-masuk-nebula-orion",
+      "title": "Bagaimana Jika Bumi Terseret Masuk ke Dalam Nebula Orion?",
+      "path": "/home/runner/work/konten3/konten3/output/20260906_233149_what-if-bumi-masuk-nebula-orion/final.mp4",
+      "video_id": "yvnrvXriozY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 132
+  "_voice_idx": 133
 }
