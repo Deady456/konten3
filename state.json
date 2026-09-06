@@ -134,7 +134,8 @@
     "what-if-tata-surya-tersedot-great-attractor",
     "what-if-bumi-mengorbit-bintang-thorne-zytkow",
     "what-if-bumi-tersapu-jet-kuasar",
-    "what-if-yupiter-menjadi-bintang"
+    "what-if-yupiter-menjadi-bintang",
+    "what-if-butiran-debu-relativistik-menghantam-bumi"
   ],
   "published": [
     {
@@ -1428,7 +1429,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260906_113148",
+      "topic": "what-if-butiran-debu-relativistik-menghantam-bumi",
+      "title": "Bagaimana Jika Sebutir Debu Menghantam Bumi Secepat Cahaya?",
+      "path": "/home/runner/work/konten3/konten3/output/20260906_113148_what-if-butiran-debu-relativistik-menghantam-bumi/final.mp4",
+      "video_id": "2uFlCVt1Hnk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 131
+  "_voice_idx": 132
 }
