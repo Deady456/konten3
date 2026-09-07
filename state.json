@@ -137,7 +137,8 @@
     "what-if-yupiter-menjadi-bintang",
     "what-if-butiran-debu-relativistik-menghantam-bumi",
     "what-if-bumi-masuk-nebula-orion",
-    "what-if-magnetar-mendekati-tata-surya"
+    "what-if-magnetar-mendekati-tata-surya",
+    "what-if-bintang-hypervelocity-melintas-tata-surya"
   ],
   "published": [
     {
@@ -1461,7 +1462,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260907_233155",
+      "topic": "what-if-bintang-hypervelocity-melintas-tata-surya",
+      "title": "Bagaimana Jika Bintang Hypervelocity Menerobos Tata Surya Kita?",
+      "path": "/home/runner/work/konten3/konten3/output/20260907_233155_what-if-bintang-hypervelocity-melintas-tata-surya/final.mp4",
+      "video_id": "aedi3Ys3bVE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 134
+  "_voice_idx": 135
 }
