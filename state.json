@@ -136,7 +136,8 @@
     "what-if-bumi-tersapu-jet-kuasar",
     "what-if-yupiter-menjadi-bintang",
     "what-if-butiran-debu-relativistik-menghantam-bumi",
-    "what-if-bumi-masuk-nebula-orion"
+    "what-if-bumi-masuk-nebula-orion",
+    "what-if-magnetar-mendekati-tata-surya"
   ],
   "published": [
     {
@@ -1450,7 +1451,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260907_113156",
+      "topic": "what-if-magnetar-mendekati-tata-surya",
+      "title": "Bagaimana Jika Bintang Magnetar Mendekati Tata Surya?",
+      "path": "/home/runner/work/konten3/konten3/output/20260907_113156_what-if-magnetar-mendekati-tata-surya/final.mp4",
+      "video_id": "u3g06MPfWRo",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 133
+  "_voice_idx": 134
 }
