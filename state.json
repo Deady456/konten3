@@ -138,7 +138,8 @@
     "what-if-butiran-debu-relativistik-menghantam-bumi",
     "what-if-bumi-masuk-nebula-orion",
     "what-if-magnetar-mendekati-tata-surya",
-    "what-if-bintang-hypervelocity-melintas-tata-surya"
+    "what-if-bintang-hypervelocity-melintas-tata-surya",
+    "what-if-bulan-melewati-batas-roche-bumi"
   ],
   "published": [
     {
@@ -1472,7 +1473,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260908_113223",
+      "topic": "what-if-bulan-melewati-batas-roche-bumi",
+      "title": "Bagaimana Jika Bulan Hancur Menjadi Cincin Bumi Kena Batas Roche",
+      "path": "/home/runner/work/konten3/konten3/output/20260908_113223_what-if-bulan-melewati-batas-roche-bumi/final.mp4",
+      "video_id": "HxS83aKTqfw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 135
+  "_voice_idx": 136
 }
