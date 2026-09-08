@@ -139,7 +139,8 @@
     "what-if-bumi-masuk-nebula-orion",
     "what-if-magnetar-mendekati-tata-surya",
     "what-if-bintang-hypervelocity-melintas-tata-surya",
-    "what-if-bulan-melewati-batas-roche-bumi"
+    "what-if-bulan-melewati-batas-roche-bumi",
+    "what-if-bintang-gliese-710-menembus-awan-oort"
   ],
   "published": [
     {
@@ -1483,7 +1484,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260908_233250",
+      "topic": "what-if-bintang-gliese-710-menembus-awan-oort",
+      "title": "Bagaimana Jika Bintang Gliese tujuh ratus sepuluh Menabrak Awan Oort Kita?",
+      "path": "/home/runner/work/konten3/konten3/output/20260908_233250_what-if-bintang-gliese-710-menembus-awan-oort/final.mp4",
+      "video_id": "wCGI8I74b6Y",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 136
+  "_voice_idx": 137
 }
