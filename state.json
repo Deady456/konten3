@@ -140,7 +140,8 @@
     "what-if-magnetar-mendekati-tata-surya",
     "what-if-bintang-hypervelocity-melintas-tata-surya",
     "what-if-bulan-melewati-batas-roche-bumi",
-    "what-if-bintang-gliese-710-menembus-awan-oort"
+    "what-if-bintang-gliese-710-menembus-awan-oort",
+    "what-if-matahari-mengalami-superflare-raksasa"
   ],
   "published": [
     {
@@ -1494,7 +1495,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260909_113223",
+      "topic": "what-if-matahari-mengalami-superflare-raksasa",
+      "title": "Bagaimana Jika Matahari Melepaskan Superflare Raksasa ke Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260909_113223_what-if-matahari-mengalami-superflare-raksasa/final.mp4",
+      "video_id": "W0BiOYFvbnw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 137
+  "_voice_idx": 138
 }
