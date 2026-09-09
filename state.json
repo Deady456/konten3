@@ -141,7 +141,8 @@
     "what-if-bintang-hypervelocity-melintas-tata-surya",
     "what-if-bulan-melewati-batas-roche-bumi",
     "what-if-bintang-gliese-710-menembus-awan-oort",
-    "what-if-matahari-mengalami-superflare-raksasa"
+    "what-if-matahari-mengalami-superflare-raksasa",
+    "what-if-bumi-berada-di-tengah-void-bootes"
   ],
   "published": [
     {
@@ -1505,7 +1506,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260909_233310",
+      "topic": "what-if-bumi-berada-di-tengah-void-bootes",
+      "title": "Bagaimana Jika Bumi Terjebak di Tempat Paling Hampa di Alam Semesta?",
+      "path": "/home/runner/work/konten3/konten3/output/20260909_233310_what-if-bumi-berada-di-tengah-void-bootes/final.mp4",
+      "video_id": "t_J1RYNQ6Iw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 138
+  "_voice_idx": 139
 }
