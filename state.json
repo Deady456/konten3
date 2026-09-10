@@ -143,7 +143,8 @@
     "what-if-bintang-gliese-710-menembus-awan-oort",
     "what-if-matahari-mengalami-superflare-raksasa",
     "what-if-bumi-berada-di-tengah-void-bootes",
-    "what-if-bumi-masuk-ke-gelembung-fermi"
+    "what-if-bumi-masuk-ke-gelembung-fermi",
+    "what-if-lubang-hitam-primordial-menembus-inti-bumi"
   ],
   "published": [
     {
@@ -1527,7 +1528,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260910_233201",
+      "topic": "what-if-lubang-hitam-primordial-menembus-inti-bumi",
+      "title": "Bagaimana Jika Lubang Hitam Primordial Menembus Inti Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260910_233201_what-if-lubang-hitam-primordial-menembus-inti-bumi/final.mp4",
+      "video_id": "XYY21tBxV3Y",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 140
+  "_voice_idx": 141
 }
