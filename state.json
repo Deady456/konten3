@@ -142,7 +142,8 @@
     "what-if-bulan-melewati-batas-roche-bumi",
     "what-if-bintang-gliese-710-menembus-awan-oort",
     "what-if-matahari-mengalami-superflare-raksasa",
-    "what-if-bumi-berada-di-tengah-void-bootes"
+    "what-if-bumi-berada-di-tengah-void-bootes",
+    "what-if-bumi-masuk-ke-gelembung-fermi"
   ],
   "published": [
     {
@@ -1516,7 +1517,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260910_113202",
+      "topic": "what-if-bumi-masuk-ke-gelembung-fermi",
+      "title": "Bagaimana Jika Bumi Masuk ke Dalam Gelembung Fermi Raksasa?",
+      "path": "/home/runner/work/konten3/konten3/output/20260910_113202_what-if-bumi-masuk-ke-gelembung-fermi/final.mp4",
+      "video_id": "oTRfPDa0BKI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 139
+  "_voice_idx": 140
 }
