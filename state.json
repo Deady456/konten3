@@ -144,7 +144,8 @@
     "what-if-matahari-mengalami-superflare-raksasa",
     "what-if-bumi-berada-di-tengah-void-bootes",
     "what-if-bumi-masuk-ke-gelembung-fermi",
-    "what-if-lubang-hitam-primordial-menembus-inti-bumi"
+    "what-if-lubang-hitam-primordial-menembus-inti-bumi",
+    "what-if-lubang-putih-muncul-di-tata-surya"
   ],
   "published": [
     {
@@ -1538,7 +1539,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260911_113238",
+      "topic": "what-if-lubang-putih-muncul-di-tata-surya",
+      "title": "Bagaimana Jika Lubang Putih Tiba-tiba Muncul di Tata Surya Kita?",
+      "path": "/home/runner/work/konten3/konten3/output/20260911_113238_what-if-lubang-putih-muncul-di-tata-surya/final.mp4",
+      "video_id": "XiV2pwa7weM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 141
+  "_voice_idx": 142
 }
