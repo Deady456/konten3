@@ -146,7 +146,8 @@
     "what-if-bumi-masuk-ke-gelembung-fermi",
     "what-if-lubang-hitam-primordial-menembus-inti-bumi",
     "what-if-lubang-putih-muncul-di-tata-surya",
-    "what-if-bumi-terlempar-dari-galaksi-bima-sakti"
+    "what-if-bumi-terlempar-dari-galaksi-bima-sakti",
+    "what-if-tata-surya-tersedot-ton-618"
   ],
   "published": [
     {
@@ -1560,7 +1561,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260912_113214",
+      "topic": "what-if-tata-surya-tersedot-ton-618",
+      "title": "Bagaimana Jika Tata Surya Tersedot Lubang Hitam Raksasa TON enam ratus delapan belas?",
+      "path": "/home/runner/work/konten3/konten3/output/20260912_113214_what-if-tata-surya-tersedot-ton-618/final.mp4",
+      "video_id": "JU22_0b-4Ok",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 143
+  "_voice_idx": 144
 }
