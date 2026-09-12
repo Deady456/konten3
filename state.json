@@ -147,7 +147,8 @@
     "what-if-lubang-hitam-primordial-menembus-inti-bumi",
     "what-if-lubang-putih-muncul-di-tata-surya",
     "what-if-bumi-terlempar-dari-galaksi-bima-sakti",
-    "what-if-tata-surya-tersedot-ton-618"
+    "what-if-tata-surya-tersedot-ton-618",
+    "what-if-semburan-sinar-gamma-wr-104-menghantam-bumi"
   ],
   "published": [
     {
@@ -1571,7 +1572,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260912_233215",
+      "topic": "what-if-semburan-sinar-gamma-wr-104-menghantam-bumi",
+      "title": "Bagaimana Jika Semburan Sinar Gamma Bintang WR seratus empat Menghantam Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260912_233215_what-if-semburan-sinar-gamma-wr-104-menghantam-bumi/final.mp4",
+      "video_id": "xWcK7Tyvt7I",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 144
+  "_voice_idx": 145
 }
