@@ -148,7 +148,8 @@
     "what-if-lubang-putih-muncul-di-tata-surya",
     "what-if-bumi-terlempar-dari-galaksi-bima-sakti",
     "what-if-tata-surya-tersedot-ton-618",
-    "what-if-semburan-sinar-gamma-wr-104-menghantam-bumi"
+    "what-if-semburan-sinar-gamma-wr-104-menghantam-bumi",
+    "what-if-awan-smith-menabrak-tata-surya"
   ],
   "published": [
     {
@@ -1582,7 +1583,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260913_233203",
+      "topic": "what-if-awan-smith-menabrak-tata-surya",
+      "title": "Bagaimana Jika Awan Smith Menabrak Tata Surya KITA?",
+      "path": "/home/runner/work/konten3/konten3/output/20260913_233203_what-if-awan-smith-menabrak-tata-surya/final.mp4",
+      "video_id": "Nya4u0YfLAs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 145
+  "_voice_idx": 146
 }
