@@ -149,7 +149,8 @@
     "what-if-bumi-terlempar-dari-galaksi-bima-sakti",
     "what-if-tata-surya-tersedot-ton-618",
     "what-if-semburan-sinar-gamma-wr-104-menghantam-bumi",
-    "what-if-awan-smith-menabrak-tata-surya"
+    "what-if-awan-smith-menabrak-tata-surya",
+    "what-if-bumi-mengorbit-pulsar-psr-j0437-4715"
   ],
   "published": [
     {
@@ -1593,7 +1594,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260914_113228",
+      "topic": "what-if-bumi-mengorbit-pulsar-psr-j0437-4715",
+      "title": "Bagaimana Jika Matahari Mendadak Berubah Menjadi Bintang Neutron Pulsar?",
+      "path": "/home/runner/work/konten3/konten3/output/20260914_113228_what-if-bumi-mengorbit-pulsar-psr-j0437-4715/final.mp4",
+      "video_id": "DBrzoKFsd5k",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 146
+  "_voice_idx": 147
 }
