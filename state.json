@@ -150,7 +150,8 @@
     "what-if-tata-surya-tersedot-ton-618",
     "what-if-semburan-sinar-gamma-wr-104-menghantam-bumi",
     "what-if-awan-smith-menabrak-tata-surya",
-    "what-if-bumi-mengorbit-pulsar-psr-j0437-4715"
+    "what-if-bumi-mengorbit-pulsar-psr-j0437-4715",
+    "what-if-planet-pengelana-pso-j318-5-22-menembus-tata-surya"
   ],
   "published": [
     {
@@ -1604,7 +1605,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260914_233238",
+      "topic": "what-if-planet-pengelana-pso-j318-5-22-menembus-tata-surya",
+      "title": "Bagaimana Jika Planet Pengelana Raksasa Menembus Tata Surya?",
+      "path": "/home/runner/work/konten3/konten3/output/20260914_233238_what-if-planet-pengelana-pso-j318-5-22-menembus-tata-surya/final.mp4",
+      "video_id": "I7gIgwPMZ0w",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 147
+  "_voice_idx": 148
 }
