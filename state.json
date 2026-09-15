@@ -151,7 +151,8 @@
     "what-if-semburan-sinar-gamma-wr-104-menghantam-bumi",
     "what-if-awan-smith-menabrak-tata-surya",
     "what-if-bumi-mengorbit-pulsar-psr-j0437-4715",
-    "what-if-planet-pengelana-pso-j318-5-22-menembus-tata-surya"
+    "what-if-planet-pengelana-pso-j318-5-22-menembus-tata-surya",
+    "what-if-komet-bernardinelli-bernstein-menabrak-bumi"
   ],
   "published": [
     {
@@ -1615,7 +1616,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260915_113202",
+      "topic": "what-if-komet-bernardinelli-bernstein-menabrak-bumi",
+      "title": "Bagaimana Jika Komet Terbesar di Alam Semesta Menabrak Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260915_113202_what-if-komet-bernardinelli-bernstein-menabrak-bumi/final.mp4",
+      "video_id": "O9Ik96JuP0A",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 148
+  "_voice_idx": 149
 }
