@@ -152,7 +152,8 @@
     "what-if-awan-smith-menabrak-tata-surya",
     "what-if-bumi-mengorbit-pulsar-psr-j0437-4715",
     "what-if-planet-pengelana-pso-j318-5-22-menembus-tata-surya",
-    "what-if-komet-bernardinelli-bernstein-menabrak-bumi"
+    "what-if-komet-bernardinelli-bernstein-menabrak-bumi",
+    "what-if-bintang-betelgeuse-meledak-supernova"
   ],
   "published": [
     {
@@ -1626,7 +1627,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260915_233227",
+      "topic": "what-if-bintang-betelgeuse-meledak-supernova",
+      "title": "Bagaimana Jika Bintang Betelgeuse Meledak Hari Ini? Ini Dampaknya Bagi Bumi!",
+      "path": "/home/runner/work/konten3/konten3/output/20260915_233227_what-if-bintang-betelgeuse-meledak-supernova/final.mp4",
+      "video_id": "mNj-IaNHyxs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 149
+  "_voice_idx": 150
 }
