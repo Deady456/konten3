@@ -153,7 +153,8 @@
     "what-if-bumi-mengorbit-pulsar-psr-j0437-4715",
     "what-if-planet-pengelana-pso-j318-5-22-menembus-tata-surya",
     "what-if-komet-bernardinelli-bernstein-menabrak-bumi",
-    "what-if-bintang-betelgeuse-meledak-supernova"
+    "what-if-bintang-betelgeuse-meledak-supernova",
+    "what-if-kugelblitz-muncul-di-dekat-bumi"
   ],
   "published": [
     {
@@ -1637,7 +1638,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260916_113212",
+      "topic": "what-if-kugelblitz-muncul-di-dekat-bumi",
+      "title": "Bagaimana Jika Lubang Hitam dari Cahaya Murni Muncul di Dekat Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260916_113212_what-if-kugelblitz-muncul-di-dekat-bumi/final.mp4",
+      "video_id": "mfk-Baplomk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 150
+  "_voice_idx": 151
 }
