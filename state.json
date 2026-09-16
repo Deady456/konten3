@@ -154,7 +154,8 @@
     "what-if-planet-pengelana-pso-j318-5-22-menembus-tata-surya",
     "what-if-komet-bernardinelli-bernstein-menabrak-bumi",
     "what-if-bintang-betelgeuse-meledak-supernova",
-    "what-if-kugelblitz-muncul-di-dekat-bumi"
+    "what-if-kugelblitz-muncul-di-dekat-bumi",
+    "what-if-lubang-hitam-gaia-bh1-mendekati-tata-surya"
   ],
   "published": [
     {
@@ -1648,7 +1649,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260916_233144",
+      "topic": "what-if-lubang-hitam-gaia-bh1-mendekati-tata-surya",
+      "title": "Bagaimana Jika Lubang Hitam Gaia BH1 Mendekati Tata Surya?",
+      "path": "/home/runner/work/konten3/konten3/output/20260916_233144_what-if-lubang-hitam-gaia-bh1-mendekati-tata-surya/final.mp4",
+      "video_id": "PB0NUMXeyho",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 151
+  "_voice_idx": 152
 }
