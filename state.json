@@ -156,7 +156,8 @@
     "what-if-bintang-betelgeuse-meledak-supernova",
     "what-if-kugelblitz-muncul-di-dekat-bumi",
     "what-if-lubang-hitam-gaia-bh1-mendekati-tata-surya",
-    "what-if-sirius-b-menabrak-matahari"
+    "what-if-sirius-b-menabrak-matahari",
+    "what-if-eta-carinae-meledak-hypernova"
   ],
   "published": [
     {
@@ -1670,7 +1671,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260917_233214",
+      "topic": "what-if-eta-carinae-meledak-hypernova",
+      "title": "Bagaimana Jika Bintang Eta Carinae Meledak Jadi Hypernova?",
+      "path": "/home/runner/work/konten3/konten3/output/20260917_233214_what-if-eta-carinae-meledak-hypernova/final.mp4",
+      "video_id": "_1xb_PvqFU8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 153
+  "_voice_idx": 154
 }
