@@ -155,7 +155,8 @@
     "what-if-komet-bernardinelli-bernstein-menabrak-bumi",
     "what-if-bintang-betelgeuse-meledak-supernova",
     "what-if-kugelblitz-muncul-di-dekat-bumi",
-    "what-if-lubang-hitam-gaia-bh1-mendekati-tata-surya"
+    "what-if-lubang-hitam-gaia-bh1-mendekati-tata-surya",
+    "what-if-sirius-b-menabrak-matahari"
   ],
   "published": [
     {
@@ -1659,7 +1660,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260917_113229",
+      "topic": "what-if-sirius-b-menabrak-matahari",
+      "title": "Bagaimana Jika Bintang Sirius B Menabrak Matahari Kita?",
+      "path": "/home/runner/work/konten3/konten3/output/20260917_113229_what-if-sirius-b-menabrak-matahari/final.mp4",
+      "video_id": "ACrGlvdtcdA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 152
+  "_voice_idx": 153
 }
