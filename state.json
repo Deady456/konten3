@@ -157,7 +157,8 @@
     "what-if-kugelblitz-muncul-di-dekat-bumi",
     "what-if-lubang-hitam-gaia-bh1-mendekati-tata-surya",
     "what-if-sirius-b-menabrak-matahari",
-    "what-if-eta-carinae-meledak-hypernova"
+    "what-if-eta-carinae-meledak-hypernova",
+    "what-if-materi-aneh-strangelet-menghantam-bumi"
   ],
   "published": [
     {
@@ -1681,7 +1682,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260920_114650",
+      "topic": "what-if-materi-aneh-strangelet-menghantam-bumi",
+      "title": "Bagaimana Jika Tetesan Materi Aneh Strangelet Menghantam Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20260920_114650_what-if-materi-aneh-strangelet-menghantam-bumi/final.mp4",
+      "video_id": "Cr3Hd1UFnr0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 154
+  "_voice_idx": 155
 }
