@@ -158,7 +158,8 @@
     "what-if-lubang-hitam-gaia-bh1-mendekati-tata-surya",
     "what-if-sirius-b-menabrak-matahari",
     "what-if-eta-carinae-meledak-hypernova",
-    "what-if-materi-aneh-strangelet-menghantam-bumi"
+    "what-if-materi-aneh-strangelet-menghantam-bumi",
+    "what-if-tata-surya-masuk-ke-awan-gelap-barnard-68"
   ],
   "published": [
     {
@@ -1692,7 +1693,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260921_234616",
+      "topic": "what-if-tata-surya-masuk-ke-awan-gelap-barnard-68",
+      "title": "Bagaimana Jika Tata Surya Masuk ke Awan Gelap Barnard Enam Puluh Delapan?",
+      "path": "/home/runner/work/konten3/konten3/output/20260921_234616_what-if-tata-surya-masuk-ke-awan-gelap-barnard-68/final.mp4",
+      "video_id": "fzBM2dQvkWQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 155
+  "_voice_idx": 156
 }
