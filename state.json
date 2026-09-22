@@ -159,7 +159,8 @@
     "what-if-sirius-b-menabrak-matahari",
     "what-if-eta-carinae-meledak-hypernova",
     "what-if-materi-aneh-strangelet-menghantam-bumi",
-    "what-if-tata-surya-masuk-ke-awan-gelap-barnard-68"
+    "what-if-tata-surya-masuk-ke-awan-gelap-barnard-68",
+    "what-if-stephenson-2-18-menggantikan-matahari"
   ],
   "published": [
     {
@@ -1703,7 +1704,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260922_114625",
+      "topic": "what-if-stephenson-2-18-menggantikan-matahari",
+      "title": "Bagaimana Jika Bintang Terbesar Stephenson dua-delapan belas Menggantikan Matahari?",
+      "path": "/home/runner/work/konten3/konten3/output/20260922_114625_what-if-stephenson-2-18-menggantikan-matahari/final.mp4",
+      "video_id": "OhHUbgJnJtg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 156
+  "_voice_idx": 157
 }
