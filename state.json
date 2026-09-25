@@ -160,7 +160,8 @@
     "what-if-eta-carinae-meledak-hypernova",
     "what-if-materi-aneh-strangelet-menghantam-bumi",
     "what-if-tata-surya-masuk-ke-awan-gelap-barnard-68",
-    "what-if-stephenson-2-18-menggantikan-matahari"
+    "what-if-stephenson-2-18-menggantikan-matahari",
+    "what-if-galaksi-andromeda-bergerak-mundur"
   ],
   "published": [
     {
@@ -1714,7 +1715,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260925_171244",
+      "topic": "what-if-galaksi-andromeda-bergerak-mundur",
+      "title": "Apa Jika Galaksi Andromeda Tiba-Tiba Bergerak Mundur?",
+      "path": "/home/runner/work/konten3/konten3/output/20260925_171244_what-if-galaksi-andromeda-bergerak-mundur/final.mp4",
+      "video_id": "5hcp1QSE_dU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 157
+  "_voice_idx": 158
 }
