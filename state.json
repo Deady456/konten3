@@ -161,7 +161,8 @@
     "what-if-materi-aneh-strangelet-menghantam-bumi",
     "what-if-tata-surya-masuk-ke-awan-gelap-barnard-68",
     "what-if-stephenson-2-18-menggantikan-matahari",
-    "what-if-galaksi-andromeda-bergerak-mundur"
+    "what-if-galaksi-andromeda-bergerak-mundur",
+    "what-if-bumi-mengalami-pasar-waktu"
   ],
   "published": [
     {
@@ -1725,7 +1726,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260925_233411",
+      "topic": "what-if-bumi-mengalami-pasar-waktu",
+      "title": "Apa Jika Bumi Mengalami Pasar Waktu?",
+      "path": "/home/runner/work/konten3/konten3/output/20260925_233411_what-if-bumi-mengalami-pasar-waktu/final.mp4",
+      "video_id": "NfE0vc_dbJw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 158
+  "_voice_idx": 159
 }
