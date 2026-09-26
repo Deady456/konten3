@@ -162,7 +162,8 @@
     "what-if-tata-surya-masuk-ke-awan-gelap-barnard-68",
     "what-if-stephenson-2-18-menggantikan-matahari",
     "what-if-galaksi-andromeda-bergerak-mundur",
-    "what-if-bumi-mengalami-pasar-waktu"
+    "what-if-bumi-mengalami-pasar-waktu",
+    "what-if-bumi-masuk-medan-neutron-star"
   ],
   "published": [
     {
@@ -1736,7 +1737,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260926_113240",
+      "topic": "what-if-bumi-masuk-medan-neutron-star",
+      "title": "What If Bumi Tersedot Ke Medan Gravitasi Bintang Neutron yang Melayang?",
+      "path": "/home/runner/work/konten3/konten3/output/20260926_113240_what-if-bumi-masuk-medan-neutron-star/final.mp4",
+      "video_id": "mVVv75NHl8o",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 159
+  "_voice_idx": 160
 }
