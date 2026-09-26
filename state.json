@@ -163,7 +163,8 @@
     "what-if-stephenson-2-18-menggantikan-matahari",
     "what-if-galaksi-andromeda-bergerak-mundur",
     "what-if-bumi-mengalami-pasar-waktu",
-    "what-if-bumi-masuk-medan-neutron-star"
+    "what-if-bumi-masuk-medan-neutron-star",
+    "what-if-proxima-centauri-supernova"
   ],
   "published": [
     {
@@ -1747,7 +1748,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260926_233201",
+      "topic": "what-if-proxima-centauri-supernova",
+      "title": "Jika Proxima Centauri Meletus Menjadi Supernova: Dampak pada Bumi dan Tata Surya",
+      "path": "/home/runner/work/konten3/konten3/output/20260926_233201_what-if-proxima-centauri-supernova/final.mp4",
+      "video_id": "ptzAUXLe1h4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 160
+  "_voice_idx": 161
 }
