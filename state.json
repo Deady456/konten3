@@ -165,7 +165,8 @@
     "what-if-bumi-mengalami-pasar-waktu",
     "what-if-bumi-masuk-medan-neutron-star",
     "what-if-proxima-centauri-supernova",
-    "what-if-supermassive-blackhole-passes-through-solar-system"
+    "what-if-supermassive-blackhole-passes-through-solar-system",
+    "what-if-solar-system-into-molecular-cloud"
   ],
   "published": [
     {
@@ -1769,7 +1770,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260927_233158",
+      "topic": "what-if-solar-system-into-molecular-cloud",
+      "title": "What If Tata Surya Kita Menyelam ke Awan Gas Raksasa di Antarbintang?",
+      "path": "/home/runner/work/konten3/konten3/output/20260927_233158_what-if-solar-system-into-molecular-cloud/final.mp4",
+      "video_id": "apLeZ4_zAD4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 162
+  "_voice_idx": 163
 }
