@@ -164,7 +164,8 @@
     "what-if-galaksi-andromeda-bergerak-mundur",
     "what-if-bumi-mengalami-pasar-waktu",
     "what-if-bumi-masuk-medan-neutron-star",
-    "what-if-proxima-centauri-supernova"
+    "what-if-proxima-centauri-supernova",
+    "what-if-supermassive-blackhole-passes-through-solar-system"
   ],
   "published": [
     {
@@ -1758,7 +1759,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260927_113200",
+      "topic": "what-if-supermassive-blackhole-passes-through-solar-system",
+      "title": "What If Sebuah Lubang Hitam Supermasif Menyusup ke Tengah Tata Surya Kita?",
+      "path": "/home/runner/work/konten3/konten3/output/20260927_113200_what-if-supermassive-blackhole-passes-through-solar-system/final.mp4",
+      "video_id": "8iBQWo5VOV4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 161
+  "_voice_idx": 162
 }
