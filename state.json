@@ -167,7 +167,8 @@
     "what-if-proxima-centauri-supernova",
     "what-if-supermassive-blackhole-passes-through-solar-system",
     "what-if-solar-system-into-molecular-cloud",
-    "what-if-cosmic-string-penetrates-solar-system"
+    "what-if-cosmic-string-penetrates-solar-system",
+    "what-if-planet-nine-berubah-orbit"
   ],
   "published": [
     {
@@ -1791,7 +1792,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260928_233224",
+      "topic": "what-if-planet-nine-berubah-orbit",
+      "title": "What If Planet Nine Mengubah Orbit dan Menghantam Bumi? Dampak Mengguncang Tata Surya",
+      "path": "/home/runner/work/konten3/konten3/output/20260928_233224_what-if-planet-nine-berubah-orbit/final.mp4",
+      "video_id": "n5LMS6WFVs0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 164
+  "_voice_idx": 165
 }
