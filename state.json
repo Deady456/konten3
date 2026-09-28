@@ -166,7 +166,8 @@
     "what-if-bumi-masuk-medan-neutron-star",
     "what-if-proxima-centauri-supernova",
     "what-if-supermassive-blackhole-passes-through-solar-system",
-    "what-if-solar-system-into-molecular-cloud"
+    "what-if-solar-system-into-molecular-cloud",
+    "what-if-cosmic-string-penetrates-solar-system"
   ],
   "published": [
     {
@@ -1780,7 +1781,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260928_113215",
+      "topic": "what-if-cosmic-string-penetrates-solar-system",
+      "title": "What If Sebuah Cosmic String Memotong Tata Surya? Dampaknya pada Bumi dan Mars",
+      "path": "/home/runner/work/konten3/konten3/output/20260928_113215_what-if-cosmic-string-penetrates-solar-system/final.mp4",
+      "video_id": "dt7WRykkK5s",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 163
+  "_voice_idx": 164
 }
