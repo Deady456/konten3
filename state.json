@@ -169,7 +169,8 @@
     "what-if-solar-system-into-molecular-cloud",
     "what-if-cosmic-string-penetrates-solar-system",
     "what-if-planet-nine-berubah-orbit",
-    "what-if-nova-putih-dekat"
+    "what-if-nova-putih-dekat",
+    "what-if-rogue-neutron-star"
   ],
   "published": [
     {
@@ -1813,7 +1814,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260929_233213",
+      "topic": "what-if-rogue-neutron-star",
+      "title": "What If Sebuah Bintang Neutron Jatuh Dekat Bumi? Dampak Mengguncang Tata Surya",
+      "path": "/home/runner/work/konten3/konten3/output/20260929_233213_what-if-rogue-neutron-star/final.mp4",
+      "video_id": "Ab9JaH-v2Dg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 166
+  "_voice_idx": 167
 }
