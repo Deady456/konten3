@@ -168,7 +168,8 @@
     "what-if-supermassive-blackhole-passes-through-solar-system",
     "what-if-solar-system-into-molecular-cloud",
     "what-if-cosmic-string-penetrates-solar-system",
-    "what-if-planet-nine-berubah-orbit"
+    "what-if-planet-nine-berubah-orbit",
+    "what-if-nova-putih-dekat"
   ],
   "published": [
     {
@@ -1802,7 +1803,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260929_113213",
+      "topic": "what-if-nova-putih-dekat",
+      "title": "What If Nova Putih Dekat Meledak di Langit: Dampak Mengguncang Bumi dan Tata Surya",
+      "path": "/home/runner/work/konten3/konten3/output/20260929_113213_what-if-nova-putih-dekat/final.mp4",
+      "video_id": "Nk3_qXWduNw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 165
+  "_voice_idx": 166
 }
