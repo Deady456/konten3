@@ -171,7 +171,8 @@
     "what-if-planet-nine-berubah-orbit",
     "what-if-nova-putih-dekat",
     "what-if-rogue-neutron-star",
-    "what-if-rogue-neutron-star-encounters-solar-system"
+    "what-if-rogue-neutron-star-encounters-solar-system",
+    "what-if-bumi-terguncang-gelombang-gravitasi"
   ],
   "published": [
     {
@@ -1835,7 +1836,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260930_233254",
+      "topic": "what-if-bumi-terguncang-gelombang-gravitasi",
+      "title": "What If Bumi Terguncang oleh Gelombang Gravitasi Supermassif? \u2013 Skenario Kosmik Menakjubkan",
+      "path": "/home/runner/work/konten3/konten3/output/20260930_233254_what-if-bumi-terguncang-gelombang-gravitasi/final.mp4",
+      "video_id": "9L1OgH7Ige0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 168
+  "_voice_idx": 169
 }
