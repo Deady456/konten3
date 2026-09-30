@@ -170,7 +170,8 @@
     "what-if-cosmic-string-penetrates-solar-system",
     "what-if-planet-nine-berubah-orbit",
     "what-if-nova-putih-dekat",
-    "what-if-rogue-neutron-star"
+    "what-if-rogue-neutron-star",
+    "what-if-rogue-neutron-star-encounters-solar-system"
   ],
   "published": [
     {
@@ -1824,7 +1825,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260930_113355",
+      "topic": "what-if-rogue-neutron-star-encounters-solar-system",
+      "title": "What If Sebuah Bintang Neutron Melintasi Tata Surya Kita dan Mengguncang Jupiter?",
+      "path": "/home/runner/work/konten3/konten3/output/20260930_113355_what-if-rogue-neutron-star-encounters-solar-system/final.mp4",
+      "video_id": "lPQHui6XBqc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 167
+  "_voice_idx": 168
 }
