@@ -173,7 +173,8 @@
     "what-if-rogue-neutron-star",
     "what-if-rogue-neutron-star-encounters-solar-system",
     "what-if-bumi-terguncang-gelombang-gravitasi",
-    "what-if-earth-enters-dark-matter-filament"
+    "what-if-earth-enters-dark-matter-filament",
+    "what-if-asteroid-perturbation-oort-cloud"
   ],
   "published": [
     {
@@ -1857,7 +1858,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261001_233207",
+      "topic": "what-if-asteroid-perturbation-oort-cloud",
+      "title": "What If Bintang Tetangga Mengguncang Oort Cloud dan Menghujani Bumi dengan Ribuan Komet?",
+      "path": "/home/runner/work/konten3/konten3/output/20261001_233207_what-if-asteroid-perturbation-oort-cloud/final.mp4",
+      "video_id": "n71SHAUnf9I",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 170
+  "_voice_idx": 171
 }
