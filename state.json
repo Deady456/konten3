@@ -172,7 +172,8 @@
     "what-if-nova-putih-dekat",
     "what-if-rogue-neutron-star",
     "what-if-rogue-neutron-star-encounters-solar-system",
-    "what-if-bumi-terguncang-gelombang-gravitasi"
+    "what-if-bumi-terguncang-gelombang-gravitasi",
+    "what-if-earth-enters-dark-matter-filament"
   ],
   "published": [
     {
@@ -1846,7 +1847,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261001_113243",
+      "topic": "what-if-earth-enters-dark-matter-filament",
+      "title": "What If Bumi Meluncur Ke Dalam Jalinan Gelap Materi Tak Terlihat? \u2013 Dampak Kosmik yang Mengguncang",
+      "path": "/home/runner/work/konten3/konten3/output/20261001_113243_what-if-earth-enters-dark-matter-filament/final.mp4",
+      "video_id": "XfwHQj5vVbM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 169
+  "_voice_idx": 170
 }
