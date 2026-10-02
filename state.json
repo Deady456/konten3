@@ -174,7 +174,8 @@
     "what-if-rogue-neutron-star-encounters-solar-system",
     "what-if-bumi-terguncang-gelombang-gravitasi",
     "what-if-earth-enters-dark-matter-filament",
-    "what-if-asteroid-perturbation-oort-cloud"
+    "what-if-asteroid-perturbation-oort-cloud",
+    "what-if-magnetar-dekat-bumi"
   ],
   "published": [
     {
@@ -1868,7 +1869,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261002_113212",
+      "topic": "what-if-magnetar-dekat-bumi",
+      "title": "What If Magnetar Menerobos Jarak Satu Tahun Cahaya ke Bumi? Dampak Mengguncang",
+      "path": "/home/runner/work/konten3/konten3/output/20261002_113212_what-if-magnetar-dekat-bumi/final.mp4",
+      "video_id": "R9vUkctYzOA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 171
+  "_voice_idx": 172
 }
