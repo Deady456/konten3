@@ -175,7 +175,8 @@
     "what-if-bumi-terguncang-gelombang-gravitasi",
     "what-if-earth-enters-dark-matter-filament",
     "what-if-asteroid-perturbation-oort-cloud",
-    "what-if-magnetar-dekat-bumi"
+    "what-if-magnetar-dekat-bumi",
+    "what-if-dark-matter-wave-impacts-solar-system"
   ],
   "published": [
     {
@@ -1879,7 +1880,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261002_233218",
+      "topic": "what-if-dark-matter-wave-impacts-solar-system",
+      "title": "What If Gelombang Materi Gelap Menyerbu Tata Surya? Dampak Mengguncang Planet Kita",
+      "path": "/home/runner/work/konten3/konten3/output/20261002_233218_what-if-dark-matter-wave-impacts-solar-system/final.mp4",
+      "video_id": "S9nJJSzi3dE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 172
+  "_voice_idx": 173
 }
