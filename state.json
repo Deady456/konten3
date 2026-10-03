@@ -177,7 +177,8 @@
     "what-if-asteroid-perturbation-oort-cloud",
     "what-if-magnetar-dekat-bumi",
     "what-if-dark-matter-wave-impacts-solar-system",
-    "what-if-brown-dwarf-rogue-into-solar-system"
+    "what-if-brown-dwarf-rogue-into-solar-system",
+    "what-if-gliese-710-approach"
   ],
   "published": [
     {
@@ -1901,7 +1902,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261003_233211",
+      "topic": "what-if-gliese-710-approach",
+      "title": "What If Bintang Terdekat Gliese Tujuh Puluh Satu Menyusup ke Tata Surya Kita?",
+      "path": "/home/runner/work/konten3/konten3/output/20261003_233211_what-if-gliese-710-approach/final.mp4",
+      "video_id": "Ft6kS7LMSxg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 174
+  "_voice_idx": 175
 }
