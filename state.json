@@ -176,7 +176,8 @@
     "what-if-earth-enters-dark-matter-filament",
     "what-if-asteroid-perturbation-oort-cloud",
     "what-if-magnetar-dekat-bumi",
-    "what-if-dark-matter-wave-impacts-solar-system"
+    "what-if-dark-matter-wave-impacts-solar-system",
+    "what-if-brown-dwarf-rogue-into-solar-system"
   ],
   "published": [
     {
@@ -1890,7 +1891,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261003_113213",
+      "topic": "what-if-brown-dwarf-rogue-into-solar-system",
+      "title": "What If Sebuah Brown Dwarf Raksasa Masuk Tata Surya Kita dan Mengubah Semua Planet?",
+      "path": "/home/runner/work/konten3/konten3/output/20261003_113213_what-if-brown-dwarf-rogue-into-solar-system/final.mp4",
+      "video_id": "xnSL0ebnCRw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 173
+  "_voice_idx": 174
 }
