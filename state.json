@@ -178,7 +178,8 @@
     "what-if-magnetar-dekat-bumi",
     "what-if-dark-matter-wave-impacts-solar-system",
     "what-if-brown-dwarf-rogue-into-solar-system",
-    "what-if-gliese-710-approach"
+    "what-if-gliese-710-approach",
+    "what-if-black-hole-oort-cloud"
   ],
   "published": [
     {
@@ -1912,7 +1913,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261004_113218",
+      "topic": "what-if-black-hole-oort-cloud",
+      "title": "What If Sebuah Lubang Hitam Menyusup ke Oort Cloud dan Mengguncang Tata Surya?",
+      "path": "/home/runner/work/konten3/konten3/output/20261004_113218_what-if-black-hole-oort-cloud/final.mp4",
+      "video_id": "T48qZrJiDSY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 175
+  "_voice_idx": 176
 }
