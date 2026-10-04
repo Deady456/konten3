@@ -179,7 +179,8 @@
     "what-if-dark-matter-wave-impacts-solar-system",
     "what-if-brown-dwarf-rogue-into-solar-system",
     "what-if-gliese-710-approach",
-    "what-if-black-hole-oort-cloud"
+    "what-if-black-hole-oort-cloud",
+    "what-if-gamma-ray-burst-hits-earth"
   ],
   "published": [
     {
@@ -1923,7 +1924,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261004_233249",
+      "topic": "what-if-gamma-ray-burst-hits-earth",
+      "title": "What If Sinar Gamma Mematikan Menabrak Bumi? Dampak Menghancurkan yang Tak Terduga",
+      "path": "/home/runner/work/konten3/konten3/output/20261004_233249_what-if-gamma-ray-burst-hits-earth/final.mp4",
+      "video_id": "DU9SBMP5Yuc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 176
+  "_voice_idx": 177
 }
