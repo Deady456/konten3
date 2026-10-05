@@ -180,7 +180,8 @@
     "what-if-brown-dwarf-rogue-into-solar-system",
     "what-if-gliese-710-approach",
     "what-if-black-hole-oort-cloud",
-    "what-if-gamma-ray-burst-hits-earth"
+    "what-if-gamma-ray-burst-hits-earth",
+    "what-if-supermassive-black-hole-collision"
   ],
   "published": [
     {
@@ -1934,7 +1935,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261005_113249",
+      "topic": "what-if-supermassive-black-hole-collision",
+      "title": "Jika Lubang Hitam Supermasif Tetangga Menabrak Black Hole Bima Sakti, Dampaknya?",
+      "path": "/home/runner/work/konten3/konten3/output/20261005_113249_what-if-supermassive-black-hole-collision/final.mp4",
+      "video_id": "KKBy7Uk19pU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 177
+  "_voice_idx": 178
 }
