@@ -181,7 +181,8 @@
     "what-if-gliese-710-approach",
     "what-if-black-hole-oort-cloud",
     "what-if-gamma-ray-burst-hits-earth",
-    "what-if-supermassive-black-hole-collision"
+    "what-if-supermassive-black-hole-collision",
+    "what-if-rogue-planet-penetrates-solar-system"
   ],
   "published": [
     {
@@ -1945,7 +1946,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261005_233247",
+      "topic": "what-if-rogue-planet-penetrates-solar-system",
+      "title": "What If Sebuah Planet Liar Menembus Tata Surya dan Mengguncang Bumi Secara Drastis?",
+      "path": "/home/runner/work/konten3/konten3/output/20261005_233247_what-if-rogue-planet-penetrates-solar-system/final.mp4",
+      "video_id": "fDmYfcMZCuQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 178
+  "_voice_idx": 179
 }
