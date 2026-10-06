@@ -182,7 +182,8 @@
     "what-if-black-hole-oort-cloud",
     "what-if-gamma-ray-burst-hits-earth",
     "what-if-supermassive-black-hole-collision",
-    "what-if-rogue-planet-penetrates-solar-system"
+    "what-if-rogue-planet-penetrates-solar-system",
+    "what-if-bulan-hilang-dan-membentuk-cincin"
   ],
   "published": [
     {
@@ -1956,7 +1957,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261006_113150",
+      "topic": "what-if-bulan-hilang-dan-membentuk-cincin",
+      "title": "What If Bulan Menghilang dan Membentuk Cincin Debu di Sekitar Bumi? Dampaknya pada Pasang Surut, Iklim, dan Malam",
+      "path": "/home/runner/work/konten3/konten3/output/20261006_113150_what-if-bulan-hilang-dan-membentuk-cincin/final.mp4",
+      "video_id": "XYaVt_J1R-Q",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 179
+  "_voice_idx": 180
 }
