@@ -183,7 +183,8 @@
     "what-if-gamma-ray-burst-hits-earth",
     "what-if-supermassive-black-hole-collision",
     "what-if-rogue-planet-penetrates-solar-system",
-    "what-if-bulan-hilang-dan-membentuk-cincin"
+    "what-if-bulan-hilang-dan-membentuk-cincin",
+    "what-if-matahari-terbalik-magnetosfer"
   ],
   "published": [
     {
@@ -1967,7 +1968,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261006_233215",
+      "topic": "what-if-matahari-terbalik-magnetosfer",
+      "title": "What If Medan Magnet Matahari Terbalik dan Mengoyak Perisai Bumi? \u2013 Dampak Kosmik yang Mengguncang",
+      "path": "/home/runner/work/konten3/konten3/output/20261006_233215_what-if-matahari-terbalik-magnetosfer/final.mp4",
+      "video_id": "1tjhQrOK0Mc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 180
+  "_voice_idx": 181
 }
