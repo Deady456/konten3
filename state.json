@@ -184,7 +184,8 @@
     "what-if-supermassive-black-hole-collision",
     "what-if-rogue-planet-penetrates-solar-system",
     "what-if-bulan-hilang-dan-membentuk-cincin",
-    "what-if-matahari-terbalik-magnetosfer"
+    "what-if-matahari-terbalik-magnetosfer",
+    "what-if-earth-jet-active-galaxy"
   ],
   "published": [
     {
@@ -1978,7 +1979,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261007_113225",
+      "topic": "what-if-earth-jet-active-galaxy",
+      "title": "What If Bumi Disambar Jet Energi Dari Galaksi Aktif? Dampak Kosmik yang Mengejutkan",
+      "path": "/home/runner/work/konten3/konten3/output/20261007_113225_what-if-earth-jet-active-galaxy/final.mp4",
+      "video_id": "WiMdCeKFwS4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 181
+  "_voice_idx": 182
 }
