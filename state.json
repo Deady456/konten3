@@ -185,7 +185,8 @@
     "what-if-rogue-planet-penetrates-solar-system",
     "what-if-bulan-hilang-dan-membentuk-cincin",
     "what-if-matahari-terbalik-magnetosfer",
-    "what-if-earth-jet-active-galaxy"
+    "what-if-earth-jet-active-galaxy",
+    "what-if-white-dwarf-in-solar-system"
   ],
   "published": [
     {
@@ -1989,7 +1990,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261007_233208",
+      "topic": "what-if-white-dwarf-in-solar-system",
+      "title": "Jika Bintang Kerdil Putih Menyusup Tata Surya: Dampak Mengguncang Bumi",
+      "path": "/home/runner/work/konten3/konten3/output/20261007_233208_what-if-white-dwarf-in-solar-system/final.mp4",
+      "video_id": "N4OHMniwzKg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 182
+  "_voice_idx": 183
 }
