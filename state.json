@@ -186,7 +186,8 @@
     "what-if-bulan-hilang-dan-membentuk-cincin",
     "what-if-matahari-terbalik-magnetosfer",
     "what-if-earth-jet-active-galaxy",
-    "what-if-white-dwarf-in-solar-system"
+    "what-if-white-dwarf-in-solar-system",
+    "what-if-sun-lose-half-mass"
   ],
   "published": [
     {
@@ -2000,7 +2001,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261008_233241",
+      "topic": "what-if-sun-lose-half-mass",
+      "title": "What If Matahari Kehilangan Setengah Massa? Dampaknya Pada Bumi & Tata Surya",
+      "path": "/home/runner/work/konten3/konten3/output/20261008_233241_what-if-sun-lose-half-mass/final.mp4",
+      "video_id": "GQmEA6QpKwE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 183
+  "_voice_idx": 184
 }
