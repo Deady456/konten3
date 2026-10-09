@@ -188,7 +188,8 @@
     "what-if-earth-jet-active-galaxy",
     "what-if-white-dwarf-in-solar-system",
     "what-if-sun-lose-half-mass",
-    "what-if-jupiter-rogue-planet"
+    "what-if-jupiter-rogue-planet",
+    "what-if-black-hole-forms-in-asteroid-belt"
   ],
   "published": [
     {
@@ -2022,7 +2023,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261009_233221",
+      "topic": "what-if-black-hole-forms-in-asteroid-belt",
+      "title": "What If Sebuah Lubang Hitam Mini Tiba-tiba Muncul di Sabuk Asteroid?",
+      "path": "/home/runner/work/konten3/konten3/output/20261009_233221_what-if-black-hole-forms-in-asteroid-belt/final.mp4",
+      "video_id": "4lQTMxWgOck",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 185
+  "_voice_idx": 186
 }
