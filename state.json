@@ -187,7 +187,8 @@
     "what-if-matahari-terbalik-magnetosfer",
     "what-if-earth-jet-active-galaxy",
     "what-if-white-dwarf-in-solar-system",
-    "what-if-sun-lose-half-mass"
+    "what-if-sun-lose-half-mass",
+    "what-if-jupiter-rogue-planet"
   ],
   "published": [
     {
@@ -2011,7 +2012,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261009_113211",
+      "topic": "what-if-jupiter-rogue-planet",
+      "title": "What If Jupiter Menjadi Planet Pengembara dan Meninggalkan Tata Surya?",
+      "path": "/home/runner/work/konten3/konten3/output/20261009_113211_what-if-jupiter-rogue-planet/final.mp4",
+      "video_id": "tnkeRE6Gvmc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 184
+  "_voice_idx": 185
 }
