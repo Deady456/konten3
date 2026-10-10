@@ -1,10 +1,10 @@
-niche: "skenario What If antariksa, alam semesta, lubang hitam, tata surya, dan eksplorasi kosmik yang mencengangkan (What if Bumi tersedot black hole, What if Matahari mati, What if kita tinggal di exoplanet, What if tabrakan galaksi, What if kecepatan cahaya tercapai, What if asteroid menabrak Bumi)"
-audience: "penonton Indonesia yang penasaran dengan misteri luar angkasa, fisika kosmik, dan skenario alternatif alam semesta"
+niche: "simulasi bencana kosmik What If ekstrim dan misteri antariksa yang mengancam bumi (What if lubang hitam mini masuk ke inti Bumi, What if gravitasi lenyap selama lima detik, What if atmosfer terbakar, What if supernova meledak dekat tata surya, What if bulan menabrak bumi)"
+audience: "penonton Indonesia yang menyukai simulasi fisika ekstrem, skenario bencana kosmik, dan misteri luar angkasa yang mendebarkan"
 language: id
 
 script:
   model: openai/gpt-oss-120b
-  target_seconds: 80
+  target_seconds: 42
   words_per_second: 2.5
 
 voice:
