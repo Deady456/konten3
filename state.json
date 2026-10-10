@@ -189,7 +189,8 @@
     "what-if-white-dwarf-in-solar-system",
     "what-if-sun-lose-half-mass",
     "what-if-jupiter-rogue-planet",
-    "what-if-black-hole-forms-in-asteroid-belt"
+    "what-if-black-hole-forms-in-asteroid-belt",
+    "what-if-supermassive-blackhole-jet-sweeps-solar-system"
   ],
   "published": [
     {
@@ -2033,7 +2034,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261010_113157",
+      "topic": "what-if-supermassive-blackhole-jet-sweeps-solar-system",
+      "title": "What If Jet Supermasif Menembus Tata Surya Kita? Dampak Menghancurkan yang Tak Terbayangkan",
+      "path": "/home/runner/work/konten3/konten3/output/20261010_113157_what-if-supermassive-blackhole-jet-sweeps-solar-system/final.mp4",
+      "video_id": "iBcmfq14UxU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 186
+  "_voice_idx": 187
 }
