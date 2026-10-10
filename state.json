@@ -190,7 +190,8 @@
     "what-if-sun-lose-half-mass",
     "what-if-jupiter-rogue-planet",
     "what-if-black-hole-forms-in-asteroid-belt",
-    "what-if-supermassive-blackhole-jet-sweeps-solar-system"
+    "what-if-supermassive-blackhole-jet-sweeps-solar-system",
+    "what-if-interstellar-cloud-blocks-sun"
   ],
   "published": [
     {
@@ -2044,7 +2045,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261010_204523",
+      "topic": "what-if-interstellar-cloud-blocks-sun",
+      "title": "What If A Cosmic Dust Cloud Blocks The Sun For Weeks? Dampak Ekstrem Pada Bumi",
+      "path": "/home/runner/work/konten3/konten3/output/20261010_204523_what-if-interstellar-cloud-blocks-sun/final.mp4",
+      "video_id": "x9WoSGp8hTU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 187
+  "_voice_idx": 188
 }
