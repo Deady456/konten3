@@ -191,7 +191,8 @@
     "what-if-jupiter-rogue-planet",
     "what-if-black-hole-forms-in-asteroid-belt",
     "what-if-supermassive-blackhole-jet-sweeps-solar-system",
-    "what-if-interstellar-cloud-blocks-sun"
+    "what-if-interstellar-cloud-blocks-sun",
+    "what-if-mini-black-hole-penetrates-earth-core"
   ],
   "published": [
     {
@@ -2055,7 +2056,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261010_233151",
+      "topic": "what-if-mini-black-hole-penetrates-earth-core",
+      "title": "What If Mini Black Hole Menembus Inti Bumi? Simulasi Ekstrem yang Mengguncang",
+      "path": "/home/runner/work/konten3/konten3/output/20261010_233151_what-if-mini-black-hole-penetrates-earth-core/final.mp4",
+      "video_id": "4ukfWmpBubU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 188
+  "_voice_idx": 189
 }
