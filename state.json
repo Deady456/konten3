@@ -192,7 +192,8 @@
     "what-if-black-hole-forms-in-asteroid-belt",
     "what-if-supermassive-blackhole-jet-sweeps-solar-system",
     "what-if-interstellar-cloud-blocks-sun",
-    "what-if-mini-black-hole-penetrates-earth-core"
+    "what-if-mini-black-hole-penetrates-earth-core",
+    "what-if-pulsar-beam-hits-earth"
   ],
   "published": [
     {
@@ -2066,7 +2067,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261011_113208",
+      "topic": "what-if-pulsar-beam-hits-earth",
+      "title": "What If Sinar Pulsar Menembus Atmosfer Bumi? Dampak Mengguncang Planet Ini",
+      "path": "/home/runner/work/konten3/konten3/output/20261011_113208_what-if-pulsar-beam-hits-earth/final.mp4",
+      "video_id": "og4wQCGMvNg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 189
+  "_voice_idx": 190
 }
