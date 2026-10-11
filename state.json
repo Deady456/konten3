@@ -193,7 +193,8 @@
     "what-if-supermassive-blackhole-jet-sweeps-solar-system",
     "what-if-interstellar-cloud-blocks-sun",
     "what-if-mini-black-hole-penetrates-earth-core",
-    "what-if-pulsar-beam-hits-earth"
+    "what-if-pulsar-beam-hits-earth",
+    "what-if-fast-radio-burst-hits-earth"
   ],
   "published": [
     {
@@ -2077,7 +2078,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261011_233241",
+      "topic": "what-if-fast-radio-burst-hits-earth",
+      "title": "What If Sebuah Fast Radio Burst Menabrak Bumi? Simulasi Kiamat Kosmik yang Mengejutkan",
+      "path": "/home/runner/work/konten3/konten3/output/20261011_233241_what-if-fast-radio-burst-hits-earth/final.mp4",
+      "video_id": "p_PUaxkxwqw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 190
+  "_voice_idx": 191
 }
