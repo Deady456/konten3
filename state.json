@@ -195,7 +195,8 @@
     "what-if-mini-black-hole-penetrates-earth-core",
     "what-if-pulsar-beam-hits-earth",
     "what-if-fast-radio-burst-hits-earth",
-    "what-if-microquasar-jet-hits-earth"
+    "what-if-microquasar-jet-hits-earth",
+    "what-if-dark-energy-bubble"
   ],
   "published": [
     {
@@ -2099,7 +2100,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261012_233211",
+      "topic": "what-if-dark-energy-bubble",
+      "title": "What If Energi Gelap Menelan Tata Surya Kita? Simulasi Ekstrem yang Mengguncang",
+      "path": "/home/runner/work/konten3/konten3/output/20261012_233211_what-if-dark-energy-bubble/final.mp4",
+      "video_id": "zWuhzsGzLkc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 192
+  "_voice_idx": 193
 }
