@@ -194,7 +194,8 @@
     "what-if-interstellar-cloud-blocks-sun",
     "what-if-mini-black-hole-penetrates-earth-core",
     "what-if-pulsar-beam-hits-earth",
-    "what-if-fast-radio-burst-hits-earth"
+    "what-if-fast-radio-burst-hits-earth",
+    "what-if-microquasar-jet-hits-earth"
   ],
   "published": [
     {
@@ -2088,7 +2089,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261012_113202",
+      "topic": "what-if-microquasar-jet-hits-earth",
+      "title": "What If Jet Mikrokuasar Menabrak Atmosfer Bumi? Dampak Ekstrem yang Mengguncang Dunia",
+      "path": "/home/runner/work/konten3/konten3/output/20261012_113202_what-if-microquasar-jet-hits-earth/final.mp4",
+      "video_id": "L1Q7EfzMXBs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 191
+  "_voice_idx": 192
 }
