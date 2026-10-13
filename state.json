@@ -197,7 +197,8 @@
     "what-if-fast-radio-burst-hits-earth",
     "what-if-microquasar-jet-hits-earth",
     "what-if-dark-energy-bubble",
-    "what-if-nearby-kilonova"
+    "what-if-nearby-kilonova",
+    "what-if-superflare-bumi"
   ],
   "published": [
     {
@@ -2121,7 +2122,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261013_233208",
+      "topic": "what-if-superflare-bumi",
+      "title": "What If Superflare Raksasa Membakar Atmosfer Bumi dan Menghilangkan Ozon?",
+      "path": "/home/runner/work/konten3/konten3/output/20261013_233208_what-if-superflare-bumi/final.mp4",
+      "video_id": "DY0l7BoLQUk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 194
+  "_voice_idx": 195
 }
