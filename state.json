@@ -196,7 +196,8 @@
     "what-if-pulsar-beam-hits-earth",
     "what-if-fast-radio-burst-hits-earth",
     "what-if-microquasar-jet-hits-earth",
-    "what-if-dark-energy-bubble"
+    "what-if-dark-energy-bubble",
+    "what-if-nearby-kilonova"
   ],
   "published": [
     {
@@ -2110,7 +2111,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261013_113227",
+      "topic": "what-if-nearby-kilonova",
+      "title": "What If Kilonova Meledak Dekat Bumi? Dampak Global yang Menghancurkan",
+      "path": "/home/runner/work/konten3/konten3/output/20261013_113227_what-if-nearby-kilonova/final.mp4",
+      "video_id": "wrgCWBKoA2A",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 193
+  "_voice_idx": 194
 }
