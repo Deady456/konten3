@@ -198,7 +198,8 @@
     "what-if-microquasar-jet-hits-earth",
     "what-if-dark-energy-bubble",
     "what-if-nearby-kilonova",
-    "what-if-superflare-bumi"
+    "what-if-superflare-bumi",
+    "what-if-plasma-cloud-engulfs-earth"
   ],
   "published": [
     {
@@ -2132,7 +2133,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261014_113205",
+      "topic": "what-if-plasma-cloud-engulfs-earth",
+      "title": "What If Awan Plasma Antarbintang Menelan Bumi? Simulasi Bencana Kosmik Ekstrem",
+      "path": "/home/runner/work/konten3/konten3/output/20261014_113205_what-if-plasma-cloud-engulfs-earth/final.mp4",
+      "video_id": "y5s0mINYZlY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 195
+  "_voice_idx": 196
 }
