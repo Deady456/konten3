@@ -199,7 +199,8 @@
     "what-if-dark-energy-bubble",
     "what-if-nearby-kilonova",
     "what-if-superflare-bumi",
-    "what-if-plasma-cloud-engulfs-earth"
+    "what-if-plasma-cloud-engulfs-earth",
+    "what-if-cosmic-string-penetrates-earth"
   ],
   "published": [
     {
@@ -2143,7 +2144,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261014_233240",
+      "topic": "what-if-cosmic-string-penetrates-earth",
+      "title": "What If Sebuah Benang Kosmik Menembus Inti Bumi? Dampak Ekstrim yang Mengguncang Alam Semesta",
+      "path": "/home/runner/work/konten3/konten3/output/20261014_233240_what-if-cosmic-string-penetrates-earth/final.mp4",
+      "video_id": "hr533CyUBqI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 196
+  "_voice_idx": 197
 }
