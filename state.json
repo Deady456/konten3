@@ -200,7 +200,8 @@
     "what-if-nearby-kilonova",
     "what-if-superflare-bumi",
     "what-if-plasma-cloud-engulfs-earth",
-    "what-if-cosmic-string-penetrates-earth"
+    "what-if-cosmic-string-penetrates-earth",
+    "what-if-rogue-super-earth-nearby"
   ],
   "published": [
     {
@@ -2154,7 +2155,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261015_113216",
+      "topic": "what-if-rogue-super-earth-nearby",
+      "title": "Jika Super\u2011Earth Raksasa Melintas di Depan Bulan: Dampak Tidal, Atmosfer, dan Gempa Bumi yang Mengguncang",
+      "path": "/home/runner/work/konten3/konten3/output/20261015_113216_what-if-rogue-super-earth-nearby/final.mp4",
+      "video_id": "Fq7T1NOf7Ok",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 197
+  "_voice_idx": 198
 }
