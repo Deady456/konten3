@@ -201,7 +201,8 @@
     "what-if-superflare-bumi",
     "what-if-plasma-cloud-engulfs-earth",
     "what-if-cosmic-string-penetrates-earth",
-    "what-if-rogue-super-earth-nearby"
+    "what-if-rogue-super-earth-nearby",
+    "what-if-wormhole-penetrates-earth-core"
   ],
   "published": [
     {
@@ -2165,7 +2166,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261015_233211",
+      "topic": "what-if-wormhole-penetrates-earth-core",
+      "title": "What If Lubang Cacing Mini Menembus Inti Bumi, Memicu Ledakan Planet?",
+      "path": "/home/runner/work/konten3/konten3/output/20261015_233211_what-if-wormhole-penetrates-earth-core/final.mp4",
+      "video_id": "tKv1wMdjqKE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 198
+  "_voice_idx": 199
 }
