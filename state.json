@@ -202,7 +202,8 @@
     "what-if-plasma-cloud-engulfs-earth",
     "what-if-cosmic-string-penetrates-earth",
     "what-if-rogue-super-earth-nearby",
-    "what-if-wormhole-penetrates-earth-core"
+    "what-if-wormhole-penetrates-earth-core",
+    "what-if-quark-star-near-earth"
   ],
   "published": [
     {
@@ -2176,7 +2177,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261016_113232",
+      "topic": "what-if-quark-star-near-earth",
+      "title": "What If Bintang Kuark Melintas Dekat Bumi? Dampak Mematikan yang Tak Terduga",
+      "path": "/home/runner/work/konten3/konten3/output/20261016_113232_what-if-quark-star-near-earth/final.mp4",
+      "video_id": "fA71rC42PCI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 199
+  "_voice_idx": 200
 }
