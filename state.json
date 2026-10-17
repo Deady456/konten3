@@ -204,7 +204,8 @@
     "what-if-rogue-super-earth-nearby",
     "what-if-wormhole-penetrates-earth-core",
     "what-if-quark-star-near-earth",
-    "what-if-rogue-neutron-star-oort-cloud"
+    "what-if-rogue-neutron-star-oort-cloud",
+    "what-if-cosmic-neutrino-burst-earth-core"
   ],
   "published": [
     {
@@ -2198,7 +2199,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261017_113232",
+      "topic": "what-if-cosmic-neutrino-burst-earth-core",
+      "title": "What If Sebuah Neutrino Kosmik Menabrak Inti Bumi? Dampak Menghancurkan yang Tak Terduga",
+      "path": "/home/runner/work/konten3/konten3/output/20261017_113232_what-if-cosmic-neutrino-burst-earth-core/final.mp4",
+      "video_id": "b0Pszwgs6KE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 201
+  "_voice_idx": 202
 }
