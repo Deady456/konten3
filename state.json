@@ -205,7 +205,8 @@
     "what-if-wormhole-penetrates-earth-core",
     "what-if-quark-star-near-earth",
     "what-if-rogue-neutron-star-oort-cloud",
-    "what-if-cosmic-neutrino-burst-earth-core"
+    "what-if-cosmic-neutrino-burst-earth-core",
+    "what-if-interstellar-hydrogen-comet-ignites-atmosphere"
   ],
   "published": [
     {
@@ -2209,7 +2210,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261017_233208",
+      "topic": "what-if-interstellar-hydrogen-comet-ignites-atmosphere",
+      "title": "What If Sebuah Komet Hidrogen Interstellar Menyambar Bumi: Ledakan Uap Global yang Mengubah Atmosfer",
+      "path": "/home/runner/work/konten3/konten3/output/20261017_233208_what-if-interstellar-hydrogen-comet-ignites-atmosphere/final.mp4",
+      "video_id": "0Jm0FPxy0_Y",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 202
+  "_voice_idx": 203
 }
