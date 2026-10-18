@@ -207,7 +207,8 @@
     "what-if-rogue-neutron-star-oort-cloud",
     "what-if-cosmic-neutrino-burst-earth-core",
     "what-if-interstellar-hydrogen-comet-ignites-atmosphere",
-    "what-if-dark-matter-clump-core"
+    "what-if-dark-matter-clump-core",
+    "what-if-rogue-black-hole-swallows-sun"
   ],
   "published": [
     {
@@ -2231,7 +2232,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261018_233206",
+      "topic": "what-if-rogue-black-hole-swallows-sun",
+      "title": "Jika Lubang Hitam Menyusup ke Inti Matahari, Bumi Mengalami Kepunahan Dalam Menit?",
+      "path": "/home/runner/work/konten3/konten3/output/20261018_233206_what-if-rogue-black-hole-swallows-sun/final.mp4",
+      "video_id": "VZJ3Fi9RuQI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 204
+  "_voice_idx": 205
 }
