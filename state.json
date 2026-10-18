@@ -206,7 +206,8 @@
     "what-if-quark-star-near-earth",
     "what-if-rogue-neutron-star-oort-cloud",
     "what-if-cosmic-neutrino-burst-earth-core",
-    "what-if-interstellar-hydrogen-comet-ignites-atmosphere"
+    "what-if-interstellar-hydrogen-comet-ignites-atmosphere",
+    "what-if-dark-matter-clump-core"
   ],
   "published": [
     {
@@ -2220,7 +2221,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261018_113204",
+      "topic": "what-if-dark-matter-clump-core",
+      "title": "What If A Dark Matter Clump Penetrates Earth\u2019s Core? Dampak Ekstrem yang Tak Terduga",
+      "path": "/home/runner/work/konten3/konten3/output/20261018_113204_what-if-dark-matter-clump-core/final.mp4",
+      "video_id": "4VqJ5hjU9cA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 203
+  "_voice_idx": 204
 }
