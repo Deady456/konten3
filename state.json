@@ -209,7 +209,8 @@
     "what-if-interstellar-hydrogen-comet-ignites-atmosphere",
     "what-if-dark-matter-clump-core",
     "what-if-rogue-black-hole-swallows-sun",
-    "what-if-magnetar-superflare-near-earth"
+    "what-if-magnetar-superflare-near-earth",
+    "what-if-neutrino-burst-penetrates-earth-core"
   ],
   "published": [
     {
@@ -2253,7 +2254,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261019_233205",
+      "topic": "what-if-neutrino-burst-penetrates-earth-core",
+      "title": "What If Semburan Neutrino Raksasa Menembus Inti Bumi? Dampaknya Bikin Terkejut!",
+      "path": "/home/runner/work/konten3/konten3/output/20261019_233205_what-if-neutrino-burst-penetrates-earth-core/final.mp4",
+      "video_id": "bfDGxM7HhxM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 206
+  "_voice_idx": 207
 }
