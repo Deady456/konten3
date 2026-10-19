@@ -208,7 +208,8 @@
     "what-if-cosmic-neutrino-burst-earth-core",
     "what-if-interstellar-hydrogen-comet-ignites-atmosphere",
     "what-if-dark-matter-clump-core",
-    "what-if-rogue-black-hole-swallows-sun"
+    "what-if-rogue-black-hole-swallows-sun",
+    "what-if-magnetar-superflare-near-earth"
   ],
   "published": [
     {
@@ -2242,7 +2243,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261019_113208",
+      "topic": "what-if-magnetar-superflare-near-earth",
+      "title": "What If Magnetar Superflare Melewati Bumi dari Satu Tahun Cahaya?",
+      "path": "/home/runner/work/konten3/konten3/output/20261019_113208_what-if-magnetar-superflare-near-earth/final.mp4",
+      "video_id": "C8MoSPZVPGM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 205
+  "_voice_idx": 206
 }
