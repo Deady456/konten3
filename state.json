@@ -211,7 +211,8 @@
     "what-if-rogue-black-hole-swallows-sun",
     "what-if-magnetar-superflare-near-earth",
     "what-if-neutrino-burst-penetrates-earth-core",
-    "what-if-dyson-sphere-fragment-shadows-earth"
+    "what-if-dyson-sphere-fragment-shadows-earth",
+    "what-if-gamma-ray-burst-hits-earth"
   ],
   "published": [
     {
@@ -2275,7 +2276,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261020_233218",
+      "topic": "what-if-gamma-ray-burst-hits-earth",
+      "title": "What If Sebuah Gamma\u2011Ray Burst Menyerang Bumi Secara Langsung? Dampaknya Mengguncang Seluruh Kehidupan",
+      "path": "/home/runner/work/konten3/konten3/output/20261020_233218_what-if-gamma-ray-burst-hits-earth/final.mp4",
+      "video_id": "FoDoAEu4FvU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 208
+  "_voice_idx": 209
 }
