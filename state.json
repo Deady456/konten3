@@ -210,7 +210,8 @@
     "what-if-dark-matter-clump-core",
     "what-if-rogue-black-hole-swallows-sun",
     "what-if-magnetar-superflare-near-earth",
-    "what-if-neutrino-burst-penetrates-earth-core"
+    "what-if-neutrino-burst-penetrates-earth-core",
+    "what-if-dyson-sphere-fragment-shadows-earth"
   ],
   "published": [
     {
@@ -2264,7 +2265,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261020_113222",
+      "topic": "what-if-dyson-sphere-fragment-shadows-earth",
+      "title": "What If Sebuah Fragmen Dyson Sphere Mengaburkan Matahari dan Membekukan Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20261020_113222_what-if-dyson-sphere-fragment-shadows-earth/final.mp4",
+      "video_id": "xHD7hThZe3s",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 207
+  "_voice_idx": 208
 }
