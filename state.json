@@ -213,7 +213,8 @@
     "what-if-neutrino-burst-penetrates-earth-core",
     "what-if-dyson-sphere-fragment-shadows-earth",
     "what-if-gamma-ray-burst-hits-earth",
-    "what-if-neutron-star-passes-close-to-earth"
+    "what-if-neutron-star-passes-close-to-earth",
+    "what-if-gamma-ray-burst-compresses-atmosphere"
   ],
   "published": [
     {
@@ -2297,7 +2298,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261021_233219",
+      "topic": "what-if-gamma-ray-burst-compresses-atmosphere",
+      "title": "What If Sebuah Gamma\u2011Ray Burst Menyulap Atmosfer Bumi Menjadi Cangkang Padat?",
+      "path": "/home/runner/work/konten3/konten3/output/20261021_233219_what-if-gamma-ray-burst-compresses-atmosphere/final.mp4",
+      "video_id": "L9-eNSAmtkg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 210
+  "_voice_idx": 211
 }
