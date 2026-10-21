@@ -212,7 +212,8 @@
     "what-if-magnetar-superflare-near-earth",
     "what-if-neutrino-burst-penetrates-earth-core",
     "what-if-dyson-sphere-fragment-shadows-earth",
-    "what-if-gamma-ray-burst-hits-earth"
+    "what-if-gamma-ray-burst-hits-earth",
+    "what-if-neutron-star-passes-close-to-earth"
   ],
   "published": [
     {
@@ -2286,7 +2287,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261021_113208",
+      "topic": "what-if-neutron-star-passes-close-to-earth",
+      "title": "What If Sebuah Bintang Neutron Melintas Sangat Dekat ke Bumi? Ancaman Kosmik Ekstrem",
+      "path": "/home/runner/work/konten3/konten3/output/20261021_113208_what-if-neutron-star-passes-close-to-earth/final.mp4",
+      "video_id": "wNjKxhWZVOY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 209
+  "_voice_idx": 210
 }
