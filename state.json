@@ -214,7 +214,8 @@
     "what-if-dyson-sphere-fragment-shadows-earth",
     "what-if-gamma-ray-burst-hits-earth",
     "what-if-neutron-star-passes-close-to-earth",
-    "what-if-gamma-ray-burst-compresses-atmosphere"
+    "what-if-gamma-ray-burst-compresses-atmosphere",
+    "what-if-dark-energy-wave-sweeps-earth-core"
   ],
   "published": [
     {
@@ -2308,7 +2309,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261022_114957",
+      "topic": "what-if-dark-energy-wave-sweeps-earth-core",
+      "title": "What If Gelombang Energi Gelap Menghantam Inti Bumi dan Mengubah Segalanya?",
+      "path": "/home/runner/work/konten3/konten3/output/20261022_114957_what-if-dark-energy-wave-sweeps-earth-core/final.mp4",
+      "video_id": "cPdNapBz1_8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 211
+  "_voice_idx": 212
 }
