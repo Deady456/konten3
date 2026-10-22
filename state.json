@@ -215,7 +215,8 @@
     "what-if-gamma-ray-burst-hits-earth",
     "what-if-neutron-star-passes-close-to-earth",
     "what-if-gamma-ray-burst-compresses-atmosphere",
-    "what-if-dark-energy-wave-sweeps-earth-core"
+    "what-if-dark-energy-wave-sweeps-earth-core",
+    "what-if-ice-comet-creates-temporary-atmosphere"
   ],
   "published": [
     {
@@ -2319,7 +2320,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261022_233212",
+      "topic": "what-if-ice-comet-creates-temporary-atmosphere",
+      "title": "What If Sebuah Komet Es Raksasa Membuat Tirai Gelap dan Mengubah Iklim Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20261022_233212_what-if-ice-comet-creates-temporary-atmosphere/final.mp4",
+      "video_id": "WEOoAkvODMU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 212
+  "_voice_idx": 213
 }
