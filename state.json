@@ -217,7 +217,8 @@
     "what-if-gamma-ray-burst-compresses-atmosphere",
     "what-if-dark-energy-wave-sweeps-earth-core",
     "what-if-ice-comet-creates-temporary-atmosphere",
-    "what-if-rogue-planet-closest-approach"
+    "what-if-rogue-planet-closest-approach",
+    "what-if-pulsar-gamma-ray-penetrates-earth-atmosphere"
   ],
   "published": [
     {
@@ -2341,7 +2342,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261023_233217",
+      "topic": "what-if-pulsar-gamma-ray-penetrates-earth-atmosphere",
+      "title": "What If Sinar Gamma dari Pulsar Menembus Atmosfer Bumi? Simulasi Ekstrem yang Mengguncang",
+      "path": "/home/runner/work/konten3/konten3/output/20261023_233217_what-if-pulsar-gamma-ray-penetrates-earth-atmosphere/final.mp4",
+      "video_id": "iUseFiqHqEg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 214
+  "_voice_idx": 215
 }
