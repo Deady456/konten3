@@ -216,7 +216,8 @@
     "what-if-neutron-star-passes-close-to-earth",
     "what-if-gamma-ray-burst-compresses-atmosphere",
     "what-if-dark-energy-wave-sweeps-earth-core",
-    "what-if-ice-comet-creates-temporary-atmosphere"
+    "what-if-ice-comet-creates-temporary-atmosphere",
+    "what-if-rogue-planet-closest-approach"
   ],
   "published": [
     {
@@ -2330,7 +2331,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261023_113158",
+      "topic": "what-if-rogue-planet-closest-approach",
+      "title": "What If Sebuah Planet Rogu Menyerang Bumi dari Jarak Bulan? Dampak Menghancurkan!",
+      "path": "/home/runner/work/konten3/konten3/output/20261023_113158_what-if-rogue-planet-closest-approach/final.mp4",
+      "video_id": "JJK85kyf9Sg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 213
+  "_voice_idx": 214
 }
