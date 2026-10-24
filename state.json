@@ -218,7 +218,8 @@
     "what-if-dark-energy-wave-sweeps-earth-core",
     "what-if-ice-comet-creates-temporary-atmosphere",
     "what-if-rogue-planet-closest-approach",
-    "what-if-pulsar-gamma-ray-penetrates-earth-atmosphere"
+    "what-if-pulsar-gamma-ray-penetrates-earth-atmosphere",
+    "what-if-rogue-white-dwarf-asteroid-belt"
   ],
   "published": [
     {
@@ -2352,7 +2353,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261024_113223",
+      "topic": "what-if-rogue-white-dwarf-asteroid-belt",
+      "title": "What If Sebuah White Dwarf Menabrak Tata Surya dan Menghancurkan Sabuk Asteroid?",
+      "path": "/home/runner/work/konten3/konten3/output/20261024_113223_what-if-rogue-white-dwarf-asteroid-belt/final.mp4",
+      "video_id": "P3tbzdEMPYk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 215
+  "_voice_idx": 216
 }
