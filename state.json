@@ -219,7 +219,8 @@
     "what-if-ice-comet-creates-temporary-atmosphere",
     "what-if-rogue-planet-closest-approach",
     "what-if-pulsar-gamma-ray-penetrates-earth-atmosphere",
-    "what-if-rogue-white-dwarf-asteroid-belt"
+    "what-if-rogue-white-dwarf-asteroid-belt",
+    "what-if-gamma-ray-burst-atmosphere-obliteration"
   ],
   "published": [
     {
@@ -2363,7 +2364,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261024_233202",
+      "topic": "what-if-gamma-ray-burst-atmosphere-obliteration",
+      "title": "What If Sinar Gamma Supernova Membakar Atmosfer Bumi Selama Satu Hari? Simulasi Ekstrem!",
+      "path": "/home/runner/work/konten3/konten3/output/20261024_233202_what-if-gamma-ray-burst-atmosphere-obliteration/final.mp4",
+      "video_id": "-xSORSO0PW8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 216
+  "_voice_idx": 217
 }
