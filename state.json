@@ -220,7 +220,8 @@
     "what-if-rogue-planet-closest-approach",
     "what-if-pulsar-gamma-ray-penetrates-earth-atmosphere",
     "what-if-rogue-white-dwarf-asteroid-belt",
-    "what-if-gamma-ray-burst-atmosphere-obliteration"
+    "what-if-gamma-ray-burst-atmosphere-obliteration",
+    "what-if-quasar-jet-hits-oort-cloud"
   ],
   "published": [
     {
@@ -2374,7 +2375,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261025_113204",
+      "topic": "what-if-quasar-jet-hits-oort-cloud",
+      "title": "What If Sebuah Jet Quasar Menembus Oort Cloud dan Menghantam Bumi? \u2013 Simulasi Ekstrem",
+      "path": "/home/runner/work/konten3/konten3/output/20261025_113204_what-if-quasar-jet-hits-oort-cloud/final.mp4",
+      "video_id": "ZLqK7zYkHLc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 217
+  "_voice_idx": 218
 }
