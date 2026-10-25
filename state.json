@@ -221,7 +221,8 @@
     "what-if-pulsar-gamma-ray-penetrates-earth-atmosphere",
     "what-if-rogue-white-dwarf-asteroid-belt",
     "what-if-gamma-ray-burst-atmosphere-obliteration",
-    "what-if-quasar-jet-hits-oort-cloud"
+    "what-if-quasar-jet-hits-oort-cloud",
+    "what-if-rogue-black-hole-oort-cloud"
   ],
   "published": [
     {
@@ -2385,7 +2386,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261025_233223",
+      "topic": "what-if-rogue-black-hole-oort-cloud",
+      "title": "Jika Lubang Hitam Rogu Menyusup Oort, Komet Menghantam Bumi? Simulasi Ekstrem!",
+      "path": "/home/runner/work/konten3/konten3/output/20261025_233223_what-if-rogue-black-hole-oort-cloud/final.mp4",
+      "video_id": "xS8DFDeXHvU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 218
+  "_voice_idx": 219
 }
