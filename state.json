@@ -223,7 +223,8 @@
     "what-if-gamma-ray-burst-atmosphere-obliteration",
     "what-if-quasar-jet-hits-oort-cloud",
     "what-if-rogue-black-hole-oort-cloud",
-    "what-if-nearby-supernova-sterilizes-earth"
+    "what-if-nearby-supernova-sterilizes-earth",
+    "what-if-cosmic-energy-wave-penetrates-earth-core"
   ],
   "published": [
     {
@@ -2407,7 +2408,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261026_233202",
+      "topic": "what-if-cosmic-energy-wave-penetrates-earth-core",
+      "title": "What If Gelombang Energi Kosmik Menembus Inti Bumi dan Membuat Magnetosfer Runtuh?",
+      "path": "/home/runner/work/konten3/konten3/output/20261026_233202_what-if-cosmic-energy-wave-penetrates-earth-core/final.mp4",
+      "video_id": "xc1najeo-3U",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 220
+  "_voice_idx": 221
 }
