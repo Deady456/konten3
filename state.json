@@ -222,7 +222,8 @@
     "what-if-rogue-white-dwarf-asteroid-belt",
     "what-if-gamma-ray-burst-atmosphere-obliteration",
     "what-if-quasar-jet-hits-oort-cloud",
-    "what-if-rogue-black-hole-oort-cloud"
+    "what-if-rogue-black-hole-oort-cloud",
+    "what-if-nearby-supernova-sterilizes-earth"
   ],
   "published": [
     {
@@ -2396,7 +2397,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261026_113229",
+      "topic": "what-if-nearby-supernova-sterilizes-earth",
+      "title": "What If Supernova Dekat Membakar Bumi? Simulasi Bencana Kosmik Ekstrem",
+      "path": "/home/runner/work/konten3/konten3/output/20261026_113229_what-if-nearby-supernova-sterilizes-earth/final.mp4",
+      "video_id": "qmkXGpSL5oI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 219
+  "_voice_idx": 220
 }
