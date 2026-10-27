@@ -225,7 +225,8 @@
     "what-if-rogue-black-hole-oort-cloud",
     "what-if-nearby-supernova-sterilizes-earth",
     "what-if-cosmic-energy-wave-penetrates-earth-core",
-    "what-if-interstellar-dust-cloud-blocks-sunlight"
+    "what-if-interstellar-dust-cloud-blocks-sunlight",
+    "what-if-primordial-black-hole-core"
   ],
   "published": [
     {
@@ -2429,7 +2430,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261027_233204",
+      "topic": "what-if-primordial-black-hole-core",
+      "title": "What If Sebuah Lubang Hitam Primordial Melintas Melalui Inti Bumi? Simulasi Ekstrem yang Mengguncang!",
+      "path": "/home/runner/work/konten3/konten3/output/20261027_233204_what-if-primordial-black-hole-core/final.mp4",
+      "video_id": "_gS54rcpymQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 222
+  "_voice_idx": 223
 }
