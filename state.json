@@ -224,7 +224,8 @@
     "what-if-quasar-jet-hits-oort-cloud",
     "what-if-rogue-black-hole-oort-cloud",
     "what-if-nearby-supernova-sterilizes-earth",
-    "what-if-cosmic-energy-wave-penetrates-earth-core"
+    "what-if-cosmic-energy-wave-penetrates-earth-core",
+    "what-if-interstellar-dust-cloud-blocks-sunlight"
   ],
   "published": [
     {
@@ -2418,7 +2419,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261027_113201",
+      "topic": "what-if-interstellar-dust-cloud-blocks-sunlight",
+      "title": "What If A Gigantic Interstellar Dust Cloud Blots Out Our Sun? \u2013 Dampak Global",
+      "path": "/home/runner/work/konten3/konten3/output/20261027_113201_what-if-interstellar-dust-cloud-blocks-sunlight/final.mp4",
+      "video_id": "cJ4DLV34iS4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 221
+  "_voice_idx": 222
 }
