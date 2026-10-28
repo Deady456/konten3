@@ -226,7 +226,8 @@
     "what-if-nearby-supernova-sterilizes-earth",
     "what-if-cosmic-energy-wave-penetrates-earth-core",
     "what-if-interstellar-dust-cloud-blocks-sunlight",
-    "what-if-primordial-black-hole-core"
+    "what-if-primordial-black-hole-core",
+    "what-if-dark-matter-filament-encounters-earth"
   ],
   "published": [
     {
@@ -2440,7 +2441,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261028_113226",
+      "topic": "what-if-dark-matter-filament-encounters-earth",
+      "title": "Jika Filamen Materi Gelap Menyambar Bumi: Gravitasi Hilang dan Dunia Terbalik",
+      "path": "/home/runner/work/konten3/konten3/output/20261028_113226_what-if-dark-matter-filament-encounters-earth/final.mp4",
+      "video_id": "UeacVyDo_V0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 223
+  "_voice_idx": 224
 }
