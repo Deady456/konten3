@@ -227,7 +227,8 @@
     "what-if-cosmic-energy-wave-penetrates-earth-core",
     "what-if-interstellar-dust-cloud-blocks-sunlight",
     "what-if-primordial-black-hole-core",
-    "what-if-dark-matter-filament-encounters-earth"
+    "what-if-dark-matter-filament-encounters-earth",
+    "what-if-magnetic-field-collapse-solar-storm"
   ],
   "published": [
     {
@@ -2451,7 +2452,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261028_233324",
+      "topic": "what-if-magnetic-field-collapse-solar-storm",
+      "title": "What If Bumi Kehilangan Medan Magnetik Selama Satu Menit Karena Badai Matahari Super? Simulasi Mengguncang",
+      "path": "/home/runner/work/konten3/konten3/output/20261028_233324_what-if-magnetic-field-collapse-solar-storm/final.mp4",
+      "video_id": "8mX5fK7XgCU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 224
+  "_voice_idx": 225
 }
