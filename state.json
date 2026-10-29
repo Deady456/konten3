@@ -228,7 +228,8 @@
     "what-if-interstellar-dust-cloud-blocks-sunlight",
     "what-if-primordial-black-hole-core",
     "what-if-dark-matter-filament-encounters-earth",
-    "what-if-magnetic-field-collapse-solar-storm"
+    "what-if-magnetic-field-collapse-solar-storm",
+    "what-if-microscopic-white-dwarf-impact"
   ],
   "published": [
     {
@@ -2462,7 +2463,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261029_113202",
+      "topic": "what-if-microscopic-white-dwarf-impact",
+      "title": "What If Sebuah Bintang Kerdil Putih Mini Menabrak Inti Bumi? Simulasi Ekstrem yang Mengguncang",
+      "path": "/home/runner/work/konten3/konten3/output/20261029_113202_what-if-microscopic-white-dwarf-impact/final.mp4",
+      "video_id": "6SxTPmJLIhI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 225
+  "_voice_idx": 226
 }
