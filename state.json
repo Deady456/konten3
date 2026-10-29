@@ -229,7 +229,8 @@
     "what-if-primordial-black-hole-core",
     "what-if-dark-matter-filament-encounters-earth",
     "what-if-magnetic-field-collapse-solar-storm",
-    "what-if-microscopic-white-dwarf-impact"
+    "what-if-microscopic-white-dwarf-impact",
+    "what-if-man-made-micro-black-hole-penetrates-earth-core"
   ],
   "published": [
     {
@@ -2473,7 +2474,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261029_233211",
+      "topic": "what-if-man-made-micro-black-hole-penetrates-earth-core",
+      "title": "Jika Lubang Hitam Buatan Menembus Inti Bumi: Bencana Ekstrem yang Bisa Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20261029_233211_what-if-man-made-micro-black-hole-penetrates-earth-core/final.mp4",
+      "video_id": "5K4gpXYCRjw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 226
+  "_voice_idx": 227
 }
