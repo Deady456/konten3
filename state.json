@@ -231,7 +231,8 @@
     "what-if-magnetic-field-collapse-solar-storm",
     "what-if-microscopic-white-dwarf-impact",
     "what-if-man-made-micro-black-hole-penetrates-earth-core",
-    "what-if-fast-radio-burst-hits-earth"
+    "what-if-fast-radio-burst-hits-earth",
+    "what-if-dark-energy-vortex-pierces-earth-mantle"
   ],
   "published": [
     {
@@ -2495,7 +2496,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261030_233252",
+      "topic": "what-if-dark-energy-vortex-pierces-earth-mantle",
+      "title": "Jika Pusaran Energi Gelap Menembus Mantel Bumi: Bencana Kosmik Ekstrem yang Tidak Terduga",
+      "path": "/home/runner/work/konten3/konten3/output/20261030_233252_what-if-dark-energy-vortex-pierces-earth-mantle/final.mp4",
+      "video_id": "VJ7qqPjoPO0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 228
+  "_voice_idx": 229
 }
