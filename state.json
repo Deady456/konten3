@@ -230,7 +230,8 @@
     "what-if-dark-matter-filament-encounters-earth",
     "what-if-magnetic-field-collapse-solar-storm",
     "what-if-microscopic-white-dwarf-impact",
-    "what-if-man-made-micro-black-hole-penetrates-earth-core"
+    "what-if-man-made-micro-black-hole-penetrates-earth-core",
+    "what-if-fast-radio-burst-hits-earth"
   ],
   "published": [
     {
@@ -2484,7 +2485,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261030_113215",
+      "topic": "what-if-fast-radio-burst-hits-earth",
+      "title": "What If Fast Radio Burst Menghancurkan Bumi? Simulasi Ekstrem dan Misteri Antariksa",
+      "path": "/home/runner/work/konten3/konten3/output/20261030_113215_what-if-fast-radio-burst-hits-earth/final.mp4",
+      "video_id": "1gUeVZ0c5Uk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 227
+  "_voice_idx": 228
 }
