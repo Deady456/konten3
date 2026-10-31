@@ -233,7 +233,8 @@
     "what-if-man-made-micro-black-hole-penetrates-earth-core",
     "what-if-fast-radio-burst-hits-earth",
     "what-if-dark-energy-vortex-pierces-earth-mantle",
-    "what-if-micro-wormhole-earth-core"
+    "what-if-micro-wormhole-earth-core",
+    "what-if-cosmic-string-pierces-earth"
   ],
   "published": [
     {
@@ -2517,7 +2518,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261031_233415",
+      "topic": "what-if-cosmic-string-pierces-earth",
+      "title": "Jika Sebuah Cosmic String Menembus Bumi: Dampak Menghancurkan yang Tak Terduga",
+      "path": "/home/runner/work/konten3/konten3/output/20261031_233415_what-if-cosmic-string-pierces-earth/final.mp4",
+      "video_id": "Ch5gGT55fbc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 230
+  "_voice_idx": 231
 }
