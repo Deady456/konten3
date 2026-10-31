@@ -232,7 +232,8 @@
     "what-if-microscopic-white-dwarf-impact",
     "what-if-man-made-micro-black-hole-penetrates-earth-core",
     "what-if-fast-radio-burst-hits-earth",
-    "what-if-dark-energy-vortex-pierces-earth-mantle"
+    "what-if-dark-energy-vortex-pierces-earth-mantle",
+    "what-if-micro-wormhole-earth-core"
   ],
   "published": [
     {
@@ -2506,7 +2507,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261031_113305",
+      "topic": "what-if-micro-wormhole-earth-core",
+      "title": "What If Sebuah Mikro\u2011Wormhole Membuka Inti Bumi dan Membekukan Planet?",
+      "path": "/home/runner/work/konten3/konten3/output/20261031_113305_what-if-micro-wormhole-earth-core/final.mp4",
+      "video_id": "lgBUz3Prs1U",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 229
+  "_voice_idx": 230
 }
