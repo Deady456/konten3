@@ -234,7 +234,8 @@
     "what-if-fast-radio-burst-hits-earth",
     "what-if-dark-energy-vortex-pierces-earth-mantle",
     "what-if-micro-wormhole-earth-core",
-    "what-if-cosmic-string-pierces-earth"
+    "what-if-cosmic-string-pierces-earth",
+    "what-if-micrometeoroid-geomagnetic-reversal"
   ],
   "published": [
     {
@@ -2528,7 +2529,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261101_113202",
+      "topic": "what-if-micrometeoroid-geomagnetic-reversal",
+      "title": "What If Hujan Mikrometeoroid Memicu Pembalikan Medan Magnet Bumi dalam Hitungan Jam?",
+      "path": "/home/runner/work/konten3/konten3/output/20261101_113202_what-if-micrometeoroid-geomagnetic-reversal/final.mp4",
+      "video_id": "fon7mwqpPXg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 231
+  "_voice_idx": 232
 }
