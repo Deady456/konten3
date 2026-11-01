@@ -235,7 +235,8 @@
     "what-if-dark-energy-vortex-pierces-earth-mantle",
     "what-if-micro-wormhole-earth-core",
     "what-if-cosmic-string-pierces-earth",
-    "what-if-micrometeoroid-geomagnetic-reversal"
+    "what-if-micrometeoroid-geomagnetic-reversal",
+    "what-if-supernova-magnetosphere-compression"
   ],
   "published": [
     {
@@ -2539,7 +2540,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261101_233225",
+      "topic": "what-if-supernova-magnetosphere-compression",
+      "title": "What If Supernova Supercerah sepuluh Tahun Cahaya Menghancurkan Magnetosfer Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20261101_233225_what-if-supernova-magnetosphere-compression/final.mp4",
+      "video_id": "3PB7RbFPqEo",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 232
+  "_voice_idx": 233
 }
