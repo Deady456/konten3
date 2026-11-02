@@ -237,7 +237,8 @@
     "what-if-cosmic-string-pierces-earth",
     "what-if-micrometeoroid-geomagnetic-reversal",
     "what-if-supernova-magnetosphere-compression",
-    "what-if-magnetar-energi-kerak-bumi"
+    "what-if-magnetar-energi-kerak-bumi",
+    "what-if-quasar-ramming-atmosphere"
   ],
   "published": [
     {
@@ -2561,7 +2562,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261102_233223",
+      "topic": "what-if-quasar-ramming-atmosphere",
+      "title": "Jika Quasar Raksasa Menelan Atmosfer Bumi: Dampak Menghancurkan dalam Hitungan Menit",
+      "path": "/home/runner/work/konten3/konten3/output/20261102_233223_what-if-quasar-ramming-atmosphere/final.mp4",
+      "video_id": "XBaYKxKmTkc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 234
+  "_voice_idx": 235
 }
