@@ -236,7 +236,8 @@
     "what-if-micro-wormhole-earth-core",
     "what-if-cosmic-string-pierces-earth",
     "what-if-micrometeoroid-geomagnetic-reversal",
-    "what-if-supernova-magnetosphere-compression"
+    "what-if-supernova-magnetosphere-compression",
+    "what-if-magnetar-energi-kerak-bumi"
   ],
   "published": [
     {
@@ -2550,7 +2551,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261102_113231",
+      "topic": "what-if-magnetar-energi-kerak-bumi",
+      "title": "What If Sinar Magnetar Menembus Kerak Bumi dan Membelah Planet Menjadi Retakan Raksasa?",
+      "path": "/home/runner/work/konten3/konten3/output/20261102_113231_what-if-magnetar-energi-kerak-bumi/final.mp4",
+      "video_id": "5lTewk7-js0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 233
+  "_voice_idx": 234
 }
