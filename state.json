@@ -239,7 +239,8 @@
     "what-if-supernova-magnetosphere-compression",
     "what-if-magnetar-energi-kerak-bumi",
     "what-if-quasar-ramming-atmosphere",
-    "what-if-gravitational-wave-vanishes-gravity"
+    "what-if-gravitational-wave-vanishes-gravity",
+    "what-if-magnetar-beam-sweeps-earth"
   ],
   "published": [
     {
@@ -2583,7 +2584,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261103_233222",
+      "topic": "what-if-magnetar-beam-sweeps-earth",
+      "title": "What If Sinar Mematikan Magnetar Menyapu Bumi Selama Lima Detik? Dampaknya Mengejutkan!",
+      "path": "/home/runner/work/konten3/konten3/output/20261103_233222_what-if-magnetar-beam-sweeps-earth/final.mp4",
+      "video_id": "GSHPwPZw3ik",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 236
+  "_voice_idx": 237
 }
