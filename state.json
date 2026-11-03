@@ -238,7 +238,8 @@
     "what-if-micrometeoroid-geomagnetic-reversal",
     "what-if-supernova-magnetosphere-compression",
     "what-if-magnetar-energi-kerak-bumi",
-    "what-if-quasar-ramming-atmosphere"
+    "what-if-quasar-ramming-atmosphere",
+    "what-if-gravitational-wave-vanishes-gravity"
   ],
   "published": [
     {
@@ -2572,7 +2573,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261103_113222",
+      "topic": "what-if-gravitational-wave-vanishes-gravity",
+      "title": "What If Gelombang Gravitasi Menghilangkan Gravitasi Bumi Selama Lima Detik?",
+      "path": "/home/runner/work/konten3/konten3/output/20261103_113222_what-if-gravitational-wave-vanishes-gravity/final.mp4",
+      "video_id": "oPv7BaL8-Vg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 235
+  "_voice_idx": 236
 }
