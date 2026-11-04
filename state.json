@@ -240,7 +240,8 @@
     "what-if-magnetar-energi-kerak-bumi",
     "what-if-quasar-ramming-atmosphere",
     "what-if-gravitational-wave-vanishes-gravity",
-    "what-if-magnetar-beam-sweeps-earth"
+    "what-if-magnetar-beam-sweeps-earth",
+    "what-if-neutron-star-merger-gravitational-waves-rupture-earth"
   ],
   "published": [
     {
@@ -2594,7 +2595,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261104_113234",
+      "topic": "what-if-neutron-star-merger-gravitational-waves-rupture-earth",
+      "title": "Jika Gelombang Gravitasi dari Penggabungan Bintang Neutron Mengguncang Bumi, Apa yang Terjadi?",
+      "path": "/home/runner/work/konten3/konten3/output/20261104_113234_what-if-neutron-star-merger-gravitational-waves-rupture-eart/final.mp4",
+      "video_id": "5plWjhPHZUM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 237
+  "_voice_idx": 238
 }
