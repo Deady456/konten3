@@ -241,7 +241,8 @@
     "what-if-quasar-ramming-atmosphere",
     "what-if-gravitational-wave-vanishes-gravity",
     "what-if-magnetar-beam-sweeps-earth",
-    "what-if-neutron-star-merger-gravitational-waves-rupture-earth"
+    "what-if-neutron-star-merger-gravitational-waves-rupture-earth",
+    "what-if-rogue-white-dwarf-collides-sun"
   ],
   "published": [
     {
@@ -2605,7 +2606,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261104_233210",
+      "topic": "what-if-rogue-white-dwarf-collides-sun",
+      "title": "What If Sebuah Bintang Kerdil Putih Menabrak Matahari? Dampak Ekstrem yang Mengguncang Bumi",
+      "path": "/home/runner/work/konten3/konten3/output/20261104_233210_what-if-rogue-white-dwarf-collides-sun/final.mp4",
+      "video_id": "nZ_EETD3biQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 238
+  "_voice_idx": 239
 }
