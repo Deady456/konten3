@@ -242,7 +242,8 @@
     "what-if-gravitational-wave-vanishes-gravity",
     "what-if-magnetar-beam-sweeps-earth",
     "what-if-neutron-star-merger-gravitational-waves-rupture-earth",
-    "what-if-rogue-white-dwarf-collides-sun"
+    "what-if-rogue-white-dwarf-collides-sun",
+    "what-if-white-dwarf-mercury-moon-impact"
   ],
   "published": [
     {
@@ -2616,7 +2617,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261105_113239",
+      "topic": "what-if-white-dwarf-mercury-moon-impact",
+      "title": "What If Sebuah White Dwarf Menabrak Merkurius dan Menggiring Bulan Menabrak Bumi?",
+      "path": "/home/runner/work/konten3/konten3/output/20261105_113239_what-if-white-dwarf-mercury-moon-impact/final.mp4",
+      "video_id": "E5vDy4GTGCo",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 239
+  "_voice_idx": 240
 }
